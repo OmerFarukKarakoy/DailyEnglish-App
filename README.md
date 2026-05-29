@@ -79,7 +79,7 @@ The application focuses on an intelligent feedback loop that optimizes how langu
 *Detailed performance breakdown showing calculated coefficients, learning recommendations, and dynamic regression feedback.*
 
 <img width="350" alt="Performance" src="https://github.com/user-attachments/assets/2566c490-e53e-4fac-b05c-d83fe2d54cf7" />
-<img width="1045" height="2048" alt="Performance2" src="https://github.com/user-attachments/assets/3cb84b90-9f92-46b5-a799-a2518975712d" />
+<img width="350" alt="Performance2" src="https://github.com/user-attachments/assets/3cb84b90-9f92-46b5-a799-a2518975712d" />
 
 ---
 
