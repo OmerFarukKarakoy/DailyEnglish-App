@@ -44,6 +44,7 @@ The application focuses on an intelligent feedback loop that optimizes how langu
 *A clean, distraction-free home interface with modern visual components for active language courses.*
 
 <img width="350" alt="Main" src="https://github.com/user-attachments/assets/1ab18c9c-ce00-4cbb-b6ae-66bd2e0a504b" />
+<img width="350" alt="Main2" src="https://github.com/user-attachments/assets/95b0e71d-af35-4318-a2d3-a447e131f68e" />
 
 ### 2. Intelligent Quiz Interface
 *Interactive quiz screen featuring real-time tracking that feeds into the TensorFlow.js execution engine.*
