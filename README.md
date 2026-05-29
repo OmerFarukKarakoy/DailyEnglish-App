@@ -60,26 +60,26 @@ The application focuses on an intelligent feedback loop that optimizes how langu
 
 <img width="350" alt="Vocabulary Dictionary" src="https://github.com/user-attachments/assets/6b4865bd-d57d-4e25-a82e-413a1494acef" />
 
-### 5. AI Performance Analytics & Feedback
-*Detailed performance breakdown showing calculated coefficients, learning recommendations, and dynamic regression feedback.*
-
-<img width="350" alt="Performance" src="https://github.com/user-attachments/assets/2566c490-e53e-4fac-b05c-d83fe2d54cf7" />
-<img width="350" alt="Performance2" src="https://github.com/user-attachments/assets/77ffe11c-56e7-4f39-bc98-522151db6eef" />
-
-### 6. Preposition Dictionary
+### 5. Preposition Dictionary
 *A specialized dictionary segment dedicated to mastering English prepositions with precise visual and sentence examples.*
 
 <img width="350" alt="Preposition Dictionary" src="https://github.com/user-attachments/assets/7feeaf7b-a71b-4b92-909b-6cb6d9cb9255" />
 
-### 7. Conjunctions Dictionary
+### 6. Conjunctions Dictionary
 *Advanced connector module focused on conjunctions to help users build complex, grammatically accurate sentences.*
 
 <img width="350" alt="Conjunctions Dictionary" src="https://github.com/user-attachments/assets/1a57ea05-9491-4090-a9d8-e80c854c4fd2" />
 
-### 8. Phrasal Verbs Dictionary
+### 7. Phrasal Verbs Dictionary
 *A dedicated repository for tracking idioms and phrasal verbs, bridging the gap between textbook English and fluent speaking.*
 
 <img width="350" alt="Phrasal Verbs Dictionary" src="https://github.com/user-attachments/assets/265a8825-5866-47f3-9288-474353e05176" />
+
+### 8. AI Performance Analytics & Feedback
+*Detailed performance breakdown showing calculated coefficients, learning recommendations, and dynamic regression feedback.*
+
+<img width="350" alt="Performance" src="https://github.com/user-attachments/assets/2566c490-e53e-4fac-b05c-d83fe2d54cf7" />
+<img width="1045" height="2048" alt="Performance2" src="https://github.com/user-attachments/assets/3cb84b90-9f92-46b5-a799-a2518975712d" />
 
 ---
 
