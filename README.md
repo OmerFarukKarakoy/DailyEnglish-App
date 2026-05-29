@@ -42,15 +42,35 @@ The application focuses on an intelligent feedback loop that optimizes how langu
 
 ### 1. Main Dashboard & Active Tracks
 *A clean, distraction-free home interface with modern visual components for active language courses.*
-<img width="400" alt="1-Dashboard" src="https://github.com/user-attachments/assets/placeholder-id-1" />
+<img width="1049" height="2048" alt="Main" src="https://github.com/user-attachments/assets/1ab18c9c-ce00-4cbb-b6ae-66bd2e0a504b" />
 
 ### 2. Intelligent Quiz Interface
 *Interactive quiz screen featuring real-time tracking that feeds into the TensorFlow.js execution engine.*
-<img width="400" alt="2-QuizInterface" src="https://github.com/user-attachments/assets/placeholder-id-2" />
+<img width="1049" height="2048" alt="Quiz" src="https://github.com/user-attachments/assets/a41ce836-01cb-458a-b243-a6469bbbd130" />
 
-### 3. AI Performance Analytics & Feedback
+### 3. Notebook
+*A personalized space where users can store, review, and track their flagged vocabulary and custom study notes.*
+<img width="1049" height="2048" alt="Notebook" src="https://github.com/user-attachments/assets/d928f204-9a20-40d4-b12c-f5c60d8e4d10" />
+
+### 4. Dictionary
+*The core comprehensive dictionary module providing fast, localized definitions and contextual usage examples.*
+<img width="1049" height="2048" alt="Vocabulary Dictionary" src="https://github.com/user-attachments/assets/6b4865bd-d57d-4e25-a82e-413a1494acef" />
+
+### 5. AI Performance Analytics & Feedback
 *Detailed performance breakdown showing calculated coefficients, learning recommendations, and dynamic regression feedback.*
-<img width="400" alt="3-Analytics" src="https://github.com/user-attachments/assets/placeholder-id-3" />
+<img width="1049" height="2048" alt="Performance" src="https://github.com/user-attachments/assets/2566c490-e53e-4fac-b05c-d83fe2d54cf7" />
+
+### 6. Preposition Dictionary
+*A specialized dictionary segment dedicated to mastering English prepositions with precise visual and sentence examples.*
+<img width="1049" height="2048" alt="Preposition Dictionary" src="https://github.com/user-attachments/assets/7feeaf7b-a71b-4b92-909b-6cb6d9cb9255" />
+
+### 7. Conjunctions Dictionary
+*Advanced connector module focused on conjunctions to help users build complex, grammatically accurate sentences.*
+<img width="1049" height="2048" alt="Conjunctions Dictionary" src="https://github.com/user-attachments/assets/1a57ea05-9491-4090-a9d8-e80c854c4fd2" />
+
+### 8. Phrasal Verbs Dictionary
+*A dedicated repository for tracking idioms and phrasal verbs, bridging the gap between textbook English and fluent speaking.*
+<img width="1049" height="2048" alt="Phrasal Verbs Dictionary" src="https://github.com/user-attachments/assets/265a8825-5866-47f3-9288-474353e05176" />
 
 ---
 
@@ -75,21 +95,23 @@ git clone [https://github.com/OmerFarukKarakoy/DailyEnglish.git](https://github.
 cd DailyEnglish
 ```
 ### 2. Install required dependencies
-npm install
-```Or if you use yarn:```
-yarn install
+```npm install```
+Or if you use yarn:
+```yarn install```
 
 ### 3. Configure iOS (Optional - If running on a Mac for iOS testing)
+```
 cd ios
 pod install
 cd ..
+```
 
 ### 4. Run the Program
 Make sure you have an Android Emulator, iOS Simulator, or a physical device connected.
 For Android:
-npx react-native run-android
+```npx react-native run-android```
 For iOS:
-npx react-native run-ios
+```npx react-native run-ios```
 
 ---
 
