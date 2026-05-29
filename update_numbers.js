@@ -30,8 +30,8 @@ for (const [filename, num] of Object.entries(map)) {
   const filepath = path.join(dir, filename);
   if (fs.existsSync(filepath)) {
     let content = fs.readFileSync(filepath, 'utf8');
-    // Sadece ana objenin ismindeki sayıyı değiştirmek istiyoruz.
-    // İlk 'name:' alanını bulup sayısını değiştirelim
+    // Sadece ana objenin ismindeki sayıyı
+    // İlk 'name:' alanını bulup sayısını değiştirme
     content = content.replace(/name:\s*['"]\d+-([^'"]*)['"]/, `name: '${num}-$1'`);
     fs.writeFileSync(filepath, content);
     console.log(`Updated ${filename} -> ${num}`);
