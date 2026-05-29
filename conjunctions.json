@@ -1,0 +1,1523 @@
+[
+  {
+    "id": 1,
+    "word": "and",
+    "translation": "ve",
+    "type": "Coordinating",
+    "level": "A1",
+    "example_sentence": "I like tea and coffee.",
+    "pronunciation": "/ænd/"
+  },
+  {
+    "id": 2,
+    "word": "but",
+    "translation": "ama, ancak",
+    "type": "Coordinating",
+    "level": "A1",
+    "example_sentence": "She is smart but lazy.",
+    "pronunciation": "/bʌt/"
+  },
+  {
+    "id": 3,
+    "word": "or",
+    "translation": "veya, ya da",
+    "type": "Coordinating",
+    "level": "A1",
+    "example_sentence": "Do you want tea or coffee?",
+    "pronunciation": "/ɔːr/"
+  },
+  {
+    "id": 4,
+    "word": "nor",
+    "translation": "ne de",
+    "type": "Coordinating",
+    "level": "B1",
+    "example_sentence": "He doesn't eat meat, nor does he drink milk.",
+    "pronunciation": "/nɔːr/"
+  },
+  {
+    "id": 5,
+    "word": "for",
+    "translation": "-den dolayı, çünkü",
+    "type": "Coordinating",
+    "level": "B2",
+    "example_sentence": "She stayed home, for she was feeling ill.",
+    "pronunciation": "/fɔːr/"
+  },
+  {
+    "id": 6,
+    "word": "yet",
+    "translation": "ama, ancak, yine de",
+    "type": "Coordinating",
+    "level": "B1",
+    "example_sentence": "He is rich, yet he is unhappy.",
+    "pronunciation": "/jɛt/"
+  },
+  {
+    "id": 7,
+    "word": "so",
+    "translation": "bu yüzden, bundan dolayı",
+    "type": "Coordinating",
+    "level": "A1",
+    "example_sentence": "It was raining, so we stayed inside.",
+    "pronunciation": "/soʊ/"
+  },
+  {
+    "id": 8,
+    "word": "because",
+    "translation": "-den dolayı, çünkü",
+    "type": "Subordinating - Cause/Reason",
+    "level": "A1",
+    "example_sentence": "She is tired because she worked all day.",
+    "pronunciation": "/bɪˈkɒz/"
+  },
+  {
+    "id": 9,
+    "word": "since",
+    "translation": "-den dolayı, çünkü / -den beri",
+    "type": "Subordinating - Cause/Time",
+    "level": "A2",
+    "example_sentence": "Since you are here, let's start the meeting.",
+    "pronunciation": "/sɪns/"
+  },
+  {
+    "id": 10,
+    "word": "as",
+    "translation": "-den dolayı, çünkü / gibi / olarak / iken",
+    "type": "Subordinating - Cause/Time/Manner",
+    "level": "A2",
+    "example_sentence": "As she walked in, everyone looked at her.",
+    "pronunciation": "/æz/"
+  },
+  {
+    "id": 11,
+    "word": "given that",
+    "translation": "-den dolayı, çünkü / -dığı göz önünde bulundurulursa",
+    "type": "Subordinating - Cause/Reason",
+    "level": "C1",
+    "example_sentence": "Given that she is new, she did very well.",
+    "pronunciation": "/ˈɡɪvən ðæt/"
+  },
+  {
+    "id": 12,
+    "word": "seeing that",
+    "translation": "-den dolayı, çünkü",
+    "type": "Subordinating - Cause/Reason",
+    "level": "C1",
+    "example_sentence": "Seeing that it was late, we decided to leave.",
+    "pronunciation": "/ˈsiːɪŋ ðæt/"
+  },
+  {
+    "id": 13,
+    "word": "in that",
+    "translation": "çünkü, şu yönüyle",
+    "type": "Subordinating - Cause/Reason",
+    "level": "C1",
+    "example_sentence": "The plan is flawed in that it ignores the costs.",
+    "pronunciation": "/ɪn ðæt/"
+  },
+  {
+    "id": 14,
+    "word": "due to",
+    "translation": "-den dolayı",
+    "type": "Preposition - Cause/Reason",
+    "level": "B1",
+    "example_sentence": "The match was cancelled due to heavy rain.",
+    "pronunciation": "/djuː tuː/"
+  },
+  {
+    "id": 15,
+    "word": "because of",
+    "translation": "-den dolayı",
+    "type": "Preposition - Cause/Reason",
+    "level": "A2",
+    "example_sentence": "We stayed inside because of the storm.",
+    "pronunciation": "/bɪˈkɒz ɒv/"
+  },
+  {
+    "id": 16,
+    "word": "owing to",
+    "translation": "-den dolayı",
+    "type": "Preposition - Cause/Reason",
+    "level": "B2",
+    "example_sentence": "Owing to the traffic, he arrived late.",
+    "pronunciation": "/ˈoʊɪŋ tuː/"
+  },
+  {
+    "id": 17,
+    "word": "on account of",
+    "translation": "-den dolayı",
+    "type": "Preposition - Cause/Reason",
+    "level": "B2",
+    "example_sentence": "He was absent on account of illness.",
+    "pronunciation": "/ɒn əˈkaʊnt ɒv/"
+  },
+  {
+    "id": 18,
+    "word": "as a result of",
+    "translation": "-den dolayı, sonucunda",
+    "type": "Preposition - Cause/Reason",
+    "level": "B1",
+    "example_sentence": "As a result of the accident, traffic was delayed.",
+    "pronunciation": "/æz ə rɪˈzʌlt ɒv/"
+  },
+  {
+    "id": 19,
+    "word": "thanks to",
+    "translation": "-nın sayesinde",
+    "type": "Preposition - Cause/Reason",
+    "level": "B1",
+    "example_sentence": "Thanks to her help, we finished on time.",
+    "pronunciation": "/θæŋks tuː/"
+  },
+  {
+    "id": 20,
+    "word": "therefore",
+    "translation": "bu yüzden, bundan dolayı",
+    "type": "Conjunctive Adverb - Result",
+    "level": "B1",
+    "example_sentence": "She was ill; therefore, she stayed at home.",
+    "pronunciation": "/ˈðɛrəfɔːr/"
+  },
+  {
+    "id": 21,
+    "word": "thus",
+    "translation": "bu yüzden, bundan dolayı",
+    "type": "Conjunctive Adverb - Result",
+    "level": "B2",
+    "example_sentence": "He studied hard; thus, he passed the exam.",
+    "pronunciation": "/ðʌs/"
+  },
+  {
+    "id": 22,
+    "word": "hence",
+    "translation": "bu yüzden, bundan dolayı",
+    "type": "Conjunctive Adverb - Result",
+    "level": "C1",
+    "example_sentence": "The road was blocked; hence, we took another route.",
+    "pronunciation": "/hɛns/"
+  },
+  {
+    "id": 23,
+    "word": "consequently",
+    "translation": "bu yüzden, bundan dolayı",
+    "type": "Conjunctive Adverb - Result",
+    "level": "B2",
+    "example_sentence": "He missed the bus; consequently, he was late.",
+    "pronunciation": "/ˈkɒnsɪkwəntli/"
+  },
+  {
+    "id": 24,
+    "word": "accordingly",
+    "translation": "bu yüzden, bundan dolayı",
+    "type": "Conjunctive Adverb - Result",
+    "level": "C1",
+    "example_sentence": "The rules changed; accordingly, we updated the policy.",
+    "pronunciation": "/əˈkɔːrdɪŋli/"
+  },
+  {
+    "id": 25,
+    "word": "as a result",
+    "translation": "bu yüzden, sonuç olarak",
+    "type": "Conjunctive Adverb - Result",
+    "level": "B1",
+    "example_sentence": "She didn't study. As a result, she failed.",
+    "pronunciation": "/æz ə rɪˈzʌlt/"
+  },
+  {
+    "id": 26,
+    "word": "that's why",
+    "translation": "bu yüzden, bundan dolayı",
+    "type": "Conjunctive Adverb - Result",
+    "level": "A2",
+    "example_sentence": "I was tired; that's why I went to bed early.",
+    "pronunciation": "/ðæts waɪ/"
+  },
+  {
+    "id": 27,
+    "word": "so that",
+    "translation": "-sın diye, için",
+    "type": "Subordinating - Purpose",
+    "level": "B1",
+    "example_sentence": "She studied hard so that she could pass the exam.",
+    "pronunciation": "/soʊ ðæt/"
+  },
+  {
+    "id": 28,
+    "word": "in order that",
+    "translation": "-sın diye, amacıyla",
+    "type": "Subordinating - Purpose",
+    "level": "B2",
+    "example_sentence": "He left early in order that he could catch the train.",
+    "pronunciation": "/ɪn ˈɔːrdər ðæt/"
+  },
+  {
+    "id": 29,
+    "word": "in order to",
+    "translation": "-mek, -mak için",
+    "type": "Infinitive - Purpose",
+    "level": "A2",
+    "example_sentence": "She woke up early in order to catch the bus.",
+    "pronunciation": "/ɪn ˈɔːrdər tuː/"
+  },
+  {
+    "id": 30,
+    "word": "so as to",
+    "translation": "-mek, -mak için",
+    "type": "Infinitive - Purpose",
+    "level": "B1",
+    "example_sentence": "He spoke quietly so as to not wake the baby.",
+    "pronunciation": "/soʊ æz tuː/"
+  },
+  {
+    "id": 31,
+    "word": "when",
+    "translation": "-dığında, ne zaman",
+    "type": "Subordinating - Time",
+    "level": "A1",
+    "example_sentence": "When I grow up, I want to be a doctor.",
+    "pronunciation": "/wɛn/"
+  },
+  {
+    "id": 32,
+    "word": "while",
+    "translation": "-iken, sırasında / -e rağmen",
+    "type": "Subordinating - Time/Contrast",
+    "level": "A2",
+    "example_sentence": "She listens to music while she studies.",
+    "pronunciation": "/waɪl/"
+  },
+  {
+    "id": 33,
+    "word": "after",
+    "translation": "-den sonra",
+    "type": "Subordinating - Time",
+    "level": "A1",
+    "example_sentence": "After she finished dinner, she watched TV.",
+    "pronunciation": "/ˈæftər/"
+  },
+  {
+    "id": 34,
+    "word": "before",
+    "translation": "-den önce",
+    "type": "Subordinating - Time",
+    "level": "A1",
+    "example_sentence": "Brush your teeth before you go to bed.",
+    "pronunciation": "/bɪˈfɔːr/"
+  },
+  {
+    "id": 35,
+    "word": "until",
+    "translation": "-e kadar",
+    "type": "Subordinating - Time",
+    "level": "A2",
+    "example_sentence": "Wait here until I come back.",
+    "pronunciation": "/ənˈtɪl/"
+  },
+  {
+    "id": 36,
+    "word": "till",
+    "translation": "-e kadar (until'in günlük dili)",
+    "type": "Subordinating - Time",
+    "level": "A2",
+    "example_sentence": "Stay here till I return.",
+    "pronunciation": "/tɪl/"
+  },
+  {
+    "id": 37,
+    "word": "as soon as",
+    "translation": "-ır, -ırmaz, hemen",
+    "type": "Subordinating - Time",
+    "level": "B1",
+    "example_sentence": "Call me as soon as you arrive.",
+    "pronunciation": "/æz suːn æz/"
+  },
+  {
+    "id": 38,
+    "word": "once",
+    "translation": "-dığında, bir kez",
+    "type": "Subordinating - Time",
+    "level": "B1",
+    "example_sentence": "Once you learn it, you will never forget.",
+    "pronunciation": "/wʌns/"
+  },
+  {
+    "id": 39,
+    "word": "just as",
+    "translation": "tam iken, aynen gibi",
+    "type": "Subordinating - Time/Manner",
+    "level": "B1",
+    "example_sentence": "Just as I was leaving, the phone rang.",
+    "pronunciation": "/dʒʌst æz/"
+  },
+  {
+    "id": 40,
+    "word": "by the time",
+    "translation": "-e kadar, -den önce",
+    "type": "Subordinating - Time",
+    "level": "B1",
+    "example_sentence": "By the time we arrived, the show had already started.",
+    "pronunciation": "/baɪ ðə taɪm/"
+  },
+  {
+    "id": 41,
+    "word": "the moment",
+    "translation": "-ır, -ırmaz, tam o an",
+    "type": "Subordinating - Time",
+    "level": "B1",
+    "example_sentence": "The moment she walked in, I recognized her.",
+    "pronunciation": "/ðə ˈmoʊmənt/"
+  },
+  {
+    "id": 42,
+    "word": "by",
+    "translation": "-e kadar, -den önce",
+    "type": "Subordinating - Time",
+    "level": "A2",
+    "example_sentence": "Please finish the report by Monday.",
+    "pronunciation": "/baɪ/"
+  },
+  {
+    "id": 43,
+    "word": "whenever",
+    "translation": "her ne zaman, -diği zaman hep",
+    "type": "Subordinating - Time",
+    "level": "B1",
+    "example_sentence": "Whenever I see her, she smiles.",
+    "pronunciation": "/wɛnˈɛvər/"
+  },
+  {
+    "id": 44,
+    "word": "now that",
+    "translation": "mademki, artık, -e göre",
+    "type": "Subordinating - Cause/Time",
+    "level": "B1",
+    "example_sentence": "Now that she is here, we can start.",
+    "pronunciation": "/naʊ ðæt/"
+  },
+  {
+    "id": 45,
+    "word": "as of",
+    "translation": "-den itibaren",
+    "type": "Preposition - Time",
+    "level": "B2",
+    "example_sentence": "As of Monday, the new rules will be in effect.",
+    "pronunciation": "/æz ɒv/"
+  },
+  {
+    "id": 46,
+    "word": "if",
+    "translation": "-se, -sa, eğer",
+    "type": "Subordinating - Condition",
+    "level": "A1",
+    "example_sentence": "If it rains, we will stay home.",
+    "pronunciation": "/ɪf/"
+  },
+  {
+    "id": 47,
+    "word": "unless",
+    "translation": "-mezse, -mazsa",
+    "type": "Subordinating - Condition",
+    "level": "B1",
+    "example_sentence": "Unless you hurry, you will miss the bus.",
+    "pronunciation": "/ənˈlɛs/"
+  },
+  {
+    "id": 48,
+    "word": "provided that",
+    "translation": "-mesi şartıyla",
+    "type": "Subordinating - Condition",
+    "level": "B2",
+    "example_sentence": "You can go out provided that you finish your homework.",
+    "pronunciation": "/prəˈvaɪdɪd ðæt/"
+  },
+  {
+    "id": 49,
+    "word": "providing that",
+    "translation": "-mesi şartıyla",
+    "type": "Subordinating - Condition",
+    "level": "B2",
+    "example_sentence": "I'll help you providing that you are honest.",
+    "pronunciation": "/prəˈvaɪdɪŋ ðæt/"
+  },
+  {
+    "id": 50,
+    "word": "as long as",
+    "translation": "-diği müddetçe, olduğu sürece",
+    "type": "Subordinating - Condition",
+    "level": "B1",
+    "example_sentence": "You can stay as long as you are quiet.",
+    "pronunciation": "/æz lɒŋ æz/"
+  },
+  {
+    "id": 51,
+    "word": "so long as",
+    "translation": "-diği müddetçe, olduğu sürece",
+    "type": "Subordinating - Condition",
+    "level": "B2",
+    "example_sentence": "I don't mind so long as you are careful.",
+    "pronunciation": "/soʊ lɒŋ æz/"
+  },
+  {
+    "id": 52,
+    "word": "on condition that",
+    "translation": "-mesi koşuluyla",
+    "type": "Subordinating - Condition",
+    "level": "C1",
+    "example_sentence": "He agreed on condition that he would be paid first.",
+    "pronunciation": "/ɒn kənˈdɪʃən ðæt/"
+  },
+  {
+    "id": 53,
+    "word": "supposing that",
+    "translation": "varsayarak, diyelim ki, eğer",
+    "type": "Subordinating - Condition",
+    "level": "C1",
+    "example_sentence": "Supposing that he refuses, what will we do?",
+    "pronunciation": "/səˈpoʊzɪŋ ðæt/"
+  },
+  {
+    "id": 54,
+    "word": "if only",
+    "translation": "keşke (dilek/şart kipi)",
+    "type": "Subordinating - Condition/Wish",
+    "level": "B2",
+    "example_sentence": "If only I had studied harder.",
+    "pronunciation": "/ɪf ˈoʊnli/"
+  },
+  {
+    "id": 55,
+    "word": "in case",
+    "translation": "-sa diye, ihtimaline karşı",
+    "type": "Subordinating - Condition",
+    "level": "B1",
+    "example_sentence": "Take an umbrella in case it rains.",
+    "pronunciation": "/ɪn keɪs/"
+  },
+  {
+    "id": 56,
+    "word": "in case of",
+    "translation": "-mesi halinde, ihtimaline karşı",
+    "type": "Preposition - Condition",
+    "level": "B1",
+    "example_sentence": "In case of fire, use the emergency exit.",
+    "pronunciation": "/ɪn keɪs ɒv/"
+  },
+  {
+    "id": 57,
+    "word": "otherwise",
+    "translation": "aksi takdirde, yoksa",
+    "type": "Conjunctive Adverb - Condition",
+    "level": "B1",
+    "example_sentence": "Hurry up; otherwise, we will be late.",
+    "pronunciation": "/ˈʌðərwaɪz/"
+  },
+  {
+    "id": 58,
+    "word": "or else",
+    "translation": "aksi takdirde, yoksa",
+    "type": "Coordinating - Condition",
+    "level": "A2",
+    "example_sentence": "Leave now, or else you'll miss the train.",
+    "pronunciation": "/ɔːr ɛls/"
+  },
+  {
+    "id": 59,
+    "word": "but for",
+    "translation": "olmasa(ydı)",
+    "type": "Preposition - Condition",
+    "level": "C1",
+    "example_sentence": "But for your help, I would have failed.",
+    "pronunciation": "/bʌt fɔːr/"
+  },
+  {
+    "id": 60,
+    "word": "even if",
+    "translation": "-sa bile",
+    "type": "Subordinating - Condition/Concession",
+    "level": "B1",
+    "example_sentence": "Even if it rains, we will go.",
+    "pronunciation": "/ˈiːvən ɪf/"
+  },
+  {
+    "id": 61,
+    "word": "lest",
+    "translation": "diye (olumsuz amaç/şart)",
+    "type": "Subordinating - Condition",
+    "level": "C1",
+    "example_sentence": "He ran fast lest he should be late.",
+    "pronunciation": "/lɛst/"
+  },
+  {
+    "id": 62,
+    "word": "although",
+    "translation": "-e rağmen, her ne kadar",
+    "type": "Subordinating - Concession",
+    "level": "B1",
+    "example_sentence": "Although it was cold, we went outside.",
+    "pronunciation": "/ɔːlˈðoʊ/"
+  },
+  {
+    "id": 63,
+    "word": "though",
+    "translation": "-e rağmen, yine de",
+    "type": "Subordinating - Concession",
+    "level": "A2",
+    "example_sentence": "Though he was tired, he kept working.",
+    "pronunciation": "/ðoʊ/"
+  },
+  {
+    "id": 64,
+    "word": "even though",
+    "translation": "-e rağmen",
+    "type": "Subordinating - Concession",
+    "level": "B1",
+    "example_sentence": "Even though she studied hard, she failed the exam.",
+    "pronunciation": "/ˈiːvən ðoʊ/"
+  },
+  {
+    "id": 65,
+    "word": "much as",
+    "translation": "ne kadar olsa da, -e rağmen",
+    "type": "Subordinating - Concession",
+    "level": "C1",
+    "example_sentence": "Much as I like him, I can't agree with his views.",
+    "pronunciation": "/mʌtʃ æz/"
+  },
+  {
+    "id": 66,
+    "word": "despite",
+    "translation": "-e rağmen",
+    "type": "Preposition - Concession",
+    "level": "B1",
+    "example_sentence": "Despite the rain, they went for a walk.",
+    "pronunciation": "/dɪˈspaɪt/"
+  },
+  {
+    "id": 67,
+    "word": "in spite of",
+    "translation": "-e rağmen",
+    "type": "Preposition - Concession",
+    "level": "B1",
+    "example_sentence": "In spite of the cold, she went swimming.",
+    "pronunciation": "/ɪn spaɪt ɒv/"
+  },
+  {
+    "id": 68,
+    "word": "however",
+    "translation": "ama, ancak, yine de",
+    "type": "Conjunctive Adverb - Concession/Contrast",
+    "level": "B1",
+    "example_sentence": "It was raining. However, we decided to go out.",
+    "pronunciation": "/haʊˈɛvər/"
+  },
+  {
+    "id": 69,
+    "word": "nevertheless",
+    "translation": "ama, ancak, yine de",
+    "type": "Conjunctive Adverb - Concession/Contrast",
+    "level": "B2",
+    "example_sentence": "The task was difficult. Nevertheless, she completed it.",
+    "pronunciation": "/ˌnɛvərðəˈlɛs/"
+  },
+  {
+    "id": 70,
+    "word": "nonetheless",
+    "translation": "ama, ancak, yine de",
+    "type": "Conjunctive Adverb - Concession/Contrast",
+    "level": "B2",
+    "example_sentence": "The evidence was weak; nonetheless, he was found guilty.",
+    "pronunciation": "/ˌnʌnðəˈlɛs/"
+  },
+  {
+    "id": 71,
+    "word": "even so",
+    "translation": "öyle bile olsa, yine de",
+    "type": "Conjunctive Adverb - Concession/Contrast",
+    "level": "B2",
+    "example_sentence": "It was expensive. Even so, he bought it.",
+    "pronunciation": "/ˈiːvən soʊ/"
+  },
+  {
+    "id": 72,
+    "word": "notwithstanding",
+    "translation": "yine de, -e rağmen",
+    "type": "Preposition/Adverb - Concession",
+    "level": "C1",
+    "example_sentence": "Notwithstanding the difficulties, they succeeded.",
+    "pronunciation": "/ˌnɒtwɪðˈstændɪŋ/"
+  },
+  {
+    "id": 73,
+    "word": "whereas",
+    "translation": "halbuki, -e karşılık, oysa",
+    "type": "Subordinating - Contrast",
+    "level": "B2",
+    "example_sentence": "I like coffee, whereas my sister prefers tea.",
+    "pronunciation": "/wɛrˈæz/"
+  },
+  {
+    "id": 74,
+    "word": "on the contrary",
+    "translation": "aksine",
+    "type": "Conjunctive Adverb - Contrast",
+    "level": "B2",
+    "example_sentence": "I'm not tired. On the contrary, I feel great.",
+    "pronunciation": "/ɒn ðə ˈkɒntrəri/"
+  },
+  {
+    "id": 75,
+    "word": "conversely",
+    "translation": "aksine, tersine",
+    "type": "Conjunctive Adverb - Contrast",
+    "level": "C1",
+    "example_sentence": "She is outgoing; conversely, her brother is very shy.",
+    "pronunciation": "/ˈkɒnvɜːrsli/"
+  },
+  {
+    "id": 76,
+    "word": "contrary to",
+    "translation": "-nın aksine",
+    "type": "Preposition - Contrast",
+    "level": "B2",
+    "example_sentence": "Contrary to what he said, she was on time.",
+    "pronunciation": "/ˈkɒntrəri tuː/"
+  },
+  {
+    "id": 77,
+    "word": "in contrast to",
+    "translation": "-nın aksine",
+    "type": "Preposition - Contrast",
+    "level": "B2",
+    "example_sentence": "In contrast to last year, sales have improved.",
+    "pronunciation": "/ɪn ˈkɒntræst tuː/"
+  },
+  {
+    "id": 78,
+    "word": "as opposed to",
+    "translation": "-nın aksine, -den farklı olarak",
+    "type": "Preposition - Contrast",
+    "level": "B2",
+    "example_sentence": "As opposed to what I expected, she was friendly.",
+    "pronunciation": "/æz əˈpoʊzd tuː/"
+  },
+  {
+    "id": 79,
+    "word": "unlike",
+    "translation": "-nın aksine, -den farklı olarak",
+    "type": "Preposition - Contrast",
+    "level": "B1",
+    "example_sentence": "Unlike her sister, she enjoys sports.",
+    "pronunciation": "/ʌnˈlaɪk/"
+  },
+  {
+    "id": 80,
+    "word": "where",
+    "translation": "nerede, -diği yerde",
+    "type": "Subordinating - Place",
+    "level": "A1",
+    "example_sentence": "I remember the city where I grew up.",
+    "pronunciation": "/wɛr/"
+  },
+  {
+    "id": 81,
+    "word": "wherever",
+    "translation": "her nerede, nereye giderse",
+    "type": "Subordinating - Place",
+    "level": "B1",
+    "example_sentence": "Wherever you go, I will follow.",
+    "pronunciation": "/wɛrˈɛvər/"
+  },
+  {
+    "id": 82,
+    "word": "whether",
+    "translation": "ister ister, -ip -mediği",
+    "type": "Subordinating - Indirect Question/Condition",
+    "level": "B1",
+    "example_sentence": "I don't know whether she will come or not.",
+    "pronunciation": "/ˈwɛðər/"
+  },
+  {
+    "id": 83,
+    "word": "that",
+    "translation": "-diğini, -dığını (bağlaç olarak)",
+    "type": "Subordinating - Noun Clause",
+    "level": "A2",
+    "example_sentence": "She said that she was tired.",
+    "pronunciation": "/ðæt/"
+  },
+  {
+    "id": 84,
+    "word": "as if",
+    "translation": "-(miş) gibi, sanki",
+    "type": "Subordinating - Manner",
+    "level": "B1",
+    "example_sentence": "He talks as if he knows everything.",
+    "pronunciation": "/æz ɪf/"
+  },
+  {
+    "id": 85,
+    "word": "as though",
+    "translation": "-(miş) gibi, sanki",
+    "type": "Subordinating - Manner",
+    "level": "B2",
+    "example_sentence": "She acted as though nothing had happened.",
+    "pronunciation": "/æz ðoʊ/"
+  },
+  {
+    "id": 86,
+    "word": "moreover",
+    "translation": "üstelik, dahası",
+    "type": "Conjunctive Adverb - Addition",
+    "level": "B2",
+    "example_sentence": "The plan is risky. Moreover, it is very costly.",
+    "pronunciation": "/mɔːrˈoʊvər/"
+  },
+  {
+    "id": 87,
+    "word": "furthermore",
+    "translation": "üstelik, dahası",
+    "type": "Conjunctive Adverb - Addition",
+    "level": "B2",
+    "example_sentence": "She is qualified. Furthermore, she has years of experience.",
+    "pronunciation": "/ˌfɜːrðərˈmɔːr/"
+  },
+  {
+    "id": 88,
+    "word": "further",
+    "translation": "üstelik, dahası",
+    "type": "Conjunctive Adverb - Addition",
+    "level": "C1",
+    "example_sentence": "He denied the charges. Further, he claimed innocence.",
+    "pronunciation": "/ˈfɜːrðər/"
+  },
+  {
+    "id": 89,
+    "word": "in addition",
+    "translation": "üstelik, dahası",
+    "type": "Conjunctive Adverb - Addition",
+    "level": "B1",
+    "example_sentence": "The course is interesting. In addition, it is free.",
+    "pronunciation": "/ɪn əˈdɪʃən/"
+  },
+  {
+    "id": 90,
+    "word": "what's more",
+    "translation": "üstelik, dahası",
+    "type": "Conjunctive Adverb - Addition",
+    "level": "B1",
+    "example_sentence": "She is talented. What's more, she works hard.",
+    "pronunciation": "/wɒts mɔːr/"
+  },
+  {
+    "id": 91,
+    "word": "besides",
+    "translation": "üstelik, dahası / -e ek olarak, yanında",
+    "type": "Preposition/Adverb - Addition",
+    "level": "B1",
+    "example_sentence": "Besides being beautiful, she is very kind.",
+    "pronunciation": "/bɪˈsaɪdz/"
+  },
+  {
+    "id": 92,
+    "word": "in addition to",
+    "translation": "-e ek olarak, -nın yanında",
+    "type": "Preposition - Addition",
+    "level": "B1",
+    "example_sentence": "In addition to English, she speaks French.",
+    "pronunciation": "/ɪn əˈdɪʃən tuː/"
+  },
+  {
+    "id": 93,
+    "word": "as well as",
+    "translation": "-e ek olarak, -nın yanında",
+    "type": "Preposition - Addition",
+    "level": "B1",
+    "example_sentence": "She speaks Spanish as well as Portuguese.",
+    "pronunciation": "/æz wɛl æz/"
+  },
+  {
+    "id": 94,
+    "word": "along with",
+    "translation": "yanında, ile birlikte",
+    "type": "Preposition - Addition",
+    "level": "B1",
+    "example_sentence": "Along with his sister, he attended the event.",
+    "pronunciation": "/əˈlɒŋ wɪð/"
+  },
+  {
+    "id": 95,
+    "word": "both ... and",
+    "translation": "hem ... hem (de)",
+    "type": "Correlative",
+    "level": "A2",
+    "example_sentence": "She is both smart and kind.",
+    "pronunciation": "/boʊθ ... ænd/"
+  },
+  {
+    "id": 96,
+    "word": "either ... or",
+    "translation": "ya ... ya da",
+    "type": "Correlative",
+    "level": "A2",
+    "example_sentence": "You can either come with us or stay home.",
+    "pronunciation": "/ˈiːðər ... ɔːr/"
+  },
+  {
+    "id": 97,
+    "word": "neither ... nor",
+    "translation": "ne ... ne de",
+    "type": "Correlative",
+    "level": "B1",
+    "example_sentence": "Neither the teacher nor the students were happy.",
+    "pronunciation": "/ˈniːðər ... nɔːr/"
+  },
+  {
+    "id": 98,
+    "word": "not only ... but also",
+    "translation": "sadece ... değil, aynı zamanda",
+    "type": "Correlative",
+    "level": "B1",
+    "example_sentence": "She is not only talented but also hardworking.",
+    "pronunciation": "/nɒt ˈoʊnli ... bʌt ˈɔːlsoʊ/"
+  },
+  {
+    "id": 99,
+    "word": "whether ... or",
+    "translation": "ister ... ister",
+    "type": "Correlative",
+    "level": "B1",
+    "example_sentence": "Whether you like it or not, you must do it.",
+    "pronunciation": "/ˈwɛðər ... ɔːr/"
+  },
+  {
+    "id": 100,
+    "word": "as ... as",
+    "translation": "o kadar ... kadar",
+    "type": "Correlative",
+    "level": "A2",
+    "example_sentence": "She is as tall as her brother.",
+    "pronunciation": "/æz ... æz/"
+  },
+  {
+    "id": 101,
+    "word": "rather ... than",
+    "translation": "-den ziyade, yerine",
+    "type": "Correlative",
+    "level": "B1",
+    "example_sentence": "I would rather walk than take the bus.",
+    "pronunciation": "/ˈræðər ... ðæn/"
+  },
+  {
+    "id": 102,
+    "word": "such ... that",
+    "translation": "o kadar ... ki",
+    "type": "Correlative",
+    "level": "B2",
+    "example_sentence": "It was such a beautiful day that we went to the park.",
+    "pronunciation": "/sʌtʃ ... ðæt/"
+  },
+  {
+    "id": 103,
+    "word": "not ... but",
+    "translation": "(bu) değil, (bu)",
+    "type": "Correlative",
+    "level": "B1",
+    "example_sentence": "It is not the money but the principle that matters.",
+    "pronunciation": "/nɒt ... bʌt/"
+  },
+  {
+    "id": 104,
+    "word": "no sooner ... than",
+    "translation": "-ır, -ırmaz, hemen ardından",
+    "type": "Correlative - Time",
+    "level": "C1",
+    "example_sentence": "No sooner had I sat down than the phone rang.",
+    "pronunciation": "/noʊ ˈsuːnər ... ðæn/"
+  },
+  {
+    "id": 105,
+    "word": "hardly ... when",
+    "translation": "-ır, -ırmaz, henüz ki",
+    "type": "Correlative - Time",
+    "level": "C1",
+    "example_sentence": "Hardly had he arrived when problems began.",
+    "pronunciation": "/ˈhɑːrdli ... wɛn/"
+  },
+  {
+    "id": 106,
+    "word": "barely ... when",
+    "translation": "-ır, -ırmaz, henüz ki",
+    "type": "Correlative - Time",
+    "level": "C1",
+    "example_sentence": "Barely had she left when it began to snow.",
+    "pronunciation": "/ˈbɛərli ... wɛn/"
+  },
+  {
+    "id": 107,
+    "word": "scarcely ... when",
+    "translation": "-ır, -ırmaz, henüz ki",
+    "type": "Correlative - Time",
+    "level": "C1",
+    "example_sentence": "Scarcely had she left when it started to rain.",
+    "pronunciation": "/ˈskɛrsli ... wɛn/"
+  },
+  {
+    "id": 108,
+    "word": "rather than",
+    "translation": "-den ziyade, yerine",
+    "type": "Preposition - Preference",
+    "level": "B1",
+    "example_sentence": "She chose to walk rather than take a taxi.",
+    "pronunciation": "/ˈræðər ðæn/"
+  },
+  {
+    "id": 109,
+    "word": "instead of",
+    "translation": "-nın yerine",
+    "type": "Preposition - Substitution",
+    "level": "A2",
+    "example_sentence": "She ordered salad instead of fries.",
+    "pronunciation": "/ɪnˈstɛd ɒv/"
+  },
+  {
+    "id": 110,
+    "word": "instead",
+    "translation": "yerine, onun yerine",
+    "type": "Adverb - Substitution",
+    "level": "A2",
+    "example_sentence": "He didn't go to the party. He stayed home instead.",
+    "pronunciation": "/ɪnˈstɛd/"
+  },
+  {
+    "id": 111,
+    "word": "regardless of",
+    "translation": "bakılmaksızın, ne olursa olsun",
+    "type": "Preposition - Concession",
+    "level": "B2",
+    "example_sentence": "She will attend, regardless of the weather.",
+    "pronunciation": "/rɪˈɡɑːrdlɪs ɒv/"
+  },
+  {
+    "id": 112,
+    "word": "no matter",
+    "translation": "bakılmaksızın, ne olursa olsun",
+    "type": "Adverb - Concession",
+    "level": "B1",
+    "example_sentence": "No matter how hard it is, don't give up.",
+    "pronunciation": "/noʊ ˈmætər/"
+  },
+  {
+    "id": 113,
+    "word": "in terms of",
+    "translation": "-nın açısından",
+    "type": "Preposition - Reference",
+    "level": "B2",
+    "example_sentence": "In terms of quality, this is the best option.",
+    "pronunciation": "/ɪn tɜːrmz ɒv/"
+  },
+  {
+    "id": 114,
+    "word": "by means of",
+    "translation": "desteğiyle, vasıtasıyla",
+    "type": "Preposition - Means",
+    "level": "C1",
+    "example_sentence": "They communicated by means of sign language.",
+    "pronunciation": "/baɪ miːnz ɒv/"
+  },
+  {
+    "id": 115,
+    "word": "on behalf of",
+    "translation": "-nın adına",
+    "type": "Preposition - Reference",
+    "level": "B2",
+    "example_sentence": "She spoke on behalf of the entire team.",
+    "pronunciation": "/ɒn bɪˈhɑːf ɒv/"
+  },
+  {
+    "id": 116,
+    "word": "whereby",
+    "translation": "-nın vasıtasıyla, yoluyla",
+    "type": "Conjunction/Adverb - Means",
+    "level": "C1",
+    "example_sentence": "They signed an agreement whereby both parties benefit.",
+    "pronunciation": "/wɛrˈbaɪ/"
+  },
+  {
+    "id": 117,
+    "word": "thereby",
+    "translation": "bu sebeple, öylelikle",
+    "type": "Conjunctive Adverb - Result",
+    "level": "C1",
+    "example_sentence": "He saved money, thereby reaching his goal.",
+    "pronunciation": "/ˌðɛrˈbaɪ/"
+  },
+  {
+    "id": 118,
+    "word": "with respect to",
+    "translation": "ile ilgili olarak",
+    "type": "Preposition - Reference",
+    "level": "C1",
+    "example_sentence": "With respect to your question, I have some comments.",
+    "pronunciation": "/wɪð rɪˈspɛkt tuː/"
+  },
+  {
+    "id": 119,
+    "word": "as for",
+    "translation": "-e gelince",
+    "type": "Preposition - Reference",
+    "level": "B2",
+    "example_sentence": "As for me, I prefer staying home.",
+    "pronunciation": "/æz fɔːr/"
+  },
+  {
+    "id": 120,
+    "word": "as to",
+    "translation": "hakkında, ile ilgili olarak",
+    "type": "Preposition - Reference",
+    "level": "C1",
+    "example_sentence": "There is no agreement as to what should be done.",
+    "pronunciation": "/æz tuː/"
+  },
+  {
+    "id": 121,
+    "word": "in response to",
+    "translation": "-e karşılık olarak",
+    "type": "Preposition - Reference",
+    "level": "B2",
+    "example_sentence": "In response to your email, I'd like to clarify a few points.",
+    "pronunciation": "/ɪn rɪˈspɒns tuː/"
+  },
+  {
+    "id": 122,
+    "word": "regarding",
+    "translation": "hakkında, ile ilgili olarak",
+    "type": "Preposition - Reference",
+    "level": "B2",
+    "example_sentence": "I am writing regarding your recent complaint.",
+    "pronunciation": "/rɪˈɡɑːrdɪŋ/"
+  },
+  {
+    "id": 123,
+    "word": "as regards",
+    "translation": "ile ilgili olarak",
+    "type": "Preposition - Reference",
+    "level": "C1",
+    "example_sentence": "As regards the budget, there are some concerns.",
+    "pronunciation": "/æz rɪˈɡɑːrdz/"
+  },
+  {
+    "id": 124,
+    "word": "in accordance with",
+    "translation": "-e uygun olarak",
+    "type": "Preposition - Manner",
+    "level": "C1",
+    "example_sentence": "Act in accordance with the rules.",
+    "pronunciation": "/ɪn əˈkɔːrdəns wɪð/"
+  },
+  {
+    "id": 125,
+    "word": "according to",
+    "translation": "-e göre",
+    "type": "Preposition - Reference",
+    "level": "A2",
+    "example_sentence": "According to the report, sales have increased.",
+    "pronunciation": "/əˈkɔːrdɪŋ tuː/"
+  },
+  {
+    "id": 126,
+    "word": "as a matter of fact",
+    "translation": "nitekim, aslında",
+    "type": "Conjunctive Adverb - Emphasis",
+    "level": "B2",
+    "example_sentence": "As a matter of fact, I have been there before.",
+    "pronunciation": "/æz ə ˈmætər ɒv fækt/"
+  },
+  {
+    "id": 127,
+    "word": "in so far as",
+    "translation": "-den dolayı, -diği kadarıyla",
+    "type": "Subordinating - Degree/Cause",
+    "level": "C1",
+    "example_sentence": "In so far as I know, she has not resigned.",
+    "pronunciation": "/ɪn soʊ fɑːr æz/"
+  },
+  {
+    "id": 128,
+    "word": "such as",
+    "translation": "gibi, örneğin",
+    "type": "Preposition - Example",
+    "level": "B1",
+    "example_sentence": "I enjoy outdoor activities such as hiking and cycling.",
+    "pronunciation": "/sʌtʃ æz/"
+  },
+  {
+    "id": 129,
+    "word": "as yet",
+    "translation": "şimdiye kadar, henüz",
+    "type": "Adverb - Time",
+    "level": "C1",
+    "example_sentence": "As yet, no decision has been made.",
+    "pronunciation": "/æz jɛt/"
+  },
+  {
+    "id": 130,
+    "word": "as such",
+    "translation": "bu itibarla, böylelikle",
+    "type": "Conjunctive Adverb - Reference",
+    "level": "C1",
+    "example_sentence": "He is a beginner and, as such, needs more guidance.",
+    "pronunciation": "/æz sʌtʃ/"
+  },
+  {
+    "id": 131,
+    "word": "except for",
+    "translation": "hariç, dışında",
+    "type": "Preposition - Exception",
+    "level": "B1",
+    "example_sentence": "Everyone passed except for two students.",
+    "pronunciation": "/ɪkˈsɛpt fɔːr/"
+  },
+  {
+    "id": 132,
+    "word": "except that",
+    "translation": "-dığı hariç, dışında",
+    "type": "Subordinating - Exception",
+    "level": "B2",
+    "example_sentence": "I enjoyed the film except that the ending was weak.",
+    "pronunciation": "/ɪkˈsɛpt ðæt/"
+  },
+  {
+    "id": 133,
+    "word": "if anything",
+    "translation": "bilakis, aksine, varsa",
+    "type": "Conjunctive Adverb - Emphasis/Contrast",
+    "level": "C1",
+    "example_sentence": "He's not tired. If anything, he seems more energetic.",
+    "pronunciation": "/ɪf ˈɛniθɪŋ/"
+  },
+  {
+    "id": 134,
+    "word": "in comparison to",
+    "translation": "ile karşılaştırıldığında",
+    "type": "Preposition - Comparison",
+    "level": "B2",
+    "example_sentence": "In comparison to last year, profits have risen.",
+    "pronunciation": "/ɪn kəmˈpærɪsən tuː/"
+  },
+  {
+    "id": 135,
+    "conjunction": "also",
+    "translation": "ayrıca, bunun yanı sıra",
+    "level": "A1",
+    "function": "addition",
+    "example_sentence": "She speaks French and also knows some Italian.",
+    "pronunciation": "/ˈɔːlsəʊ/"
+  },
+  {
+    "id": 136,
+    "conjunction": "additionally",
+    "translation": "ek olarak, bunun yanında",
+    "level": "B1",
+    "function": "addition",
+    "example_sentence": "The course is free; additionally, students receive a certificate upon completion.",
+    "pronunciation": "/əˈdɪʃənəli/"
+  },
+  {
+    "id": 137,
+    "conjunction": "alternatively",
+    "translation": "ya da, alternatif olarak",
+    "level": "B2",
+    "function": "alternative",
+    "example_sentence": "You can take the train, or alternatively, you can drive there in about two hours.",
+    "pronunciation": "/ɔːlˈtɜːnətɪvli/"
+  },
+  {
+    "id": 138,
+    "conjunction": "similarly",
+    "translation": "benzer şekilde, aynı biçimde",
+    "level": "B2",
+    "function": "similarity",
+    "example_sentence": "The first experiment failed; similarly, the second attempt produced no results.",
+    "pronunciation": "/ˈsɪmɪləli/"
+  },
+  {
+    "id": 139,
+    "conjunction": "likewise",
+    "translation": "aynı şekilde, benzer olarak",
+    "level": "B2",
+    "function": "similarity",
+    "example_sentence": "She treated everyone with respect, and her colleagues did likewise.",
+    "pronunciation": "/ˈlaɪkwaɪz/"
+  },
+  {
+    "id": 140,
+    "conjunction": "in the same way",
+    "translation": "aynı şekilde",
+    "level": "B1",
+    "function": "similarity",
+    "example_sentence": "Children learn languages in the same way that they learn to walk — through practice.",
+    "pronunciation": "/ɪn ðə seɪm weɪ/"
+  },
+  {
+    "id": 141,
+    "conjunction": "in the same way that",
+    "translation": "tıpkı ... gibi, aynı şekilde ki",
+    "level": "B2",
+    "function": "similarity",
+    "example_sentence": "In the same way that exercise strengthens the body, reading strengthens the mind.",
+    "pronunciation": "/ɪn ðə seɪm weɪ ðæt/"
+  },
+  {
+    "id": 142,
+    "conjunction": "in contrast",
+    "translation": "buna karşın, aksine",
+    "level": "B2",
+    "function": "contrast",
+    "example_sentence": "The north of the country is very cold; in contrast, the south has a warm climate.",
+    "pronunciation": "/ɪn ˈkɒntrɑːst/"
+  },
+  {
+    "id": 143,
+    "conjunction": "still",
+    "translation": "yine de, buna rağmen",
+    "level": "A2",
+    "function": "contrast",
+    "example_sentence": "It was raining heavily; still, they decided to go for a walk.",
+    "pronunciation": "/stɪl/"
+  },
+  {
+    "id": 144,
+    "conjunction": "but still",
+    "translation": "yine de, ama yine de",
+    "level": "A2",
+    "function": "contrast",
+    "example_sentence": "The task was difficult, but still, she managed to finish it on time.",
+    "pronunciation": "/bʌt stɪl/"
+  },
+  {
+    "id": 145,
+    "conjunction": "on the other hand",
+    "translation": "öte yandan, diğer taraftan",
+    "level": "B1",
+    "function": "contrast",
+    "example_sentence": "The job pays well; on the other hand, the working hours are very long.",
+    "pronunciation": "/ɒn ði ˈʌðə hænd/"
+  },
+  {
+    "id": 146,
+    "conjunction": "even though",
+    "translation": "her ne kadar ... olsa da, rağmen",
+    "level": "B1",
+    "function": "contrast",
+    "example_sentence": "Even though it was late, she continued working on the report.",
+    "pronunciation": "/ˈiːvən ðəʊ/"
+  },
+  {
+    "id": 147,
+    "conjunction": "for instance",
+    "translation": "örneğin, mesela",
+    "level": "B1",
+    "function": "example",
+    "example_sentence": "Many fruits are rich in vitamin C — for instance, oranges, kiwis and strawberries.",
+    "pronunciation": "/fər ˈɪnstəns/"
+  },
+  {
+    "id": 148,
+    "conjunction": "for example",
+    "translation": "örneğin",
+    "level": "A1",
+    "function": "example",
+    "example_sentence": "Some countries, for example Germany and France, are members of the European Union.",
+    "pronunciation": "/fər ɪɡˈzɑːmpəl/"
+  },
+  {
+    "id": 149,
+    "conjunction": "like",
+    "translation": "gibi, örneğin",
+    "level": "A1",
+    "function": "example",
+    "example_sentence": "She enjoys outdoor activities, like hiking, cycling and swimming.",
+    "pronunciation": "/laɪk/"
+  },
+  {
+    "id": 150,
+    "conjunction": "that is",
+    "translation": "yani, şu demek ki",
+    "level": "B1",
+    "function": "clarification",
+    "example_sentence": "The meeting is scheduled for the last day of the month, that is, the 31st.",
+    "pronunciation": "/ðæt ɪz/"
+  },
+  {
+    "id": 151,
+    "conjunction": "that is to say",
+    "translation": "yani, başka bir deyişle",
+    "level": "B2",
+    "function": "clarification",
+    "example_sentence": "The project is still in its early stages, that is to say, nothing has been finalised yet.",
+    "pronunciation": "/ðæt ɪz tə seɪ/"
+  },
+  {
+    "id": 152,
+    "conjunction": "in other words",
+    "translation": "başka bir deyişle, yani",
+    "level": "B1",
+    "function": "clarification",
+    "example_sentence": "The deadline has been moved forward — in other words, we have less time than expected.",
+    "pronunciation": "/ɪn ˈʌðər wɜːdz/"
+  },
+  {
+    "id": 153,
+    "conjunction": "to put it another way",
+    "translation": "bir başka şekilde ifade etmek gerekirse",
+    "level": "C1",
+    "function": "clarification",
+    "example_sentence": "The results were not satisfactory — to put it another way, the plan did not work.",
+    "pronunciation": "/tə pʊt ɪt əˈnʌðər weɪ/"
+  },
+  {
+    "id": 154,
+    "conjunction": "to sum up",
+    "translation": "özetlemek gerekirse, kısaca",
+    "level": "B1",
+    "function": "summary",
+    "example_sentence": "To sum up, the new policy will reduce costs while improving overall efficiency.",
+    "pronunciation": "/tə sʌm ʌp/"
+  },
+  {
+    "id": 155,
+    "conjunction": "in brief",
+    "translation": "kısaca, özetle",
+    "level": "B2",
+    "function": "summary",
+    "example_sentence": "In brief, the study shows that regular exercise improves mental health significantly.",
+    "pronunciation": "/ɪn briːf/"
+  },
+  {
+    "id": 156,
+    "conjunction": "if",
+    "translation": "eğer, -se/-sa",
+    "level": "A1",
+    "function": "condition",
+    "example_sentence": "If you study hard, you will pass the exam without any problems.",
+    "pronunciation": "/ɪf/"
+  },
+  {
+    "id": 157,
+    "conjunction": "just in case",
+    "translation": "her ihtimale karşı, ihtiyaten",
+    "level": "B1",
+    "function": "condition",
+    "example_sentence": "Take an umbrella just in case it rains later in the afternoon.",
+    "pronunciation": "/dʒʌst ɪn keɪs/"
+  },
+  {
+    "id": 158,
+    "conjunction": "in that case",
+    "translation": "bu durumda, öyleyse",
+    "level": "B1",
+    "function": "condition",
+    "example_sentence": "The train is cancelled; in that case, we should book a taxi immediately.",
+    "pronunciation": "/ɪn ðæt keɪs/"
+  },
+  {
+    "id": 159,
+    "conjunction": "first...then",
+    "translation": "önce...sonra",
+    "level": "A2",
+    "function": "sequence",
+    "example_sentence": "First, preheat the oven; then, prepare the ingredients and mix them together.",
+    "pronunciation": "/fɜːst...ðen/"
+  },
+  {
+    "id": 160,
+    "conjunction": "firstly",
+    "translation": "birinci olarak, ilk olarak",
+    "level": "B1",
+    "function": "sequence",
+    "example_sentence": "Firstly, I would like to thank everyone for coming to tonight's event.",
+    "pronunciation": "/ˈfɜːstli/"
+  },
+  {
+    "id": 161,
+    "conjunction": "secondly",
+    "translation": "ikinci olarak",
+    "level": "B1",
+    "function": "sequence",
+    "example_sentence": "Secondly, we need to consider the financial impact of this decision on the company.",
+    "pronunciation": "/ˈsekəndli/"
+  },
+  {
+    "id": 162,
+    "conjunction": "thirdly",
+    "translation": "üçüncü olarak",
+    "level": "B1",
+    "function": "sequence",
+    "example_sentence": "Thirdly, we must ensure that all staff members receive proper training before the launch.",
+    "pronunciation": "/ˈθɜːdli/"
+  },
+  {
+    "id": 163,
+    "conjunction": "first of all",
+    "translation": "her şeyden önce, ilk olarak",
+    "level": "A2",
+    "function": "sequence",
+    "example_sentence": "First of all, let me introduce myself and explain why I am here today.",
+    "pronunciation": "/fɜːst əv ɔːl/"
+  },
+  {
+    "id": 164,
+    "conjunction": "next",
+    "translation": "daha sonra, ardından",
+    "level": "A1",
+    "function": "sequence",
+    "example_sentence": "Next, add the chopped vegetables to the pan and stir for five minutes.",
+    "pronunciation": "/nekst/"
+  },
+  {
+    "id": 165,
+    "conjunction": "afterwards",
+    "translation": "daha sonra, bundan sonra",
+    "level": "B1",
+    "function": "sequence",
+    "example_sentence": "We visited the museum and afterwards went to a nearby café for lunch.",
+    "pronunciation": "/ˈɑːftəwədz/"
+  },
+  {
+    "id": 166,
+    "conjunction": "previously",
+    "translation": "daha önce, önceden",
+    "level": "B2",
+    "function": "sequence",
+    "example_sentence": "She had previously worked in marketing before joining the engineering team.",
+    "pronunciation": "/ˈpriːviəsli/"
+  },
+  {
+    "id": 167,
+    "conjunction": "prior to",
+    "translation": "öncesinde, -den önce",
+    "level": "C1",
+    "function": "sequence",
+    "example_sentence": "All participants must register prior to the start of the conference.",
+    "pronunciation": "/ˈpraɪər tə/"
+  },
+  {
+    "id": 168,
+    "conjunction": "lastly",
+    "translation": "son olarak, en son",
+    "level": "B1",
+    "function": "sequence",
+    "example_sentence": "Lastly, I would like to remind everyone to submit their reports by Friday.",
+    "pronunciation": "/ˈlɑːstli/"
+  },
+  {
+    "id": 169,
+    "conjunction": "finally",
+    "translation": "son olarak, sonunda",
+    "level": "A2",
+    "function": "sequence",
+    "example_sentence": "Finally, after hours of waiting, the results of the competition were announced.",
+    "pronunciation": "/ˈfaɪnəli/"
+  }
+]

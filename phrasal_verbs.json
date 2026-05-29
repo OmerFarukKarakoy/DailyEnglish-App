@@ -1,0 +1,4186 @@
+[
+  {
+    "id": 1,
+    "word": "ask out",
+    "translation": "randevuya davet etmek",
+    "level": "A1",
+    "example_sentence": "He finally asked her out to dinner.",
+    "pronunciation": "/ɑːsk aʊt/"
+  },
+  {
+    "id": 2,
+    "word": "call back",
+    "translation": "geri aramak",
+    "level": "A1",
+    "example_sentence": "I'll call you back in five minutes.",
+    "pronunciation": "/kɔːl bæk/"
+  },
+  {
+    "id": 3,
+    "word": "come in",
+    "translation": "içeri girmek",
+    "level": "A1",
+    "example_sentence": "Please come in and sit down.",
+    "pronunciation": "/kʌm ɪn/"
+  },
+  {
+    "id": 4,
+    "word": "get up",
+    "translation": "kalkmak, yataktan kalkmak",
+    "level": "A1",
+    "example_sentence": "I get up at seven every morning.",
+    "pronunciation": "/ɡɛt ʌp/"
+  },
+  {
+    "id": 5,
+    "word": "give back",
+    "translation": "geri vermek",
+    "level": "A1",
+    "example_sentence": "Please give back my pen when you're done.",
+    "pronunciation": "/ɡɪv bæk/"
+  },
+  {
+    "id": 6,
+    "word": "go out",
+    "translation": "dışarı çıkmak",
+    "level": "A1",
+    "example_sentence": "We go out every Friday night.",
+    "pronunciation": "/ɡəʊ aʊt/"
+  },
+  {
+    "id": 7,
+    "word": "look at",
+    "translation": "bakmak",
+    "level": "A1",
+    "example_sentence": "Look at that beautiful sunset.",
+    "pronunciation": "/lʊk æt/"
+  },
+  {
+    "id": 8,
+    "word": "pick up",
+    "translation": "almak, yerden kaldırmak",
+    "level": "A1",
+    "example_sentence": "Can you pick up the kids from school?",
+    "pronunciation": "/pɪk ʌp/"
+  },
+  {
+    "id": 9,
+    "word": "put down",
+    "translation": "yere koymak, bırakmak",
+    "level": "A1",
+    "example_sentence": "Put down your bags and rest.",
+    "pronunciation": "/pʊt daʊn/"
+  },
+  {
+    "id": 10,
+    "word": "sit down",
+    "translation": "oturmak",
+    "level": "A1",
+    "example_sentence": "Please sit down and make yourself comfortable.",
+    "pronunciation": "/sɪt daʊn/"
+  },
+  {
+    "id": 11,
+    "word": "stand up",
+    "translation": "ayağa kalkmak",
+    "level": "A1",
+    "example_sentence": "Everyone stand up when the teacher enters.",
+    "pronunciation": "/stænd ʌp/"
+  },
+  {
+    "id": 12,
+    "word": "take off",
+    "translation": "çıkarmak (kıyafet); kalkmak (uçak)",
+    "level": "A1",
+    "example_sentence": "Take off your shoes before entering.",
+    "pronunciation": "/teɪk ɒf/"
+  },
+  {
+    "id": 13,
+    "word": "turn on",
+    "translation": "açmak (cihaz)",
+    "level": "A1",
+    "example_sentence": "Turn on the lights, please.",
+    "pronunciation": "/tɜːn ɒn/"
+  },
+  {
+    "id": 14,
+    "word": "turn off",
+    "translation": "kapatmak (cihaz)",
+    "level": "A1",
+    "example_sentence": "Don't forget to turn off the TV.",
+    "pronunciation": "/tɜːn ɒf/"
+  },
+  {
+    "id": 15,
+    "word": "wake up",
+    "translation": "uyanmak",
+    "level": "A1",
+    "example_sentence": "I wake up early on weekdays.",
+    "pronunciation": "/weɪk ʌp/"
+  },
+  {
+    "id": 16,
+    "word": "come back",
+    "translation": "geri dönmek",
+    "level": "A1",
+    "example_sentence": "When will you come back home?",
+    "pronunciation": "/kʌm bæk/"
+  },
+  {
+    "id": 17,
+    "word": "go back",
+    "translation": "geri gitmek",
+    "level": "A1",
+    "example_sentence": "We need to go back to the hotel.",
+    "pronunciation": "/ɡəʊ bæk/"
+  },
+  {
+    "id": 18,
+    "word": "look for",
+    "translation": "aramak",
+    "level": "A1",
+    "example_sentence": "I'm looking for my keys.",
+    "pronunciation": "/lʊk fɔːr/"
+  },
+  {
+    "id": 19,
+    "word": "put on",
+    "translation": "giymek; açmak",
+    "level": "A1",
+    "example_sentence": "Put on your coat, it's cold outside.",
+    "pronunciation": "/pʊt ɒn/"
+  },
+  {
+    "id": 20,
+    "word": "write down",
+    "translation": "yazmak, not almak",
+    "level": "A1",
+    "example_sentence": "Write down the homework assignment.",
+    "pronunciation": "/raɪt daʊn/"
+  },
+  {
+    "id": 21,
+    "word": "bring back",
+    "translation": "geri getirmek",
+    "level": "A2",
+    "example_sentence": "Please bring back a souvenir from your trip.",
+    "pronunciation": "/brɪŋ bæk/"
+  },
+  {
+    "id": 22,
+    "word": "call off",
+    "translation": "iptal etmek",
+    "level": "A2",
+    "example_sentence": "They called off the meeting due to bad weather.",
+    "pronunciation": "/kɔːl ɒf/"
+  },
+  {
+    "id": 23,
+    "word": "carry on",
+    "translation": "devam etmek",
+    "level": "A2",
+    "example_sentence": "Carry on with your work, please.",
+    "pronunciation": "/ˈkæri ɒn/"
+  },
+  {
+    "id": 24,
+    "word": "check in",
+    "translation": "check-in yapmak",
+    "level": "A2",
+    "example_sentence": "We need to check in at the hotel by 3 PM.",
+    "pronunciation": "/tʃɛk ɪn/"
+  },
+  {
+    "id": 25,
+    "word": "check out",
+    "translation": "check-out yapmak; incelemek",
+    "level": "A2",
+    "example_sentence": "We'll check out of the hotel tomorrow.",
+    "pronunciation": "/tʃɛk aʊt/"
+  },
+  {
+    "id": 26,
+    "word": "fill in",
+    "translation": "doldurmak (form)",
+    "level": "A2",
+    "example_sentence": "Please fill in the application form.",
+    "pronunciation": "/fɪl ɪn/"
+  },
+  {
+    "id": 27,
+    "word": "find out",
+    "translation": "öğrenmek, keşfetmek",
+    "level": "A2",
+    "example_sentence": "I need to find out what time the train leaves.",
+    "pronunciation": "/faɪnd aʊt/"
+  },
+  {
+    "id": 28,
+    "word": "get back",
+    "translation": "geri dönmek; geri almak",
+    "level": "A2",
+    "example_sentence": "When did you get back from holiday?",
+    "pronunciation": "/ɡɛt bæk/"
+  },
+  {
+    "id": 29,
+    "word": "get off",
+    "translation": "inmek (araçtan)",
+    "level": "A2",
+    "example_sentence": "Get off the bus at the next stop.",
+    "pronunciation": "/ɡɛt ɒf/"
+  },
+  {
+    "id": 30,
+    "word": "get on",
+    "translation": "binmek (araca); geçinmek",
+    "level": "A2",
+    "example_sentence": "Get on the train quickly!",
+    "pronunciation": "/ɡɛt ɒn/"
+  },
+  {
+    "id": 31,
+    "word": "give up",
+    "translation": "vazgeçmek",
+    "level": "A2",
+    "example_sentence": "Don't give up on your dreams.",
+    "pronunciation": "/ɡɪv ʌp/"
+  },
+  {
+    "id": 32,
+    "word": "go on",
+    "translation": "devam etmek",
+    "level": "A2",
+    "example_sentence": "Go on, I'm listening.",
+    "pronunciation": "/ɡəʊ ɒn/"
+  },
+  {
+    "id": 33,
+    "word": "hang up",
+    "translation": "telefonu kapatmak",
+    "level": "A2",
+    "example_sentence": "Don't hang up, I need to tell you something.",
+    "pronunciation": "/hæŋ ʌp/"
+  },
+  {
+    "id": 34,
+    "word": "hold on",
+    "translation": "beklemek; tutunmak",
+    "level": "A2",
+    "example_sentence": "Hold on, I'll be right back.",
+    "pronunciation": "/həʊld ɒn/"
+  },
+  {
+    "id": 35,
+    "word": "look up",
+    "translation": "araştırmak; yukarı bakmak",
+    "level": "A2",
+    "example_sentence": "Look up the word in the dictionary.",
+    "pronunciation": "/lʊk ʌp/"
+  },
+  {
+    "id": 36,
+    "word": "make up",
+    "translation": "uydurmak; barışmak; makyaj yapmak",
+    "level": "A2",
+    "example_sentence": "Don't make up excuses.",
+    "pronunciation": "/meɪk ʌp/"
+  },
+  {
+    "id": 37,
+    "word": "run out of",
+    "translation": "tükenmek",
+    "level": "A2",
+    "example_sentence": "We've run out of milk.",
+    "pronunciation": "/rʌn aʊt ɒv/"
+  },
+  {
+    "id": 38,
+    "word": "set up",
+    "translation": "kurmak, hazırlamak",
+    "level": "A2",
+    "example_sentence": "Can you set up the projector?",
+    "pronunciation": "/sɛt ʌp/"
+  },
+  {
+    "id": 39,
+    "word": "show up",
+    "translation": "görünmek, ortaya çıkmak",
+    "level": "A2",
+    "example_sentence": "She didn't show up to the party.",
+    "pronunciation": "/ʃəʊ ʌp/"
+  },
+  {
+    "id": 40,
+    "word": "switch off",
+    "translation": "kapatmak (elektrikli alet)",
+    "level": "A2",
+    "example_sentence": "Switch off your phone during the exam.",
+    "pronunciation": "/swɪtʃ ɒf/"
+  },
+  {
+    "id": 41,
+    "word": "switch on",
+    "translation": "açmak (elektrikli alet)",
+    "level": "A2",
+    "example_sentence": "Switch on the computer and log in.",
+    "pronunciation": "/swɪtʃ ɒn/"
+  },
+  {
+    "id": 42,
+    "word": "take out",
+    "translation": "dışarı çıkarmak; çekmek (para)",
+    "level": "A2",
+    "example_sentence": "Take out some cash from the ATM.",
+    "pronunciation": "/teɪk aʊt/"
+  },
+  {
+    "id": 43,
+    "word": "try on",
+    "translation": "denemek (kıyafet)",
+    "level": "A2",
+    "example_sentence": "Can I try on this jacket?",
+    "pronunciation": "/traɪ ɒn/"
+  },
+  {
+    "id": 44,
+    "word": "turn up",
+    "translation": "sesi artırmak; ortaya çıkmak",
+    "level": "A2",
+    "example_sentence": "Turn up the volume, I can't hear.",
+    "pronunciation": "/tɜːn ʌp/"
+  },
+  {
+    "id": 45,
+    "word": "turn down",
+    "translation": "sesi kısmak; reddetmek",
+    "level": "A2",
+    "example_sentence": "She turned down the job offer.",
+    "pronunciation": "/tɜːn daʊn/"
+  },
+  {
+    "id": 46,
+    "word": "use up",
+    "translation": "tüketmek, bitirmek",
+    "level": "A2",
+    "example_sentence": "We used up all the paper.",
+    "pronunciation": "/juːz ʌp/"
+  },
+  {
+    "id": 47,
+    "word": "wait for",
+    "translation": "beklemek",
+    "level": "A2",
+    "example_sentence": "I've been waiting for the bus for 20 minutes.",
+    "pronunciation": "/weɪt fɔːr/"
+  },
+  {
+    "id": 48,
+    "word": "throw away",
+    "translation": "çöpe atmak",
+    "level": "A2",
+    "example_sentence": "Don't throw away that receipt.",
+    "pronunciation": "/θrəʊ əˈweɪ/"
+  },
+  {
+    "id": 49,
+    "word": "work out",
+    "translation": "egzersiz yapmak; çözmek",
+    "level": "A2",
+    "example_sentence": "I work out at the gym three times a week.",
+    "pronunciation": "/wɜːk aʊt/"
+  },
+  {
+    "id": 50,
+    "word": "zoom in",
+    "translation": "yakınlaştırmak",
+    "level": "A2",
+    "example_sentence": "Zoom in on the map to see more detail.",
+    "pronunciation": "/zuːm ɪn/"
+  },
+  {
+    "id": 51,
+    "word": "break down",
+    "translation": "arızalanmak; çökmek (duygusal)",
+    "level": "B1",
+    "example_sentence": "The car broke down on the highway.",
+    "pronunciation": "/breɪk daʊn/"
+  },
+  {
+    "id": 52,
+    "word": "break up",
+    "translation": "ayrılmak (ilişki); dağılmak",
+    "level": "B1",
+    "example_sentence": "They broke up after two years together.",
+    "pronunciation": "/breɪk ʌp/"
+  },
+  {
+    "id": 53,
+    "word": "bring up",
+    "translation": "yetiştirmek; gündeme getirmek",
+    "level": "B1",
+    "example_sentence": "She was brought up by her grandparents.",
+    "pronunciation": "/brɪŋ ʌp/"
+  },
+  {
+    "id": 54,
+    "word": "catch up",
+    "translation": "yetişmek, yakalamak",
+    "level": "B1",
+    "example_sentence": "Run faster so we can catch up with them.",
+    "pronunciation": "/kætʃ ʌp/"
+  },
+  {
+    "id": 55,
+    "word": "come across",
+    "translation": "tesadüfen bulmak",
+    "level": "B1",
+    "example_sentence": "I came across an old photo album.",
+    "pronunciation": "/kʌm əˈkrɒs/"
+  },
+  {
+    "id": 56,
+    "word": "come up with",
+    "translation": "bulmak, düşünmek (fikir)",
+    "level": "B1",
+    "example_sentence": "She came up with a brilliant solution.",
+    "pronunciation": "/kʌm ʌp wɪð/"
+  },
+  {
+    "id": 57,
+    "word": "cut back on",
+    "translation": "kısmak, azaltmak",
+    "level": "B1",
+    "example_sentence": "We need to cut back on expenses.",
+    "pronunciation": "/kʌt bæk ɒn/"
+  },
+  {
+    "id": 58,
+    "word": "deal with",
+    "translation": "ile ilgilenmek, çözmek",
+    "level": "B1",
+    "example_sentence": "You need to deal with this problem immediately.",
+    "pronunciation": "/diːl wɪð/"
+  },
+  {
+    "id": 59,
+    "word": "drop off",
+    "translation": "bırakmak (birini bir yere); uyuya kalmak",
+    "level": "B1",
+    "example_sentence": "I'll drop you off at the station.",
+    "pronunciation": "/drɒp ɒf/"
+  },
+  {
+    "id": 60,
+    "word": "end up",
+    "translation": "sonunda olmak",
+    "level": "B1",
+    "example_sentence": "We ended up staying until midnight.",
+    "pronunciation": "/ɛnd ʌp/"
+  },
+  {
+    "id": 61,
+    "word": "fall apart",
+    "translation": "parçalara ayrılmak; çökmek",
+    "level": "B1",
+    "example_sentence": "The old building is falling apart.",
+    "pronunciation": "/fɔːl əˈpɑːt/"
+  },
+  {
+    "id": 62,
+    "word": "fall behind",
+    "translation": "geri kalmak",
+    "level": "B1",
+    "example_sentence": "Don't fall behind on your rent payments.",
+    "pronunciation": "/fɔːl bɪˈhaɪnd/"
+  },
+  {
+    "id": 63,
+    "word": "figure out",
+    "translation": "anlamak, çözmek",
+    "level": "B1",
+    "example_sentence": "I can't figure out how to use this software.",
+    "pronunciation": "/ˈfɪɡər aʊt/"
+  },
+  {
+    "id": 64,
+    "word": "get along with",
+    "translation": "geçinmek, iyi anlaşmak",
+    "level": "B1",
+    "example_sentence": "Do you get along with your coworkers?",
+    "pronunciation": "/ɡɛt əˈlɒŋ wɪð/"
+  },
+  {
+    "id": 65,
+    "word": "get away",
+    "translation": "kaçmak; tatil yapmak",
+    "level": "B1",
+    "example_sentence": "We need to get away for a few days.",
+    "pronunciation": "/ɡɛt əˈweɪ/"
+  },
+  {
+    "id": 66,
+    "word": "get over",
+    "translation": "atlatmak, üstesinden gelmek",
+    "level": "B1",
+    "example_sentence": "It took her months to get over the breakup.",
+    "pronunciation": "/ɡɛt ˈəʊvər/"
+  },
+  {
+    "id": 67,
+    "word": "get rid of",
+    "translation": "kurtulmak",
+    "level": "B1",
+    "example_sentence": "It's time to get rid of old clothes.",
+    "pronunciation": "/ɡɛt rɪd ɒv/"
+  },
+  {
+    "id": 68,
+    "word": "give in",
+    "translation": "boyun eğmek, teslim olmak",
+    "level": "B1",
+    "example_sentence": "Don't give in to peer pressure.",
+    "pronunciation": "/ɡɪv ɪn/"
+  },
+  {
+    "id": 69,
+    "word": "go ahead",
+    "translation": "devam etmek; başlamak",
+    "level": "B1",
+    "example_sentence": "Go ahead and start without me.",
+    "pronunciation": "/ɡəʊ əˈhɛd/"
+  },
+  {
+    "id": 70,
+    "word": "grow up",
+    "translation": "büyümek",
+    "level": "B1",
+    "example_sentence": "Where did you grow up?",
+    "pronunciation": "/ɡrəʊ ʌp/"
+  },
+  {
+    "id": 71,
+    "word": "hand in",
+    "translation": "teslim etmek (ödev vb.)",
+    "level": "B1",
+    "example_sentence": "Hand in your assignments by Friday.",
+    "pronunciation": "/hænd ɪn/"
+  },
+  {
+    "id": 72,
+    "word": "keep up with",
+    "translation": "ayak uydurmak",
+    "level": "B1",
+    "example_sentence": "It's hard to keep up with the latest technology.",
+    "pronunciation": "/kiːp ʌp wɪð/"
+  },
+  {
+    "id": 73,
+    "word": "lay off",
+    "translation": "işten çıkarmak",
+    "level": "B1",
+    "example_sentence": "The company laid off 200 employees.",
+    "pronunciation": "/leɪ ɒf/"
+  },
+  {
+    "id": 74,
+    "word": "let down",
+    "translation": "hayal kırıklığına uğratmak",
+    "level": "B1",
+    "example_sentence": "Don't let me down this time.",
+    "pronunciation": "/lɛt daʊn/"
+  },
+  {
+    "id": 75,
+    "word": "look after",
+    "translation": "bakmak, ilgilenmek",
+    "level": "B1",
+    "example_sentence": "Can you look after my cat while I'm away?",
+    "pronunciation": "/lʊk ˈɑːftər/"
+  },
+  {
+    "id": 76,
+    "word": "look forward to",
+    "translation": "dört gözle beklemek",
+    "level": "B1",
+    "example_sentence": "I'm looking forward to the holidays.",
+    "pronunciation": "/lʊk ˈfɔːwəd tʊ/"
+  },
+  {
+    "id": 77,
+    "word": "look into",
+    "translation": "araştırmak, incelemek",
+    "level": "B1",
+    "example_sentence": "The police are looking into the matter.",
+    "pronunciation": "/lʊk ˈɪntʊ/"
+  },
+  {
+    "id": 78,
+    "word": "make out",
+    "translation": "anlamak; görmek; başarılı olmak",
+    "level": "B1",
+    "example_sentence": "I couldn't make out what he was saying.",
+    "pronunciation": "/meɪk aʊt/"
+  },
+  {
+    "id": 79,
+    "word": "move on",
+    "translation": "ilerlemek; geçmişi geride bırakmak",
+    "level": "B1",
+    "example_sentence": "It's time to move on and start fresh.",
+    "pronunciation": "/muːv ɒn/"
+  },
+  {
+    "id": 80,
+    "word": "pay back",
+    "translation": "geri ödemek; öcünü almak",
+    "level": "B1",
+    "example_sentence": "I'll pay you back next week.",
+    "pronunciation": "/peɪ bæk/"
+  },
+  {
+    "id": 81,
+    "word": "point out",
+    "translation": "işaret etmek, belirtmek",
+    "level": "B1",
+    "example_sentence": "She pointed out the mistakes in my essay.",
+    "pronunciation": "/pɔɪnt aʊt/"
+  },
+  {
+    "id": 82,
+    "word": "pull off",
+    "translation": "başarmak (zor bir şey)",
+    "level": "B1",
+    "example_sentence": "I can't believe he pulled off that performance.",
+    "pronunciation": "/pʊl ɒf/"
+  },
+  {
+    "id": 83,
+    "word": "put off",
+    "translation": "ertelemek; caydırmak",
+    "level": "B1",
+    "example_sentence": "Stop putting off your homework.",
+    "pronunciation": "/pʊt ɒf/"
+  },
+  {
+    "id": 84,
+    "word": "put up with",
+    "translation": "katlanmak, tahammül etmek",
+    "level": "B1",
+    "example_sentence": "I can't put up with the noise anymore.",
+    "pronunciation": "/pʊt ʌp wɪð/"
+  },
+  {
+    "id": 85,
+    "word": "rely on",
+    "translation": "güvenmek, bel bağlamak",
+    "level": "B1",
+    "example_sentence": "You can always rely on me.",
+    "pronunciation": "/rɪˈlaɪ ɒn/"
+  },
+  {
+    "id": 86,
+    "word": "run into",
+    "translation": "tesadüfen karşılaşmak; çarpmak",
+    "level": "B1",
+    "example_sentence": "I ran into an old friend at the market.",
+    "pronunciation": "/rʌn ˈɪntʊ/"
+  },
+  {
+    "id": 87,
+    "word": "set off",
+    "translation": "yola çıkmak; patlatmak",
+    "level": "B1",
+    "example_sentence": "We set off early to avoid traffic.",
+    "pronunciation": "/sɛt ɒf/"
+  },
+  {
+    "id": 88,
+    "word": "sort out",
+    "translation": "çözmek, halletmek",
+    "level": "B1",
+    "example_sentence": "We need to sort out this misunderstanding.",
+    "pronunciation": "/sɔːt aʊt/"
+  },
+  {
+    "id": 89,
+    "word": "take over",
+    "translation": "devralmak",
+    "level": "B1",
+    "example_sentence": "A new manager took over the department.",
+    "pronunciation": "/teɪk ˈəʊvər/"
+  },
+  {
+    "id": 90,
+    "word": "take part in",
+    "translation": "katılmak",
+    "level": "B1",
+    "example_sentence": "Everyone should take part in the discussion.",
+    "pronunciation": "/teɪk pɑːt ɪn/"
+  },
+  {
+    "id": 91,
+    "word": "take up",
+    "translation": "başlamak (hobi vb.); yer kaplamak",
+    "level": "B1",
+    "example_sentence": "She took up yoga last year.",
+    "pronunciation": "/teɪk ʌp/"
+  },
+  {
+    "id": 92,
+    "word": "think over",
+    "translation": "iyice düşünmek",
+    "level": "B1",
+    "example_sentence": "Think over the offer before deciding.",
+    "pronunciation": "/θɪŋk ˈəʊvər/"
+  },
+  {
+    "id": 93,
+    "word": "turn into",
+    "translation": "dönüşmek",
+    "level": "B1",
+    "example_sentence": "The small argument turned into a big fight.",
+    "pronunciation": "/tɜːn ˈɪntʊ/"
+  },
+  {
+    "id": 94,
+    "word": "wear out",
+    "translation": "yıpranmak; yorgunluktan bitap düşmek",
+    "level": "B1",
+    "example_sentence": "These shoes have worn out completely.",
+    "pronunciation": "/wɛr aʊt/"
+  },
+  {
+    "id": 95,
+    "word": "wind up",
+    "translation": "sonunda olmak/gelmek; bitirmek",
+    "level": "B1",
+    "example_sentence": "We wound up spending the whole day there.",
+    "pronunciation": "/waɪnd ʌp/"
+  },
+  {
+    "id": 96,
+    "word": "break into",
+    "translation": "zorla girmek; başlamak (birden)",
+    "level": "B1",
+    "example_sentence": "Someone broke into our house last night.",
+    "pronunciation": "/breɪk ˈɪntʊ/"
+  },
+  {
+    "id": 97,
+    "word": "call for",
+    "translation": "gerektirmek; almaya gitmek",
+    "level": "B1",
+    "example_sentence": "This situation calls for immediate action.",
+    "pronunciation": "/kɔːl fɔːr/"
+  },
+  {
+    "id": 98,
+    "word": "come down with",
+    "translation": "hastalanmak",
+    "level": "B1",
+    "example_sentence": "I think I'm coming down with a cold.",
+    "pronunciation": "/kʌm daʊn wɪð/"
+  },
+  {
+    "id": 99,
+    "word": "count on",
+    "translation": "güvenmek, hesap etmek",
+    "level": "B1",
+    "example_sentence": "I'm counting on you to be there.",
+    "pronunciation": "/kaʊnt ɒn/"
+  },
+  {
+    "id": 100,
+    "word": "drop in",
+    "translation": "uğramak, anlık ziyaret etmek",
+    "level": "B1",
+    "example_sentence": "Feel free to drop in anytime.",
+    "pronunciation": "/drɒp ɪn/"
+  },
+  {
+    "id": 101,
+    "word": "account for",
+    "translation": "açıklamak; oluşturmak (oran)",
+    "level": "B2",
+    "example_sentence": "Can you account for your whereabouts that night?",
+    "pronunciation": "/əˈkaʊnt fɔːr/"
+  },
+  {
+    "id": 102,
+    "word": "act on",
+    "translation": "göre hareket etmek",
+    "level": "B2",
+    "example_sentence": "We need to act on this information quickly.",
+    "pronunciation": "/ækt ɒn/"
+  },
+  {
+    "id": 103,
+    "word": "back down",
+    "translation": "geri adım atmak, vazgeçmek",
+    "level": "B2",
+    "example_sentence": "He refused to back down from his position.",
+    "pronunciation": "/bæk daʊn/"
+  },
+  {
+    "id": 104,
+    "word": "back up",
+    "translation": "yedeklemek; desteklemek; geri gitmek",
+    "level": "B2",
+    "example_sentence": "Always back up your files on an external drive.",
+    "pronunciation": "/bæk ʌp/"
+  },
+  {
+    "id": 105,
+    "word": "bear out",
+    "translation": "doğrulamak, desteklemek",
+    "level": "B2",
+    "example_sentence": "The evidence bears out his claim.",
+    "pronunciation": "/bɛr aʊt/"
+  },
+  {
+    "id": 106,
+    "word": "blow up",
+    "translation": "patlamak; büyütmek (fotoğraf); kızmak",
+    "level": "B2",
+    "example_sentence": "The factory blew up after a gas leak.",
+    "pronunciation": "/bləʊ ʌp/"
+  },
+  {
+    "id": 107,
+    "word": "boil down to",
+    "translation": "özetle şuna gelmek",
+    "level": "B2",
+    "example_sentence": "It all boils down to money.",
+    "pronunciation": "/bɔɪl daʊn tʊ/"
+  },
+  {
+    "id": 108,
+    "word": "branch out",
+    "translation": "genişlemek, yeni alanlara girmek",
+    "level": "B2",
+    "example_sentence": "The company is branching out into new markets.",
+    "pronunciation": "/brɑːntʃ aʊt/"
+  },
+  {
+    "id": 109,
+    "word": "bring about",
+    "translation": "yol açmak, neden olmak",
+    "level": "B2",
+    "example_sentence": "The reforms brought about significant changes.",
+    "pronunciation": "/brɪŋ əˈbaʊt/"
+  },
+  {
+    "id": 110,
+    "word": "build up",
+    "translation": "biriktirmek; güçlendirmek",
+    "level": "B2",
+    "example_sentence": "You need to build up your confidence.",
+    "pronunciation": "/bɪld ʌp/"
+  },
+  {
+    "id": 111,
+    "word": "burn out",
+    "translation": "tükenmek (enerji/motivasyon)",
+    "level": "B2",
+    "example_sentence": "She burned out after working 80 hours a week.",
+    "pronunciation": "/bɜːn aʊt/"
+  },
+  {
+    "id": 112,
+    "word": "carry out",
+    "translation": "gerçekleştirmek, uygulamak",
+    "level": "B2",
+    "example_sentence": "The scientists carried out a series of experiments.",
+    "pronunciation": "/ˈkæri aʊt/"
+  },
+  {
+    "id": 113,
+    "word": "cave in",
+    "translation": "çökmek; boyun eğmek",
+    "level": "B2",
+    "example_sentence": "The roof caved in under the weight of snow.",
+    "pronunciation": "/keɪv ɪn/"
+  },
+  {
+    "id": 114,
+    "word": "clamp down on",
+    "translation": "sert önlemler almak",
+    "level": "B2",
+    "example_sentence": "The government clamped down on corruption.",
+    "pronunciation": "/klæmp daʊn ɒn/"
+  },
+  {
+    "id": 115,
+    "word": "come about",
+    "translation": "olmak, meydana gelmek",
+    "level": "B2",
+    "example_sentence": "How did this situation come about?",
+    "pronunciation": "/kʌm əˈbaʊt/"
+  },
+  {
+    "id": 116,
+    "word": "come forward",
+    "translation": "öne çıkmak, kendini göstermek",
+    "level": "B2",
+    "example_sentence": "Witnesses are asked to come forward.",
+    "pronunciation": "/kʌm ˈfɔːwəd/"
+  },
+  {
+    "id": 117,
+    "word": "come to terms with",
+    "translation": "kabullenmek, barışmak",
+    "level": "B2",
+    "example_sentence": "She finally came to terms with her loss.",
+    "pronunciation": "/kʌm tʊ tɜːmz wɪð/"
+  },
+  {
+    "id": 118,
+    "word": "cut down on",
+    "translation": "azaltmak",
+    "level": "B2",
+    "example_sentence": "You should cut down on sugar.",
+    "pronunciation": "/kʌt daʊn ɒn/"
+  },
+  {
+    "id": 119,
+    "word": "do away with",
+    "translation": "kaldırmak, ortadan kaldırmak",
+    "level": "B2",
+    "example_sentence": "The new law does away with unnecessary regulations.",
+    "pronunciation": "/duː əˈweɪ wɪð/"
+  },
+  {
+    "id": 120,
+    "word": "draw on",
+    "translation": "yararlanmak, kullanmak",
+    "level": "B2",
+    "example_sentence": "He drew on his years of experience.",
+    "pronunciation": "/drɔː ɒn/"
+  },
+  {
+    "id": 121,
+    "word": "draw up",
+    "translation": "hazırlamak (belge, plan)",
+    "level": "B2",
+    "example_sentence": "The lawyers drew up a contract.",
+    "pronunciation": "/drɔː ʌp/"
+  },
+  {
+    "id": 122,
+    "word": "ease off",
+    "translation": "hafiflemek, azalmak",
+    "level": "B2",
+    "example_sentence": "The rain eased off in the afternoon.",
+    "pronunciation": "/iːz ɒf/"
+  },
+  {
+    "id": 123,
+    "word": "fall out with",
+    "translation": "küsmek, kavga etmek",
+    "level": "B2",
+    "example_sentence": "I've fallen out with my best friend.",
+    "pronunciation": "/fɔːl aʊt wɪð/"
+  },
+  {
+    "id": 124,
+    "word": "fall through",
+    "translation": "suya düşmek, gerçekleşememek",
+    "level": "B2",
+    "example_sentence": "The deal fell through at the last minute.",
+    "pronunciation": "/fɔːl θruː/"
+  },
+  {
+    "id": 125,
+    "word": "follow through",
+    "translation": "sonuçlandırmak, tamamlamak",
+    "level": "B2",
+    "example_sentence": "You need to follow through on your promises.",
+    "pronunciation": "/ˈfɒləʊ θruː/"
+  },
+  {
+    "id": 126,
+    "word": "get around",
+    "translation": "dolaşmak; aşmak (engel)",
+    "level": "B2",
+    "example_sentence": "It's hard to get around the city without a car.",
+    "pronunciation": "/ɡɛt əˈraʊnd/"
+  },
+  {
+    "id": 127,
+    "word": "give away",
+    "translation": "vermek; ele vermek; ifşa etmek",
+    "level": "B2",
+    "example_sentence": "He gave away all his secrets.",
+    "pronunciation": "/ɡɪv əˈweɪ/"
+  },
+  {
+    "id": 128,
+    "word": "go through",
+    "translation": "yaşamak (zor süreç); incelemek",
+    "level": "B2",
+    "example_sentence": "She went through a very difficult time.",
+    "pronunciation": "/ɡəʊ θruː/"
+  },
+  {
+    "id": 129,
+    "word": "go without",
+    "translation": "mahrum kalmak",
+    "level": "B2",
+    "example_sentence": "During the drought, people went without water.",
+    "pronunciation": "/ɡəʊ wɪˈðaʊt/"
+  },
+  {
+    "id": 130,
+    "word": "hold back",
+    "translation": "geri tutmak; kendini tutmak",
+    "level": "B2",
+    "example_sentence": "Don't hold back your feelings.",
+    "pronunciation": "/həʊld bæk/"
+  },
+  {
+    "id": 131,
+    "word": "hold out",
+    "translation": "dayanmak; uzatmak (el)",
+    "level": "B2",
+    "example_sentence": "How long can they hold out without supplies?",
+    "pronunciation": "/həʊld aʊt/"
+  },
+  {
+    "id": 132,
+    "word": "iron out",
+    "translation": "sorunları gidermek, düzeltmek",
+    "level": "B2",
+    "example_sentence": "We need to iron out the details.",
+    "pronunciation": "/ˈaɪən aʊt/"
+  },
+  {
+    "id": 133,
+    "word": "lash out at",
+    "translation": "saldırmak, çıkışmak",
+    "level": "B2",
+    "example_sentence": "He lashed out at the journalists.",
+    "pronunciation": "/læʃ aʊt æt/"
+  },
+  {
+    "id": 134,
+    "word": "live up to",
+    "translation": "beklentileri karşılamak",
+    "level": "B2",
+    "example_sentence": "The film didn't live up to the hype.",
+    "pronunciation": "/lɪv ʌp tʊ/"
+  },
+  {
+    "id": 135,
+    "word": "look down on",
+    "translation": "küçümsemek, aşağılamak",
+    "level": "B2",
+    "example_sentence": "Don't look down on people who earn less.",
+    "pronunciation": "/lʊk daʊn ɒn/"
+  },
+  {
+    "id": 136,
+    "word": "make do with",
+    "translation": "idare etmek, yetinmek",
+    "level": "B2",
+    "example_sentence": "We'll have to make do with what we have.",
+    "pronunciation": "/meɪk duː wɪð/"
+  },
+  {
+    "id": 137,
+    "word": "make for",
+    "translation": "doğru gitmek; yol açmak",
+    "level": "B2",
+    "example_sentence": "The dark clouds made for a dramatic sky.",
+    "pronunciation": "/meɪk fɔːr/"
+  },
+  {
+    "id": 138,
+    "word": "narrow down",
+    "translation": "daraltmak, azaltmak (seçenekleri)",
+    "level": "B2",
+    "example_sentence": "Let's narrow down our choices to three.",
+    "pronunciation": "/ˈnærəʊ daʊn/"
+  },
+  {
+    "id": 139,
+    "word": "open up",
+    "translation": "açılmak (duygusal); genişlemek",
+    "level": "B2",
+    "example_sentence": "It's hard for him to open up about his feelings.",
+    "pronunciation": "/ˈəʊpən ʌp/"
+  },
+  {
+    "id": 140,
+    "word": "own up",
+    "translation": "itiraf etmek",
+    "level": "B2",
+    "example_sentence": "You should own up to your mistakes.",
+    "pronunciation": "/əʊn ʌp/"
+  },
+  {
+    "id": 141,
+    "word": "pass on",
+    "translation": "aktarmak; geçmek (hastalık)",
+    "level": "B2",
+    "example_sentence": "Please pass on the message to him.",
+    "pronunciation": "/pɑːs ɒn/"
+  },
+  {
+    "id": 142,
+    "word": "phase out",
+    "translation": "kademeli olarak kaldırmak",
+    "level": "B2",
+    "example_sentence": "The company plans to phase out older models.",
+    "pronunciation": "/feɪz aʊt/"
+  },
+  {
+    "id": 143,
+    "word": "pick up on",
+    "translation": "fark etmek, sezmek",
+    "level": "B2",
+    "example_sentence": "She picked up on the tension in the room.",
+    "pronunciation": "/pɪk ʌp ɒn/"
+  },
+  {
+    "id": 144,
+    "word": "pitch in",
+    "translation": "yardım etmek, katkıda bulunmak",
+    "level": "B2",
+    "example_sentence": "Everyone pitched in to finish the project.",
+    "pronunciation": "/pɪtʃ ɪn/"
+  },
+  {
+    "id": 145,
+    "word": "play down",
+    "translation": "küçümsemek, önemsizleştirmek",
+    "level": "B2",
+    "example_sentence": "The government tried to play down the crisis.",
+    "pronunciation": "/pleɪ daʊn/"
+  },
+  {
+    "id": 146,
+    "word": "press ahead",
+    "translation": "kararlılıkla devam etmek",
+    "level": "B2",
+    "example_sentence": "We'll press ahead with the plan.",
+    "pronunciation": "/prɛs əˈhɛd/"
+  },
+  {
+    "id": 147,
+    "word": "pull apart",
+    "translation": "parçalara ayırmak; eleştirmek",
+    "level": "B2",
+    "example_sentence": "The critics pulled the film apart.",
+    "pronunciation": "/pʊl əˈpɑːt/"
+  },
+  {
+    "id": 148,
+    "word": "pull through",
+    "translation": "atlatmak (hastalık, kriz)",
+    "level": "B2",
+    "example_sentence": "The doctors said she'll pull through.",
+    "pronunciation": "/pʊl θruː/"
+  },
+  {
+    "id": 149,
+    "word": "put across",
+    "translation": "aktarmak, iletmek (fikir)",
+    "level": "B2",
+    "example_sentence": "He has trouble putting his ideas across.",
+    "pronunciation": "/pʊt əˈkrɒs/"
+  },
+  {
+    "id": 150,
+    "word": "put forward",
+    "translation": "öne sürmek, teklif etmek",
+    "level": "B2",
+    "example_sentence": "She put forward an interesting proposal.",
+    "pronunciation": "/pʊt ˈfɔːwəd/"
+  },
+  {
+    "id": 151,
+    "word": "rule out",
+    "translation": "dışlamak, elemek",
+    "level": "B2",
+    "example_sentence": "The doctor ruled out any serious illness.",
+    "pronunciation": "/ruːl aʊt/"
+  },
+  {
+    "id": 152,
+    "word": "run over",
+    "translation": "ezmek (araçla); gözden geçirmek",
+    "level": "B2",
+    "example_sentence": "Let's run over the main points again.",
+    "pronunciation": "/rʌn ˈəʊvər/"
+  },
+  {
+    "id": 153,
+    "word": "see through",
+    "translation": "anlamak (aldatmacayı); tamamlamak",
+    "level": "B2",
+    "example_sentence": "I can see through his lies.",
+    "pronunciation": "/siː θruː/"
+  },
+  {
+    "id": 154,
+    "word": "settle down",
+    "translation": "yerleşmek; sakinleşmek",
+    "level": "B2",
+    "example_sentence": "He finally settled down and got married.",
+    "pronunciation": "/ˈsɛtəl daʊn/"
+  },
+  {
+    "id": 155,
+    "word": "shake off",
+    "translation": "üstünden atmak; kurtulmak",
+    "level": "B2",
+    "example_sentence": "I can't shake off this feeling of anxiety.",
+    "pronunciation": "/ʃeɪk ɒf/"
+  },
+  {
+    "id": 156,
+    "word": "stand for",
+    "translation": "temsil etmek; kabul etmek",
+    "level": "B2",
+    "example_sentence": "What does NATO stand for?",
+    "pronunciation": "/stænd fɔːr/"
+  },
+  {
+    "id": 157,
+    "word": "stand out",
+    "translation": "göze çarpmak",
+    "level": "B2",
+    "example_sentence": "Her red dress made her stand out in the crowd.",
+    "pronunciation": "/stænd aʊt/"
+  },
+  {
+    "id": 158,
+    "word": "stem from",
+    "translation": "kaynaklanmak, köken almak",
+    "level": "B2",
+    "example_sentence": "His fear stems from a childhood experience.",
+    "pronunciation": "/stɛm frɒm/"
+  },
+  {
+    "id": 159,
+    "word": "stick to",
+    "translation": "uymak, sadık kalmak",
+    "level": "B2",
+    "example_sentence": "Stick to the plan.",
+    "pronunciation": "/stɪk tʊ/"
+  },
+  {
+    "id": 160,
+    "word": "take on",
+    "translation": "üstlenmek; işe almak",
+    "level": "B2",
+    "example_sentence": "She took on too much work this month.",
+    "pronunciation": "/teɪk ɒn/"
+  },
+  {
+    "id": 161,
+    "word": "talk over",
+    "translation": "tartışmak, konuşmak",
+    "level": "B2",
+    "example_sentence": "Let's talk over the details later.",
+    "pronunciation": "/tɔːk ˈəʊvər/"
+  },
+  {
+    "id": 162,
+    "word": "tear down",
+    "translation": "yıkmak",
+    "level": "B2",
+    "example_sentence": "They tore down the old factory.",
+    "pronunciation": "/tɛr daʊn/"
+  },
+  {
+    "id": 163,
+    "word": "tie up",
+    "translation": "bağlamak; meşgul etmek",
+    "level": "B2",
+    "example_sentence": "I'm tied up in meetings all afternoon.",
+    "pronunciation": "/taɪ ʌp/"
+  },
+  {
+    "id": 164,
+    "word": "touch on",
+    "translation": "değinmek, kısaca bahsetmek",
+    "level": "B2",
+    "example_sentence": "The report touches on several key issues.",
+    "pronunciation": "/tʌtʃ ɒn/"
+  },
+  {
+    "id": 165,
+    "word": "track down",
+    "translation": "bulmak, izini sürmek",
+    "level": "B2",
+    "example_sentence": "Police managed to track down the suspect.",
+    "pronunciation": "/træk daʊn/"
+  },
+  {
+    "id": 166,
+    "word": "trigger off",
+    "translation": "tetiklemek",
+    "level": "B2",
+    "example_sentence": "The news triggered off a wave of protests.",
+    "pronunciation": "/ˈtrɪɡər ɒf/"
+  },
+  {
+    "id": 167,
+    "word": "turn out",
+    "translation": "ortaya çıkmak; gelmek (kalabalık)",
+    "level": "B2",
+    "example_sentence": "It turned out to be a great day.",
+    "pronunciation": "/tɜːn aʊt/"
+  },
+  {
+    "id": 168,
+    "word": "weigh up",
+    "translation": "tartmak, değerlendirmek",
+    "level": "B2",
+    "example_sentence": "You need to weigh up the pros and cons.",
+    "pronunciation": "/weɪ ʌp/"
+  },
+  {
+    "id": 169,
+    "word": "zero in on",
+    "translation": "odaklanmak, hedef almak",
+    "level": "B2",
+    "example_sentence": "The detective zeroed in on the prime suspect.",
+    "pronunciation": "/ˈzɪərəʊ ɪn ɒn/"
+  },
+  {
+    "id": 170,
+    "word": "bail out",
+    "translation": "kurtarmak (finansal); parayla serbest bırakmak",
+    "level": "B2",
+    "example_sentence": "The government bailed out the failing bank.",
+    "pronunciation": "/beɪl aʊt/"
+  },
+  {
+    "id": 171,
+    "word": "abide by",
+    "translation": "uymak (kurala, yasaya)",
+    "level": "C1",
+    "example_sentence": "All members must abide by the rules.",
+    "pronunciation": "/əˈbaɪd baɪ/"
+  },
+  {
+    "id": 172,
+    "word": "act up",
+    "translation": "sorun çıkarmak, yaramazlık etmek",
+    "level": "C1",
+    "example_sentence": "My back has been acting up again.",
+    "pronunciation": "/ækt ʌp/"
+  },
+  {
+    "id": 173,
+    "word": "allude to",
+    "translation": "ima etmek, dolaylı bahsetmek",
+    "level": "C1",
+    "example_sentence": "He alluded to problems without naming them.",
+    "pronunciation": "/əˈluːd tʊ/"
+  },
+  {
+    "id": 174,
+    "word": "amount to",
+    "translation": "varmak, ulaşmak; toplamda olmak",
+    "level": "C1",
+    "example_sentence": "His excuses amount to nothing.",
+    "pronunciation": "/əˈmaʊnt tʊ/"
+  },
+  {
+    "id": 175,
+    "word": "appeal to",
+    "translation": "çekici gelmek; başvurmak",
+    "level": "C1",
+    "example_sentence": "The new design appeals to younger consumers.",
+    "pronunciation": "/əˈpiːl tʊ/"
+  },
+  {
+    "id": 176,
+    "word": "ascribe to",
+    "translation": "atfetmek, bağlamak",
+    "level": "C1",
+    "example_sentence": "The painting is ascribed to Rembrandt.",
+    "pronunciation": "/əˈskraɪb tʊ/"
+  },
+  {
+    "id": 177,
+    "word": "bank on",
+    "translation": "güvenmek, hesap etmek",
+    "level": "C1",
+    "example_sentence": "Don't bank on getting a promotion this year.",
+    "pronunciation": "/bæŋk ɒn/"
+  },
+  {
+    "id": 178,
+    "word": "bear down on",
+    "translation": "üstüne yüklenmek; yaklaşmak",
+    "level": "C1",
+    "example_sentence": "The storm bore down on the coast.",
+    "pronunciation": "/bɛr daʊn ɒn/"
+  },
+  {
+    "id": 179,
+    "word": "bear with",
+    "translation": "sabretmek, tahammül etmek",
+    "level": "C1",
+    "example_sentence": "Bear with me while I explain the details.",
+    "pronunciation": "/bɛr wɪð/"
+  },
+  {
+    "id": 180,
+    "word": "bolster up",
+    "translation": "güçlendirmek, desteklemek",
+    "level": "C1",
+    "example_sentence": "The new data bolsters up the theory.",
+    "pronunciation": "/ˈbəʊlstər ʌp/"
+  },
+  {
+    "id": 181,
+    "word": "buy into",
+    "translation": "inanmak, satın almak (fikir)",
+    "level": "C1",
+    "example_sentence": "I don't buy into the idea that money buys happiness.",
+    "pronunciation": "/baɪ ˈɪntʊ/"
+  },
+  {
+    "id": 182,
+    "word": "cast aside",
+    "translation": "bir kenara bırakmak, reddetmek",
+    "level": "C1",
+    "example_sentence": "She cast aside her doubts and took the leap.",
+    "pronunciation": "/kɑːst əˈsaɪd/"
+  },
+  {
+    "id": 183,
+    "word": "chip away at",
+    "translation": "yavaş yavaş aşındırmak",
+    "level": "C1",
+    "example_sentence": "Years of stress chipped away at his health.",
+    "pronunciation": "/tʃɪp əˈweɪ æt/"
+  },
+  {
+    "id": 184,
+    "word": "come to light",
+    "translation": "ortaya çıkmak, gün yüzüne çıkmak",
+    "level": "C1",
+    "example_sentence": "New evidence came to light during the trial.",
+    "pronunciation": "/kʌm tʊ laɪt/"
+  },
+  {
+    "id": 185,
+    "word": "conjure up",
+    "translation": "çağrıştırmak; sihirle çağırmak",
+    "level": "C1",
+    "example_sentence": "The smell conjured up childhood memories.",
+    "pronunciation": "/ˈkɒndʒər ʌp/"
+  },
+  {
+    "id": 186,
+    "word": "contend with",
+    "translation": "mücadele etmek, başa çıkmak",
+    "level": "C1",
+    "example_sentence": "She had many difficulties to contend with.",
+    "pronunciation": "/kənˈtɛnd wɪð/"
+  },
+  {
+    "id": 187,
+    "word": "defer to",
+    "translation": "saygı göstermek, boyun eğmek",
+    "level": "C1",
+    "example_sentence": "He deferred to his mentor's judgment.",
+    "pronunciation": "/dɪˈfɜːr tʊ/"
+  },
+  {
+    "id": 188,
+    "word": "detract from",
+    "translation": "değerini düşürmek, gölgelemek",
+    "level": "C1",
+    "example_sentence": "One bad review doesn't detract from the achievement.",
+    "pronunciation": "/dɪˈtrækt frɒm/"
+  },
+  {
+    "id": 189,
+    "word": "dispense with",
+    "translation": "vazgeçmek, kurtulmak",
+    "level": "C1",
+    "example_sentence": "Can we dispense with the formalities?",
+    "pronunciation": "/dɪˈspɛns wɪð/"
+  },
+  {
+    "id": 190,
+    "word": "elaborate on",
+    "translation": "ayrıntılandırmak, genişletmek",
+    "level": "C1",
+    "example_sentence": "Could you elaborate on that point?",
+    "pronunciation": "/ɪˈlæbəreɪt ɒn/"
+  },
+  {
+    "id": 191,
+    "word": "embark on",
+    "translation": "başlamak, girişmek",
+    "level": "C1",
+    "example_sentence": "She embarked on a new career.",
+    "pronunciation": "/ɪmˈbɑːk ɒn/"
+  },
+  {
+    "id": 192,
+    "word": "encroach on",
+    "translation": "tecavüz etmek, ihlal etmek",
+    "level": "C1",
+    "example_sentence": "Development is encroaching on natural habitats.",
+    "pronunciation": "/ɪnˈkrəʊtʃ ɒn/"
+  },
+  {
+    "id": 193,
+    "word": "engage with",
+    "translation": "bağlantı kurmak, ilgilenmek",
+    "level": "C1",
+    "example_sentence": "It's important to engage with your audience.",
+    "pronunciation": "/ɪnˈɡeɪdʒ wɪð/"
+  },
+  {
+    "id": 194,
+    "word": "fall back on",
+    "translation": "güvenmek (yedek seçenek)",
+    "level": "C1",
+    "example_sentence": "If all else fails, we can fall back on the old system.",
+    "pronunciation": "/fɔːl bæk ɒn/"
+  },
+  {
+    "id": 195,
+    "word": "feed into",
+    "translation": "katkıda bulunmak, beslemek",
+    "level": "C1",
+    "example_sentence": "Local taxes feed into the national budget.",
+    "pronunciation": "/fiːd ˈɪntʊ/"
+  },
+  {
+    "id": 196,
+    "word": "forge ahead",
+    "translation": "ilerlemeye devam etmek",
+    "level": "C1",
+    "example_sentence": "Despite setbacks, they forged ahead.",
+    "pronunciation": "/fɔːdʒ əˈhɛd/"
+  },
+  {
+    "id": 197,
+    "word": "grapple with",
+    "translation": "boğuşmak, başa çıkmaya çalışmak",
+    "level": "C1",
+    "example_sentence": "Scientists are grappling with the problem.",
+    "pronunciation": "/ˈɡræpəl wɪð/"
+  },
+  {
+    "id": 198,
+    "word": "hammer out",
+    "translation": "zorlu müzakerelerle varmak",
+    "level": "C1",
+    "example_sentence": "They hammered out an agreement after hours of talks.",
+    "pronunciation": "/ˈhæmər aʊt/"
+  },
+  {
+    "id": 199,
+    "word": "hinge on",
+    "translation": "bağlı olmak, bağımlı olmak",
+    "level": "C1",
+    "example_sentence": "Everything hinges on the outcome of the vote.",
+    "pronunciation": "/hɪndʒ ɒn/"
+  },
+  {
+    "id": 200,
+    "word": "infringe on",
+    "translation": "ihlal etmek (hak, kural)",
+    "level": "C1",
+    "example_sentence": "This policy infringes on our rights.",
+    "pronunciation": "/ɪnˈfrɪndʒ ɒn/"
+  },
+  {
+    "id": 201,
+    "word": "insist on",
+    "translation": "ısrar etmek",
+    "level": "C1",
+    "example_sentence": "She insisted on paying for dinner.",
+    "pronunciation": "/ɪnˈsɪst ɒn/"
+  },
+  {
+    "id": 202,
+    "word": "interfere with",
+    "translation": "müdahale etmek, engellemek",
+    "level": "C1",
+    "example_sentence": "Don't let distractions interfere with your focus.",
+    "pronunciation": "/ˌɪntəˈfɪər wɪð/"
+  },
+  {
+    "id": 203,
+    "word": "lay bare",
+    "translation": "gözler önüne sermek",
+    "level": "C1",
+    "example_sentence": "The investigation laid bare the corruption.",
+    "pronunciation": "/leɪ bɛr/"
+  },
+  {
+    "id": 204,
+    "word": "lend itself to",
+    "translation": "uygun olmak, elverişli olmak",
+    "level": "C1",
+    "example_sentence": "This material lends itself to outdoor use.",
+    "pronunciation": "/lɛnd ɪtˈsɛlf tʊ/"
+  },
+  {
+    "id": 205,
+    "word": "linger on",
+    "translation": "sürüp gitmek, bir türlü geçmemek",
+    "level": "C1",
+    "example_sentence": "The smell lingered on for days.",
+    "pronunciation": "/ˈlɪŋɡər ɒn/"
+  },
+  {
+    "id": 206,
+    "word": "map out",
+    "translation": "planlamak, taslak çizmek",
+    "level": "C1",
+    "example_sentence": "Let's map out a strategy for the next quarter.",
+    "pronunciation": "/mæp aʊt/"
+  },
+  {
+    "id": 207,
+    "word": "mull over",
+    "translation": "üzerinde düşünmek, zihninde tartmak",
+    "level": "C1",
+    "example_sentence": "She mulled over the decision for weeks.",
+    "pronunciation": "/mʌl ˈəʊvər/"
+  },
+  {
+    "id": 208,
+    "word": "pan out",
+    "translation": "sonuçlanmak, olgunlaşmak",
+    "level": "C1",
+    "example_sentence": "Let's see how things pan out.",
+    "pronunciation": "/pæn aʊt/"
+  },
+  {
+    "id": 209,
+    "word": "paper over",
+    "translation": "örtbas etmek, gizlemek",
+    "level": "C1",
+    "example_sentence": "They tried to paper over the cracks in the relationship.",
+    "pronunciation": "/ˈpeɪpər ˈəʊvər/"
+  },
+  {
+    "id": 210,
+    "word": "persist in",
+    "translation": "ısrar etmek, sürdürmek",
+    "level": "C1",
+    "example_sentence": "Why do you persist in denying the facts?",
+    "pronunciation": "/pəˈsɪst ɪn/"
+  },
+  {
+    "id": 211,
+    "word": "pore over",
+    "translation": "dikkatle incelemek",
+    "level": "C1",
+    "example_sentence": "She pored over the documents all night.",
+    "pronunciation": "/pɔːr ˈəʊvər/"
+  },
+  {
+    "id": 212,
+    "word": "prevail over",
+    "translation": "üstün gelmek",
+    "level": "C1",
+    "example_sentence": "In the end, reason prevailed over emotion.",
+    "pronunciation": "/prɪˈveɪl ˈəʊvər/"
+  },
+  {
+    "id": 213,
+    "word": "prop up",
+    "translation": "desteklemek, ayakta tutmak",
+    "level": "C1",
+    "example_sentence": "The government is propping up failing businesses.",
+    "pronunciation": "/prɒp ʌp/"
+  },
+  {
+    "id": 214,
+    "word": "reel off",
+    "translation": "peş peşe saymak, sıralamak",
+    "level": "C1",
+    "example_sentence": "She reeled off a list of statistics.",
+    "pronunciation": "/riːl ɒf/"
+  },
+  {
+    "id": 215,
+    "word": "rein in",
+    "translation": "dizginlemek, kontrol altına almak",
+    "level": "C1",
+    "example_sentence": "The manager tried to rein in spending.",
+    "pronunciation": "/reɪn ɪn/"
+  },
+  {
+    "id": 216,
+    "word": "ride out",
+    "translation": "atlatmak (kriz, fırtına)",
+    "level": "C1",
+    "example_sentence": "The company managed to ride out the economic storm.",
+    "pronunciation": "/raɪd aʊt/"
+  },
+  {
+    "id": 217,
+    "word": "root out",
+    "translation": "kökünü kazımak",
+    "level": "C1",
+    "example_sentence": "The new policy aims to root out corruption.",
+    "pronunciation": "/ruːt aʊt/"
+  },
+  {
+    "id": 218,
+    "word": "scale back",
+    "translation": "kısmak, azaltmak",
+    "level": "C1",
+    "example_sentence": "They scaled back their ambitions.",
+    "pronunciation": "/skeɪl bæk/"
+  },
+  {
+    "id": 219,
+    "word": "single out",
+    "translation": "seçip ayırmak, hedef almak",
+    "level": "C1",
+    "example_sentence": "He was singled out for special praise.",
+    "pronunciation": "/ˈsɪŋɡəl aʊt/"
+  },
+  {
+    "id": 220,
+    "word": "skirt around",
+    "translation": "etrafından dolaşmak, kaçınmak",
+    "level": "C1",
+    "example_sentence": "Stop skirting around the issue.",
+    "pronunciation": "/skɜːt əˈraʊnd/"
+  },
+  {
+    "id": 221,
+    "word": "smooth over",
+    "translation": "yumuşatmak, gidermek (anlaşmazlık)",
+    "level": "C1",
+    "example_sentence": "He tried to smooth over the tensions between them.",
+    "pronunciation": "/smuːð ˈəʊvər/"
+  },
+  {
+    "id": 222,
+    "word": "speculate on",
+    "translation": "spekülasyon yapmak, üzerine düşünmek",
+    "level": "C1",
+    "example_sentence": "Experts are speculating on the consequences.",
+    "pronunciation": "/ˈspɛkjʊleɪt ɒn/"
+  },
+  {
+    "id": 223,
+    "word": "stave off",
+    "translation": "önlemek, savuşturmak",
+    "level": "C1",
+    "example_sentence": "They worked hard to stave off bankruptcy.",
+    "pronunciation": "/steɪv ɒf/"
+  },
+  {
+    "id": 224,
+    "word": "stumble across",
+    "translation": "tesadüfen bulmak",
+    "level": "C1",
+    "example_sentence": "I stumbled across this old letter in the attic.",
+    "pronunciation": "/ˈstʌmbəl əˈkrɒs/"
+  },
+  {
+    "id": 225,
+    "word": "succumb to",
+    "translation": "yenik düşmek, direncini kırmak",
+    "level": "C1",
+    "example_sentence": "Don't succumb to temptation.",
+    "pronunciation": "/səˈkʌm tʊ/"
+  },
+  {
+    "id": 226,
+    "word": "tamper with",
+    "translation": "kurcalamak, tahrif etmek",
+    "level": "C1",
+    "example_sentence": "Someone has tampered with the evidence.",
+    "pronunciation": "/ˈtæmpər wɪð/"
+  },
+  {
+    "id": 227,
+    "word": "taper off",
+    "translation": "giderek azalmak, yavaşlamak",
+    "level": "C1",
+    "example_sentence": "Sales tapered off in the third quarter.",
+    "pronunciation": "/ˈteɪpər ɒf/"
+  },
+  {
+    "id": 228,
+    "word": "threshold on",
+    "translation": "eşiğinde olmak",
+    "level": "C1",
+    "example_sentence": "We are on the threshold of a new era.",
+    "pronunciation": "/ˈθrɛʃhəʊld ɒn/"
+  },
+  {
+    "id": 229,
+    "word": "tinker with",
+    "translation": "uğraşmak, kurcalamak",
+    "level": "C1",
+    "example_sentence": "He loves tinkering with old engines.",
+    "pronunciation": "/ˈtɪŋkər wɪð/"
+  },
+  {
+    "id": 230,
+    "word": "wade through",
+    "translation": "güçlükle geçmek; didik didik okumak",
+    "level": "C1",
+    "example_sentence": "I've been wading through piles of paperwork.",
+    "pronunciation": "/weɪd θruː/"
+  },
+  {
+    "id": 231,
+    "word": "abscond with",
+    "translation": "kaçıp gitmek (çalınan şeyle)",
+    "level": "C2",
+    "example_sentence": "He absconded with company funds.",
+    "pronunciation": "/əbˈskɒnd wɪð/"
+  },
+  {
+    "id": 232,
+    "word": "accede to",
+    "translation": "kabul etmek; göreve gelmek",
+    "level": "C2",
+    "example_sentence": "The government acceded to the demands.",
+    "pronunciation": "/əkˈsiːd tʊ/"
+  },
+  {
+    "id": 233,
+    "word": "appertain to",
+    "translation": "ait olmak, ilgili olmak",
+    "level": "C2",
+    "example_sentence": "These rights appertain to all citizens.",
+    "pronunciation": "/ˌæpəˈteɪn tʊ/"
+  },
+  {
+    "id": 234,
+    "word": "arrogate to",
+    "translation": "haksız yere sahiplenmek",
+    "level": "C2",
+    "example_sentence": "He arrogated to himself powers he didn't have.",
+    "pronunciation": "/ˈærəɡeɪt tʊ/"
+  },
+  {
+    "id": 235,
+    "word": "blot out",
+    "translation": "silmek, karartmak; unutmak",
+    "level": "C2",
+    "example_sentence": "She tried to blot out the painful memories.",
+    "pronunciation": "/blɒt aʊt/"
+  },
+  {
+    "id": 236,
+    "word": "bode well/ill for",
+    "translation": "iyi/kötüye işaret etmek",
+    "level": "C2",
+    "example_sentence": "The early results bode well for the campaign.",
+    "pronunciation": "/bəʊd wɛl fɔːr/"
+  },
+  {
+    "id": 237,
+    "word": "brook no",
+    "translation": "asla kabul etmemek, müsamaha göstermemek",
+    "level": "C2",
+    "example_sentence": "The general brooked no dissent.",
+    "pronunciation": "/brʊk nəʊ/"
+  },
+  {
+    "id": 238,
+    "word": "cavil at",
+    "translation": "ufak tefek şeyler için şikâyet etmek",
+    "level": "C2",
+    "example_sentence": "He was always cavilling at minor details.",
+    "pronunciation": "/ˈkævɪl æt/"
+  },
+  {
+    "id": 239,
+    "word": "come to naught",
+    "translation": "sonuçsuz kalmak, boşa çıkmak",
+    "level": "C2",
+    "example_sentence": "All their efforts came to naught.",
+    "pronunciation": "/kʌm tʊ nɔːt/"
+  },
+  {
+    "id": 240,
+    "word": "condescend to",
+    "translation": "tenezzül etmek",
+    "level": "C2",
+    "example_sentence": "He wouldn't condescend to explain himself.",
+    "pronunciation": "/ˌkɒndɪˈsɛnd tʊ/"
+  },
+  {
+    "id": 241,
+    "word": "countenance against",
+    "translation": "karşı çıkmak, onay vermemek",
+    "level": "C2",
+    "example_sentence": "She couldn't countenance such behavior.",
+    "pronunciation": "/ˈkaʊntənəns əˈɡɛnst/"
+  },
+  {
+    "id": 242,
+    "word": "devolve on",
+    "translation": "devredilmek, düşmek (sorumluluk)",
+    "level": "C2",
+    "example_sentence": "The responsibility devolved on the deputy.",
+    "pronunciation": "/dɪˈvɒlv ɒn/"
+  },
+  {
+    "id": 243,
+    "word": "divest of",
+    "translation": "mahrum etmek, soyunmak",
+    "level": "C2",
+    "example_sentence": "He was divested of his title.",
+    "pronunciation": "/daɪˈvɛst ɒv/"
+  },
+  {
+    "id": 244,
+    "word": "elicit from",
+    "translation": "elde etmek, çıkarmak",
+    "level": "C2",
+    "example_sentence": "The journalist elicited a confession from the minister.",
+    "pronunciation": "/ɪˈlɪsɪt frɒm/"
+  },
+  {
+    "id": 245,
+    "word": "evince in",
+    "translation": "sergilemek, göstermek",
+    "level": "C2",
+    "example_sentence": "She evinced great courage in her actions.",
+    "pronunciation": "/ɪˈvɪns ɪn/"
+  },
+  {
+    "id": 246,
+    "word": "expatiate on",
+    "translation": "uzun uzadıya konuşmak",
+    "level": "C2",
+    "example_sentence": "He expatiated on the dangers of the policy.",
+    "pronunciation": "/ɪkˈspeɪʃɪeɪt ɒn/"
+  },
+  {
+    "id": 247,
+    "word": "expiate for",
+    "translation": "kefaret ödemek",
+    "level": "C2",
+    "example_sentence": "He tried to expiate for his past sins.",
+    "pronunciation": "/ˈɛkspɪeɪt fɔːr/"
+  },
+  {
+    "id": 248,
+    "word": "foist on",
+    "translation": "zorla kabul ettirmek",
+    "level": "C2",
+    "example_sentence": "This decision was foisted on us.",
+    "pronunciation": "/fɔɪst ɒn/"
+  },
+  {
+    "id": 249,
+    "word": "impute to",
+    "translation": "yüklemek, atfetmek (olumsuz)",
+    "level": "C2",
+    "example_sentence": "The failure was imputed to poor management.",
+    "pronunciation": "/ɪmˈpjuːt tʊ/"
+  },
+  {
+    "id": 250,
+    "word": "inure to",
+    "translation": "alışmak (zorluğa)",
+    "level": "C2",
+    "example_sentence": "Years of hardship inured him to discomfort.",
+    "pronunciation": "/ɪˈnjʊər tʊ/"
+  },
+  {
+    "id": 251,
+    "word": "add up",
+    "translation": "toplamak; anlam ifade etmek",
+    "level": "B1",
+    "example_sentence": "The numbers don't add up.",
+    "pronunciation": "/æd ʌp/"
+  },
+  {
+    "id": 252,
+    "word": "back off",
+    "translation": "geri çekilmek, vazgeçmek",
+    "level": "B1",
+    "example_sentence": "Back off, I need some space.",
+    "pronunciation": "/bæk ɒf/"
+  },
+  {
+    "id": 253,
+    "word": "bank on",
+    "translation": "hesap etmek, güvenmek",
+    "level": "B1",
+    "example_sentence": "We can't bank on good weather for the picnic.",
+    "pronunciation": "/bæŋk ɒn/"
+  },
+  {
+    "id": 254,
+    "word": "blow over",
+    "translation": "geçmek, yatışmak (kriz)",
+    "level": "B1",
+    "example_sentence": "Don't worry, the scandal will blow over.",
+    "pronunciation": "/bləʊ ˈəʊvər/"
+  },
+  {
+    "id": 255,
+    "word": "bring forward",
+    "translation": "öne almak; öne sürmek",
+    "level": "B1",
+    "example_sentence": "Can we bring forward the meeting to Tuesday?",
+    "pronunciation": "/brɪŋ ˈfɔːwəd/"
+  },
+  {
+    "id": 256,
+    "word": "browse through",
+    "translation": "göz gezdirmek",
+    "level": "B1",
+    "example_sentence": "I browsed through the magazine while waiting.",
+    "pronunciation": "/braʊz θruː/"
+  },
+  {
+    "id": 257,
+    "word": "calm down",
+    "translation": "sakinleşmek",
+    "level": "B1",
+    "example_sentence": "Calm down and breathe slowly.",
+    "pronunciation": "/kɑːm daʊn/"
+  },
+  {
+    "id": 258,
+    "word": "carry off",
+    "translation": "başarmak; götürmek",
+    "level": "B1",
+    "example_sentence": "She carried off the role brilliantly.",
+    "pronunciation": "/ˈkæri ɒf/"
+  },
+  {
+    "id": 259,
+    "word": "chat up",
+    "translation": "flört etmek",
+    "level": "B1",
+    "example_sentence": "He was chatting up the new colleague.",
+    "pronunciation": "/tʃæt ʌp/"
+  },
+  {
+    "id": 260,
+    "word": "clear up",
+    "translation": "açıklığa kavuşturmak; toparlamak",
+    "level": "B1",
+    "example_sentence": "Can you clear up this misunderstanding?",
+    "pronunciation": "/klɪər ʌp/"
+  },
+  {
+    "id": 261,
+    "word": "clue in",
+    "translation": "bilgilendirmek",
+    "level": "B1",
+    "example_sentence": "Can you clue me in on what happened?",
+    "pronunciation": "/kluː ɪn/"
+  },
+  {
+    "id": 262,
+    "word": "come off",
+    "translation": "gerçekleşmek; çıkmak (leke)",
+    "level": "B1",
+    "example_sentence": "Did the stain come off?",
+    "pronunciation": "/kʌm ɒf/"
+  },
+  {
+    "id": 263,
+    "word": "come out",
+    "translation": "çıkmak; duyulmak; açılmak (eşcinsel)",
+    "level": "B1",
+    "example_sentence": "When does the new album come out?",
+    "pronunciation": "/kʌm aʊt/"
+  },
+  {
+    "id": 264,
+    "word": "come up",
+    "translation": "ortaya çıkmak; çıkmak (konu)",
+    "level": "B1",
+    "example_sentence": "Something came up and I can't make it.",
+    "pronunciation": "/kʌm ʌp/"
+  },
+  {
+    "id": 265,
+    "word": "cool down",
+    "translation": "soğumak; sakinleşmek",
+    "level": "B1",
+    "example_sentence": "Let the soup cool down before eating.",
+    "pronunciation": "/kuːl daʊn/"
+  },
+  {
+    "id": 266,
+    "word": "crack down on",
+    "translation": "sıkı önlem almak",
+    "level": "B1",
+    "example_sentence": "Police cracked down on illegal parking.",
+    "pronunciation": "/kræk daʊn ɒn/"
+  },
+  {
+    "id": 267,
+    "word": "cross out",
+    "translation": "üstünü çizmek, silmek",
+    "level": "B1",
+    "example_sentence": "Cross out the wrong answers.",
+    "pronunciation": "/krɒs aʊt/"
+  },
+  {
+    "id": 268,
+    "word": "cut in",
+    "translation": "araya girmek (konuşma, trafik)",
+    "level": "B1",
+    "example_sentence": "Don't cut in when others are speaking.",
+    "pronunciation": "/kʌt ɪn/"
+  },
+  {
+    "id": 269,
+    "word": "cut out",
+    "translation": "kesmek; kesip çıkarmak; bırakmak",
+    "level": "B1",
+    "example_sentence": "Cut out the junk food from your diet.",
+    "pronunciation": "/kʌt aʊt/"
+  },
+  {
+    "id": 270,
+    "word": "die down",
+    "translation": "yatışmak, azalmak",
+    "level": "B1",
+    "example_sentence": "The noise died down after midnight.",
+    "pronunciation": "/daɪ daʊn/"
+  },
+  {
+    "id": 271,
+    "word": "dig up",
+    "translation": "kazmak; bulmak (bilgi)",
+    "level": "B1",
+    "example_sentence": "The journalist dug up some old scandals.",
+    "pronunciation": "/dɪɡ ʌp/"
+  },
+  {
+    "id": 272,
+    "word": "do up",
+    "translation": "tazelemek; düğmelerini iliklemek",
+    "level": "B1",
+    "example_sentence": "They did up the old house beautifully.",
+    "pronunciation": "/duː ʌp/"
+  },
+  {
+    "id": 273,
+    "word": "draw back",
+    "translation": "geri çekilmek, tereddüt etmek",
+    "level": "B1",
+    "example_sentence": "She drew back at the last moment.",
+    "pronunciation": "/drɔː bæk/"
+  },
+  {
+    "id": 274,
+    "word": "dress up",
+    "translation": "şık giyinmek; kostüm giymek",
+    "level": "B1",
+    "example_sentence": "The kids dressed up as superheroes.",
+    "pronunciation": "/drɛs ʌp/"
+  },
+  {
+    "id": 275,
+    "word": "drive away",
+    "translation": "uzaklaştırmak; arabayla ayrılmak",
+    "level": "B1",
+    "example_sentence": "His attitude drives people away.",
+    "pronunciation": "/draɪv əˈweɪ/"
+  },
+  {
+    "id": 276,
+    "word": "eat out",
+    "translation": "dışarıda yemek yemek",
+    "level": "A2",
+    "example_sentence": "We usually eat out on Saturdays.",
+    "pronunciation": "/iːt aʊt/"
+  },
+  {
+    "id": 277,
+    "word": "fall for",
+    "translation": "kanmak; aşık olmak",
+    "level": "B1",
+    "example_sentence": "Don't fall for that trick.",
+    "pronunciation": "/fɔːl fɔːr/"
+  },
+  {
+    "id": 278,
+    "word": "feel up to",
+    "translation": "kendinde güç bulmak",
+    "level": "B1",
+    "example_sentence": "Do you feel up to going out tonight?",
+    "pronunciation": "/fiːl ʌp tʊ/"
+  },
+  {
+    "id": 279,
+    "word": "flick through",
+    "translation": "hızlıca göz atmak",
+    "level": "B1",
+    "example_sentence": "I flicked through the channels.",
+    "pronunciation": "/flɪk θruː/"
+  },
+  {
+    "id": 280,
+    "word": "get across",
+    "translation": "anlatmak, iletmek",
+    "level": "B1",
+    "example_sentence": "It's hard to get your message across in a loud room.",
+    "pronunciation": "/ɡɛt əˈkrɒs/"
+  },
+  {
+    "id": 281,
+    "word": "get ahead",
+    "translation": "ilerlemek, başarılı olmak",
+    "level": "B1",
+    "example_sentence": "Hard work helps you get ahead in life.",
+    "pronunciation": "/ɡɛt əˈhɛd/"
+  },
+  {
+    "id": 282,
+    "word": "get at",
+    "translation": "demek istemek; ulaşmak",
+    "level": "B1",
+    "example_sentence": "What are you trying to get at?",
+    "pronunciation": "/ɡɛt æt/"
+  },
+  {
+    "id": 283,
+    "word": "get by",
+    "translation": "idare etmek, geçinmek",
+    "level": "B1",
+    "example_sentence": "We get by on a tight budget.",
+    "pronunciation": "/ɡɛt baɪ/"
+  },
+  {
+    "id": 284,
+    "word": "get down to",
+    "translation": "ciddiye almak, başlamak",
+    "level": "B1",
+    "example_sentence": "Let's get down to business.",
+    "pronunciation": "/ɡɛt daʊn tʊ/"
+  },
+  {
+    "id": 285,
+    "word": "get in touch with",
+    "translation": "iletişime geçmek",
+    "level": "B1",
+    "example_sentence": "Get in touch with me when you arrive.",
+    "pronunciation": "/ɡɛt ɪn tʌtʃ wɪð/"
+  },
+  {
+    "id": 286,
+    "word": "get out of",
+    "translation": "kaçmak, kurtulmak (sorumluluktan)",
+    "level": "B1",
+    "example_sentence": "He always gets out of doing the dishes.",
+    "pronunciation": "/ɡɛt aʊt ɒv/"
+  },
+  {
+    "id": 287,
+    "word": "get through",
+    "translation": "geçmek; telefonda bağlanmak; bitirmek",
+    "level": "B1",
+    "example_sentence": "I couldn't get through to customer service.",
+    "pronunciation": "/ɡɛt θruː/"
+  },
+  {
+    "id": 288,
+    "word": "get together",
+    "translation": "bir araya gelmek",
+    "level": "A2",
+    "example_sentence": "Let's get together for coffee sometime.",
+    "pronunciation": "/ɡɛt təˈɡɛðər/"
+  },
+  {
+    "id": 289,
+    "word": "go down",
+    "translation": "inmek; azalmak; batmak",
+    "level": "B1",
+    "example_sentence": "The temperature went down overnight.",
+    "pronunciation": "/ɡəʊ daʊn/"
+  },
+  {
+    "id": 290,
+    "word": "go off",
+    "translation": "çalmak (alarm); patlamak; bozulmak (yiyecek)",
+    "level": "B1",
+    "example_sentence": "The milk has gone off.",
+    "pronunciation": "/ɡəʊ ɒf/"
+  },
+  {
+    "id": 291,
+    "word": "go over",
+    "translation": "gözden geçirmek",
+    "level": "B1",
+    "example_sentence": "Let's go over the plan one more time.",
+    "pronunciation": "/ɡəʊ ˈəʊvər/"
+  },
+  {
+    "id": 292,
+    "word": "go up",
+    "translation": "yükselmek, artmak",
+    "level": "B1",
+    "example_sentence": "Prices have gone up again.",
+    "pronunciation": "/ɡəʊ ʌp/"
+  },
+  {
+    "id": 293,
+    "word": "hand out",
+    "translation": "dağıtmak",
+    "level": "B1",
+    "example_sentence": "Could you hand out these leaflets?",
+    "pronunciation": "/hænd aʊt/"
+  },
+  {
+    "id": 294,
+    "word": "hang out",
+    "translation": "takılmak, vakit geçirmek",
+    "level": "A2",
+    "example_sentence": "We hung out at the park all afternoon.",
+    "pronunciation": "/hæŋ aʊt/"
+  },
+  {
+    "id": 295,
+    "word": "head off",
+    "translation": "önlemek; yola çıkmak",
+    "level": "B1",
+    "example_sentence": "We headed off early to beat the traffic.",
+    "pronunciation": "/hɛd ɒf/"
+  },
+  {
+    "id": 296,
+    "word": "heat up",
+    "translation": "ısınmak; kızışmak",
+    "level": "A2",
+    "example_sentence": "Heat up the leftovers in the microwave.",
+    "pronunciation": "/hiːt ʌp/"
+  },
+  {
+    "id": 297,
+    "word": "hit on",
+    "translation": "flört etmek; bulmak (fikri)",
+    "level": "B1",
+    "example_sentence": "He hit on a great idea during lunch.",
+    "pronunciation": "/hɪt ɒn/"
+  },
+  {
+    "id": 298,
+    "word": "hold off",
+    "translation": "geciktirmek; yağmamak",
+    "level": "B1",
+    "example_sentence": "Hold off on sending the email.",
+    "pronunciation": "/həʊld ɒf/"
+  },
+  {
+    "id": 299,
+    "word": "hold up",
+    "translation": "geciktirmek; soymak; dayanmak",
+    "level": "B1",
+    "example_sentence": "The traffic held us up for an hour.",
+    "pronunciation": "/həʊld ʌp/"
+  },
+  {
+    "id": 300,
+    "word": "jot down",
+    "translation": "not almak, çabucak yazmak",
+    "level": "B1",
+    "example_sentence": "Let me jot down your number.",
+    "pronunciation": "/dʒɒt daʊn/"
+  },
+  {
+    "id": 301,
+    "word": "kick in",
+    "translation": "devreye girmek; başlamak",
+    "level": "B2",
+    "example_sentence": "The painkillers should kick in soon.",
+    "pronunciation": "/kɪk ɪn/"
+  },
+  {
+    "id": 302,
+    "word": "knock out",
+    "translation": "nakavt etmek; büyülemek",
+    "level": "B1",
+    "example_sentence": "He knocked out his opponent in the second round.",
+    "pronunciation": "/nɒk aʊt/"
+  },
+  {
+    "id": 303,
+    "word": "lay out",
+    "translation": "düzenlemek; açıklamak; uzatmak",
+    "level": "B2",
+    "example_sentence": "Let me lay out the plan step by step.",
+    "pronunciation": "/leɪ aʊt/"
+  },
+  {
+    "id": 304,
+    "word": "lead up to",
+    "translation": "götürmek, yol açmak",
+    "level": "B2",
+    "example_sentence": "Events led up to the final confrontation.",
+    "pronunciation": "/liːd ʌp tʊ/"
+  },
+  {
+    "id": 305,
+    "word": "leave out",
+    "translation": "dahil etmemek, atlamak",
+    "level": "B1",
+    "example_sentence": "Don't leave out any important details.",
+    "pronunciation": "/liːv aʊt/"
+  },
+  {
+    "id": 306,
+    "word": "let in",
+    "translation": "içeri almak",
+    "level": "A2",
+    "example_sentence": "Let in some fresh air.",
+    "pronunciation": "/lɛt ɪn/"
+  },
+  {
+    "id": 307,
+    "word": "let off",
+    "translation": "bırakmak (cezasız); patlatmak",
+    "level": "B1",
+    "example_sentence": "The judge let him off with a warning.",
+    "pronunciation": "/lɛt ɒf/"
+  },
+  {
+    "id": 308,
+    "word": "let out",
+    "translation": "serbest bırakmak; ses çıkarmak",
+    "level": "B1",
+    "example_sentence": "She let out a sigh of relief.",
+    "pronunciation": "/lɛt aʊt/"
+  },
+  {
+    "id": 309,
+    "word": "lie down",
+    "translation": "uzanmak, yatmak",
+    "level": "A1",
+    "example_sentence": "I need to lie down for a while.",
+    "pronunciation": "/laɪ daʊn/"
+  },
+  {
+    "id": 310,
+    "word": "light up",
+    "translation": "aydınlatmak; neşelenmek",
+    "level": "B1",
+    "example_sentence": "Her face lit up when she heard the news.",
+    "pronunciation": "/laɪt ʌp/"
+  },
+  {
+    "id": 311,
+    "word": "lock in",
+    "translation": "içine kilitlelemek; sabitlemek",
+    "level": "B2",
+    "example_sentence": "Lock in the price before it changes.",
+    "pronunciation": "/lɒk ɪn/"
+  },
+  {
+    "id": 312,
+    "word": "lock out",
+    "translation": "dışarıda bırakmak (kilitleyerek)",
+    "level": "B1",
+    "example_sentence": "I locked myself out of the house.",
+    "pronunciation": "/lɒk aʊt/"
+  },
+  {
+    "id": 313,
+    "word": "log in",
+    "translation": "giriş yapmak (sisteme)",
+    "level": "A2",
+    "example_sentence": "Log in with your email and password.",
+    "pronunciation": "/lɒɡ ɪn/"
+  },
+  {
+    "id": 314,
+    "word": "log off",
+    "translation": "çıkış yapmak (sistemden)",
+    "level": "A2",
+    "example_sentence": "Don't forget to log off when you leave.",
+    "pronunciation": "/lɒɡ ɒf/"
+  },
+  {
+    "id": 315,
+    "word": "look out",
+    "translation": "dikkat etmek",
+    "level": "A2",
+    "example_sentence": "Look out! There's a car coming.",
+    "pronunciation": "/lʊk aʊt/"
+  },
+  {
+    "id": 316,
+    "word": "look through",
+    "translation": "gözden geçirmek; görmezden gelmek",
+    "level": "B1",
+    "example_sentence": "Look through your notes before the exam.",
+    "pronunciation": "/lʊk θruː/"
+  },
+  {
+    "id": 317,
+    "word": "make off with",
+    "translation": "çalıp kaçmak",
+    "level": "B2",
+    "example_sentence": "The thieves made off with the jewels.",
+    "pronunciation": "/meɪk ɒf wɪð/"
+  },
+  {
+    "id": 318,
+    "word": "mess up",
+    "translation": "berbat etmek, mahvetmek",
+    "level": "B1",
+    "example_sentence": "I really messed up the presentation.",
+    "pronunciation": "/mɛs ʌp/"
+  },
+  {
+    "id": 319,
+    "word": "mix up",
+    "translation": "karıştırmak, karıştırmak (isim vb.)",
+    "level": "B1",
+    "example_sentence": "I always mix up their names.",
+    "pronunciation": "/mɪks ʌp/"
+  },
+  {
+    "id": 320,
+    "word": "nod off",
+    "translation": "uyuyakalmak",
+    "level": "B2",
+    "example_sentence": "He nodded off during the lecture.",
+    "pronunciation": "/nɒd ɒf/"
+  },
+  {
+    "id": 321,
+    "word": "open up",
+    "translation": "açılmak, güven duyarak konuşmak",
+    "level": "B2",
+    "example_sentence": "He finally opened up about his past.",
+    "pronunciation": "/ˈəʊpən ʌp/"
+  },
+  {
+    "id": 322,
+    "word": "opt out",
+    "translation": "vazgeçmek, seçmemek",
+    "level": "B2",
+    "example_sentence": "You can opt out of the mailing list.",
+    "pronunciation": "/ɒpt aʊt/"
+  },
+  {
+    "id": 323,
+    "word": "pass away",
+    "translation": "vefat etmek",
+    "level": "B1",
+    "example_sentence": "My grandfather passed away last year.",
+    "pronunciation": "/pɑːs əˈweɪ/"
+  },
+  {
+    "id": 324,
+    "word": "pass out",
+    "translation": "bayılmak; dağıtmak",
+    "level": "B1",
+    "example_sentence": "She passed out from the heat.",
+    "pronunciation": "/pɑːs aʊt/"
+  },
+  {
+    "id": 325,
+    "word": "pay off",
+    "translation": "ödemek; sonuç vermek; rüşvet vermek",
+    "level": "B1",
+    "example_sentence": "Hard work always pays off.",
+    "pronunciation": "/peɪ ɒf/"
+  },
+  {
+    "id": 326,
+    "word": "phone in",
+    "translation": "telefon ederek bildirmek",
+    "level": "B1",
+    "example_sentence": "Phone in your order before 6 PM.",
+    "pronunciation": "/fəʊn ɪn/"
+  },
+  {
+    "id": 327,
+    "word": "play along",
+    "translation": "uymak, rol yapmak",
+    "level": "B2",
+    "example_sentence": "Just play along and don't ruin the surprise.",
+    "pronunciation": "/pleɪ əˈlɒŋ/"
+  },
+  {
+    "id": 328,
+    "word": "plug in",
+    "translation": "fişe takmak",
+    "level": "A2",
+    "example_sentence": "Plug in the charger.",
+    "pronunciation": "/plʌɡ ɪn/"
+  },
+  {
+    "id": 329,
+    "word": "point to",
+    "translation": "işaret etmek; göstermek",
+    "level": "B2",
+    "example_sentence": "The evidence points to his involvement.",
+    "pronunciation": "/pɔɪnt tʊ/"
+  },
+  {
+    "id": 330,
+    "word": "pour out",
+    "translation": "dökmek; içini dökmek",
+    "level": "B1",
+    "example_sentence": "She poured out her feelings.",
+    "pronunciation": "/pɔːr aʊt/"
+  },
+  {
+    "id": 331,
+    "word": "pull back",
+    "translation": "geri çekilmek",
+    "level": "B2",
+    "example_sentence": "The army pulled back from the border.",
+    "pronunciation": "/pʊl bæk/"
+  },
+  {
+    "id": 332,
+    "word": "pull in",
+    "translation": "yanaşmak (araç); çekmek (kalabalık)",
+    "level": "B1",
+    "example_sentence": "The train pulled in at noon.",
+    "pronunciation": "/pʊl ɪn/"
+  },
+  {
+    "id": 333,
+    "word": "pull out",
+    "translation": "çıkmak; çekilmek (anlaşmadan)",
+    "level": "B1",
+    "example_sentence": "He pulled out of the race due to injury.",
+    "pronunciation": "/pʊl aʊt/"
+  },
+  {
+    "id": 334,
+    "word": "push ahead",
+    "translation": "devam etmek, ilerlemek",
+    "level": "B2",
+    "example_sentence": "Despite the obstacles, they pushed ahead.",
+    "pronunciation": "/pʊʃ əˈhɛd/"
+  },
+  {
+    "id": 335,
+    "word": "push for",
+    "translation": "zorlamak, ısrar etmek",
+    "level": "B2",
+    "example_sentence": "She pushed for a pay rise.",
+    "pronunciation": "/pʊʃ fɔːr/"
+  },
+  {
+    "id": 336,
+    "word": "rattle off",
+    "translation": "bir solukta saymak",
+    "level": "C1",
+    "example_sentence": "He rattled off the statistics from memory.",
+    "pronunciation": "/ˈrætəl ɒf/"
+  },
+  {
+    "id": 337,
+    "word": "read out",
+    "translation": "yüksek sesle okumak",
+    "level": "B1",
+    "example_sentence": "The teacher read out the test results.",
+    "pronunciation": "/riːd aʊt/"
+  },
+  {
+    "id": 338,
+    "word": "reel in",
+    "translation": "çekmek (olta); kazanmak",
+    "level": "C1",
+    "example_sentence": "They reeled in several big clients.",
+    "pronunciation": "/riːl ɪn/"
+  },
+  {
+    "id": 339,
+    "word": "ring up",
+    "translation": "aramak (telefon); kasada hesaplamak",
+    "level": "B1",
+    "example_sentence": "I'll ring you up later tonight.",
+    "pronunciation": "/rɪŋ ʌp/"
+  },
+  {
+    "id": 340,
+    "word": "roll out",
+    "translation": "piyasaya sürmek; uygulamaya koymak",
+    "level": "B2",
+    "example_sentence": "The company rolled out its new product.",
+    "pronunciation": "/rəʊl aʊt/"
+  },
+  {
+    "id": 341,
+    "word": "run away",
+    "translation": "kaçmak",
+    "level": "A2",
+    "example_sentence": "The dog ran away from home.",
+    "pronunciation": "/rʌn əˈweɪ/"
+  },
+  {
+    "id": 342,
+    "word": "run off",
+    "translation": "kaçmak; çıktı almak",
+    "level": "B1",
+    "example_sentence": "Run off 30 copies of this flyer.",
+    "pronunciation": "/rʌn ɒf/"
+  },
+  {
+    "id": 343,
+    "word": "save up",
+    "translation": "para biriktirmek",
+    "level": "A2",
+    "example_sentence": "I'm saving up for a new laptop.",
+    "pronunciation": "/seɪv ʌp/"
+  },
+  {
+    "id": 344,
+    "word": "send off",
+    "translation": "göndermek; sahadan atmak",
+    "level": "B1",
+    "example_sentence": "She sent off the application form.",
+    "pronunciation": "/sɛnd ɒf/"
+  },
+  {
+    "id": 345,
+    "word": "set aside",
+    "translation": "bir kenara koymak; ayırmak",
+    "level": "B2",
+    "example_sentence": "Set aside some money for emergencies.",
+    "pronunciation": "/sɛt əˈsaɪd/"
+  },
+  {
+    "id": 346,
+    "word": "sign up",
+    "translation": "kaydolmak",
+    "level": "A2",
+    "example_sentence": "Sign up for the newsletter on our website.",
+    "pronunciation": "/saɪn ʌp/"
+  },
+  {
+    "id": 347,
+    "word": "sink in",
+    "translation": "içine işlemek, anlamak",
+    "level": "B2",
+    "example_sentence": "The news took a while to sink in.",
+    "pronunciation": "/sɪŋk ɪn/"
+  },
+  {
+    "id": 348,
+    "word": "slip up",
+    "translation": "hata yapmak",
+    "level": "B2",
+    "example_sentence": "Don't slip up during the presentation.",
+    "pronunciation": "/slɪp ʌp/"
+  },
+  {
+    "id": 349,
+    "word": "slow down",
+    "translation": "yavaşlamak",
+    "level": "A2",
+    "example_sentence": "Slow down, you're driving too fast.",
+    "pronunciation": "/sləʊ daʊn/"
+  },
+  {
+    "id": 350,
+    "word": "snap up",
+    "translation": "kapmak, hemen almak",
+    "level": "B2",
+    "example_sentence": "The tickets were snapped up in minutes.",
+    "pronunciation": "/snæp ʌp/"
+  },
+  {
+    "id": 351,
+    "word": "speak out",
+    "translation": "sesini yükseltmek, açıkça söylemek",
+    "level": "B2",
+    "example_sentence": "We must speak out against injustice.",
+    "pronunciation": "/spiːk aʊt/"
+  },
+  {
+    "id": 352,
+    "word": "speed up",
+    "translation": "hızlanmak",
+    "level": "A2",
+    "example_sentence": "We need to speed up production.",
+    "pronunciation": "/spiːd ʌp/"
+  },
+  {
+    "id": 353,
+    "word": "split up",
+    "translation": "ayrılmak; bölmek",
+    "level": "B1",
+    "example_sentence": "The band split up after ten years.",
+    "pronunciation": "/splɪt ʌp/"
+  },
+  {
+    "id": 354,
+    "word": "start over",
+    "translation": "yeniden başlamak",
+    "level": "B1",
+    "example_sentence": "After the fire, they had to start over.",
+    "pronunciation": "/stɑːt ˈəʊvər/"
+  },
+  {
+    "id": 355,
+    "word": "stay in",
+    "translation": "evde kalmak",
+    "level": "A2",
+    "example_sentence": "I'll stay in tonight and watch a movie.",
+    "pronunciation": "/steɪ ɪn/"
+  },
+  {
+    "id": 356,
+    "word": "step down",
+    "translation": "istifa etmek, görevden çekilmek",
+    "level": "B2",
+    "example_sentence": "The CEO stepped down after the scandal.",
+    "pronunciation": "/stɛp daʊn/"
+  },
+  {
+    "id": 357,
+    "word": "step up",
+    "translation": "arttırmak; öne çıkmak",
+    "level": "B2",
+    "example_sentence": "We need to step up our efforts.",
+    "pronunciation": "/stɛp ʌp/"
+  },
+  {
+    "id": 358,
+    "word": "stick out",
+    "translation": "dışarı çıkmak; göze çarpmak",
+    "level": "B1",
+    "example_sentence": "Your elbow is sticking out.",
+    "pronunciation": "/stɪk aʊt/"
+  },
+  {
+    "id": 359,
+    "word": "stick up for",
+    "translation": "savunmak, desteklemek",
+    "level": "B2",
+    "example_sentence": "Always stick up for what you believe in.",
+    "pronunciation": "/stɪk ʌp fɔːr/"
+  },
+  {
+    "id": 360,
+    "word": "stir up",
+    "translation": "kışkırtmak, alevlendirmek",
+    "level": "B2",
+    "example_sentence": "His comments stirred up a lot of controversy.",
+    "pronunciation": "/stɜːr ʌp/"
+  },
+  {
+    "id": 361,
+    "word": "sum up",
+    "translation": "özetlemek",
+    "level": "B1",
+    "example_sentence": "Can you sum up the main points?",
+    "pronunciation": "/sʌm ʌp/"
+  },
+  {
+    "id": 362,
+    "word": "take aback",
+    "translation": "şaşırtmak",
+    "level": "B2",
+    "example_sentence": "His harsh words took me aback.",
+    "pronunciation": "/teɪk əˈbæk/"
+  },
+  {
+    "id": 363,
+    "word": "take after",
+    "translation": "benzemek (ebeveyne)",
+    "level": "B1",
+    "example_sentence": "She takes after her mother.",
+    "pronunciation": "/teɪk ˈɑːftər/"
+  },
+  {
+    "id": 364,
+    "word": "take apart",
+    "translation": "parçalara ayırmak; yerden yere vurmak",
+    "level": "B2",
+    "example_sentence": "He took apart the engine to fix it.",
+    "pronunciation": "/teɪk əˈpɑːt/"
+  },
+  {
+    "id": 365,
+    "word": "take away",
+    "translation": "almak, götürmek; paket servis",
+    "level": "A2",
+    "example_sentence": "What does this experience take away from you?",
+    "pronunciation": "/teɪk əˈweɪ/"
+  },
+  {
+    "id": 366,
+    "word": "take back",
+    "translation": "geri almak; sözünü geri almak",
+    "level": "B1",
+    "example_sentence": "I take back what I said earlier.",
+    "pronunciation": "/teɪk bæk/"
+  },
+  {
+    "id": 367,
+    "word": "talk back",
+    "translation": "karşılık vermek, ağız yapmak",
+    "level": "B1",
+    "example_sentence": "Don't talk back to your parents.",
+    "pronunciation": "/tɔːk bæk/"
+  },
+  {
+    "id": 368,
+    "word": "tell apart",
+    "translation": "birbirinden ayırt etmek",
+    "level": "B1",
+    "example_sentence": "I can't tell the twins apart.",
+    "pronunciation": "/tɛl əˈpɑːt/"
+  },
+  {
+    "id": 369,
+    "word": "tell off",
+    "translation": "azarlamak, fırçalamak",
+    "level": "B1",
+    "example_sentence": "She told him off for being late.",
+    "pronunciation": "/tɛl ɒf/"
+  },
+  {
+    "id": 370,
+    "word": "think up",
+    "translation": "icat etmek, düşünüp bulmak",
+    "level": "B1",
+    "example_sentence": "He thought up a clever plan.",
+    "pronunciation": "/θɪŋk ʌp/"
+  },
+  {
+    "id": 371,
+    "word": "tip off",
+    "translation": "ihbar etmek, uyarmak",
+    "level": "B2",
+    "example_sentence": "Someone tipped off the police.",
+    "pronunciation": "/tɪp ɒf/"
+  },
+  {
+    "id": 372,
+    "word": "touch up",
+    "translation": "rötuş yapmak, düzeltmek",
+    "level": "B2",
+    "example_sentence": "Touch up the paint on the door.",
+    "pronunciation": "/tʌtʃ ʌp/"
+  },
+  {
+    "id": 373,
+    "word": "try out",
+    "translation": "denemek",
+    "level": "B1",
+    "example_sentence": "Try out the new features of the app.",
+    "pronunciation": "/traɪ aʊt/"
+  },
+  {
+    "id": 374,
+    "word": "tune in",
+    "translation": "ayarlamak, izlemek/dinlemek",
+    "level": "B1",
+    "example_sentence": "Tune in to the show at 8 PM.",
+    "pronunciation": "/tjuːn ɪn/"
+  },
+  {
+    "id": 375,
+    "word": "type up",
+    "translation": "bilgisayara yazmak",
+    "level": "B1",
+    "example_sentence": "Can you type up the notes from the meeting?",
+    "pronunciation": "/taɪp ʌp/"
+  },
+  {
+    "id": 376,
+    "word": "update on",
+    "translation": "bilgilendirmek, güncel durum vermek",
+    "level": "B1",
+    "example_sentence": "Keep me updated on the situation.",
+    "pronunciation": "/ʌpˈdeɪt ɒn/"
+  },
+  {
+    "id": 377,
+    "word": "veer off",
+    "translation": "sapmak, yoldan çıkmak",
+    "level": "B2",
+    "example_sentence": "The discussion veered off topic.",
+    "pronunciation": "/vɪər ɒf/"
+  },
+  {
+    "id": 378,
+    "word": "venture into",
+    "translation": "girmek (yeni alan)",
+    "level": "C1",
+    "example_sentence": "The company ventured into digital media.",
+    "pronunciation": "/ˈvɛntʃər ˈɪntʊ/"
+  },
+  {
+    "id": 379,
+    "word": "vouch for",
+    "translation": "kefil olmak, güvence vermek",
+    "level": "C1",
+    "example_sentence": "I can vouch for her honesty.",
+    "pronunciation": "/vaʊtʃ fɔːr/"
+  },
+  {
+    "id": 380,
+    "word": "wait on",
+    "translation": "servis yapmak; beklemek",
+    "level": "B1",
+    "example_sentence": "He waited on tables to earn money.",
+    "pronunciation": "/weɪt ɒn/"
+  },
+  {
+    "id": 381,
+    "word": "wash up",
+    "translation": "bulaşık yıkamak; kumsal/kıyıya vurma",
+    "level": "A2",
+    "example_sentence": "Could you wash up after dinner?",
+    "pronunciation": "/wɒʃ ʌp/"
+  },
+  {
+    "id": 382,
+    "word": "watch out",
+    "translation": "dikkat etmek",
+    "level": "A2",
+    "example_sentence": "Watch out for pickpockets in crowded areas.",
+    "pronunciation": "/wɒtʃ aʊt/"
+  },
+  {
+    "id": 383,
+    "word": "wipe out",
+    "translation": "silmek; tamamen yok etmek",
+    "level": "B2",
+    "example_sentence": "The disease wiped out entire villages.",
+    "pronunciation": "/waɪp aʊt/"
+  },
+  {
+    "id": 384,
+    "word": "wrap up",
+    "translation": "bitirmek; giysiye sarmak",
+    "level": "B1",
+    "example_sentence": "Let's wrap up the meeting.",
+    "pronunciation": "/ræp ʌp/"
+  },
+  {
+    "id": 385,
+    "word": "zoom out",
+    "translation": "uzaklaştırmak (görüntü)",
+    "level": "A2",
+    "example_sentence": "Zoom out to see the full map.",
+    "pronunciation": "/zuːm aʊt/"
+  },
+  {
+    "id": 386,
+    "word": "back out",
+    "translation": "caymak, vazgeçmek",
+    "level": "B1",
+    "example_sentence": "He backed out of the agreement at the last minute.",
+    "pronunciation": "/bæk aʊt/"
+  },
+  {
+    "id": 387,
+    "word": "blend in",
+    "translation": "uyum sağlamak, göze batmamak",
+    "level": "B2",
+    "example_sentence": "Try to blend in with the crowd.",
+    "pronunciation": "/blɛnd ɪn/"
+  },
+  {
+    "id": 388,
+    "word": "bottle up",
+    "translation": "içinde tutmak (duygu)",
+    "level": "B2",
+    "example_sentence": "Don't bottle up your emotions.",
+    "pronunciation": "/ˈbɒtəl ʌp/"
+  },
+  {
+    "id": 389,
+    "word": "bounce back",
+    "translation": "toparlanmak, kendine gelmek",
+    "level": "B2",
+    "example_sentence": "She bounced back quickly after her illness.",
+    "pronunciation": "/baʊns bæk/"
+  },
+  {
+    "id": 390,
+    "word": "break away from",
+    "translation": "kopmak, ayrılmak",
+    "level": "B2",
+    "example_sentence": "He broke away from tradition.",
+    "pronunciation": "/breɪk əˈweɪ frɒm/"
+  },
+  {
+    "id": 391,
+    "word": "break off",
+    "translation": "kesmek, bitirmek (ilişkiyi, anlaşmayı)",
+    "level": "B2",
+    "example_sentence": "They broke off their engagement.",
+    "pronunciation": "/breɪk ɒf/"
+  },
+  {
+    "id": 392,
+    "word": "break through",
+    "translation": "yarıp geçmek; engel aşmak",
+    "level": "B2",
+    "example_sentence": "Scientists broke through with a new treatment.",
+    "pronunciation": "/breɪk θruː/"
+  },
+  {
+    "id": 393,
+    "word": "brew up",
+    "translation": "demlemek; tırmanmak (sorun)",
+    "level": "B1",
+    "example_sentence": "A storm was brewing up on the horizon.",
+    "pronunciation": "/bruː ʌp/"
+  },
+  {
+    "id": 394,
+    "word": "buckle down",
+    "translation": "ciddi çalışmaya başlamak",
+    "level": "B2",
+    "example_sentence": "You need to buckle down and study.",
+    "pronunciation": "/ˈbʌkəl daʊn/"
+  },
+  {
+    "id": 395,
+    "word": "burn down",
+    "translation": "yanıp kül olmak; yakmak",
+    "level": "B1",
+    "example_sentence": "The old warehouse burned down last night.",
+    "pronunciation": "/bɜːn daʊn/"
+  },
+  {
+    "id": 396,
+    "word": "buy out",
+    "translation": "satın almak (hisselerini)",
+    "level": "C1",
+    "example_sentence": "The company was bought out by a rival.",
+    "pronunciation": "/baɪ aʊt/"
+  },
+  {
+    "id": 397,
+    "word": "call in",
+    "translation": "çağırmak; telefon ederek bildirmek",
+    "level": "B1",
+    "example_sentence": "He called in sick this morning.",
+    "pronunciation": "/kɔːl ɪn/"
+  },
+  {
+    "id": 398,
+    "word": "call out",
+    "translation": "sesle çağırmak; ilan etmek; eleştirmek",
+    "level": "B1",
+    "example_sentence": "He called out the employee for dishonesty.",
+    "pronunciation": "/kɔːl aʊt/"
+  },
+  {
+    "id": 399,
+    "word": "cash in on",
+    "translation": "fırsatından yararlanmak",
+    "level": "B2",
+    "example_sentence": "Companies cashed in on the health trend.",
+    "pronunciation": "/kæʃ ɪn ɒn/"
+  },
+  {
+    "id": 400,
+    "word": "catch on",
+    "translation": "tutunmak, moda olmak; anlamak",
+    "level": "B2",
+    "example_sentence": "The new style quickly caught on.",
+    "pronunciation": "/kætʃ ɒn/"
+  },
+  {
+    "id": 401,
+    "word": "catch out",
+    "translation": "yakalamak (suçüstü)",
+    "level": "B2",
+    "example_sentence": "The teacher caught him out cheating.",
+    "pronunciation": "/kætʃ aʊt/"
+  },
+  {
+    "id": 402,
+    "word": "chance upon",
+    "translation": "tesadüfen rastlamak",
+    "level": "C1",
+    "example_sentence": "I chanced upon an old friend.",
+    "pronunciation": "/tʃɑːns əˈpɒn/"
+  },
+  {
+    "id": 403,
+    "word": "cheer up",
+    "translation": "neşelendirmek, moralini düzeltmek",
+    "level": "A2",
+    "example_sentence": "Cheer up, things will get better.",
+    "pronunciation": "/tʃɪər ʌp/"
+  },
+  {
+    "id": 404,
+    "word": "chip in",
+    "translation": "katkıda bulunmak; araya girmek (söz)",
+    "level": "B2",
+    "example_sentence": "We all chipped in to buy a gift.",
+    "pronunciation": "/tʃɪp ɪn/"
+  },
+  {
+    "id": 405,
+    "word": "close down",
+    "translation": "kapanmak, faaliyetini durdurmak",
+    "level": "B1",
+    "example_sentence": "The factory closed down last month.",
+    "pronunciation": "/kləʊz daʊn/"
+  },
+  {
+    "id": 406,
+    "word": "come round",
+    "translation": "geçmek (hastalık, fikir); ziyarete gelmek",
+    "level": "B2",
+    "example_sentence": "She'll come round to our way of thinking.",
+    "pronunciation": "/kʌm raʊnd/"
+  },
+  {
+    "id": 407,
+    "word": "cope with",
+    "translation": "baş etmek, üstesinden gelmek",
+    "level": "B1",
+    "example_sentence": "How do you cope with stress?",
+    "pronunciation": "/kəʊp wɪð/"
+  },
+  {
+    "id": 408,
+    "word": "cotton on",
+    "translation": "anlamak, kavramak (gayri resmi)",
+    "level": "C1",
+    "example_sentence": "It took him a while to cotton on.",
+    "pronunciation": "/ˈkɒtən ɒn/"
+  },
+  {
+    "id": 409,
+    "word": "dabble in",
+    "translation": "yüzeysel ilgilenmek",
+    "level": "C1",
+    "example_sentence": "She dabbled in painting as a hobby.",
+    "pronunciation": "/ˈdæbəl ɪn/"
+  },
+  {
+    "id": 410,
+    "word": "dawn on",
+    "translation": "birden anlamak",
+    "level": "C1",
+    "example_sentence": "It suddenly dawned on me what she meant.",
+    "pronunciation": "/dɔːn ɒn/"
+  },
+  {
+    "id": 411,
+    "word": "delve into",
+    "translation": "derinlemesine araştırmak",
+    "level": "C1",
+    "example_sentence": "The journalist delved into the company's finances.",
+    "pronunciation": "/dɛlv ˈɪntʊ/"
+  },
+  {
+    "id": 412,
+    "word": "drag on",
+    "translation": "sürünmek, uzayıp gitmek",
+    "level": "B2",
+    "example_sentence": "The meeting dragged on for three hours.",
+    "pronunciation": "/dræɡ ɒn/"
+  },
+  {
+    "id": 413,
+    "word": "draw out",
+    "translation": "uzatmak; çekmek (para)",
+    "level": "B2",
+    "example_sentence": "The trial was drawn out over several weeks.",
+    "pronunciation": "/drɔː aʊt/"
+  },
+  {
+    "id": 414,
+    "word": "drop out",
+    "translation": "okulu bırakmak; çekilmek",
+    "level": "B1",
+    "example_sentence": "He dropped out of university in his second year.",
+    "pronunciation": "/drɒp aʊt/"
+  },
+  {
+    "id": 415,
+    "word": "dwell on",
+    "translation": "üzerinde durmak, düşünmeye devam etmek",
+    "level": "C1",
+    "example_sentence": "Don't dwell on your failures.",
+    "pronunciation": "/dwɛl ɒn/"
+  },
+  {
+    "id": 416,
+    "word": "edge out",
+    "translation": "az farkla geçmek",
+    "level": "C1",
+    "example_sentence": "She edged out her rival for first place.",
+    "pronunciation": "/ɛdʒ aʊt/"
+  },
+  {
+    "id": 417,
+    "word": "eke out",
+    "translation": "büyük güçlükle geçindirmek",
+    "level": "C2",
+    "example_sentence": "They eked out a living from the land.",
+    "pronunciation": "/iːk aʊt/"
+  },
+  {
+    "id": 418,
+    "word": "factor in",
+    "translation": "hesaba katmak",
+    "level": "B2",
+    "example_sentence": "Factor in the travel time when planning.",
+    "pronunciation": "/ˈfæktər ɪn/"
+  },
+  {
+    "id": 419,
+    "word": "flag up",
+    "translation": "dikkat çekmek, işaret etmek",
+    "level": "C1",
+    "example_sentence": "The report flagged up several concerns.",
+    "pronunciation": "/flæɡ ʌp/"
+  },
+  {
+    "id": 420,
+    "word": "flesh out",
+    "translation": "geliştirmek, somutlaştırmak",
+    "level": "C1",
+    "example_sentence": "Let's flesh out the proposal.",
+    "pronunciation": "/flɛʃ aʊt/"
+  },
+  {
+    "id": 421,
+    "word": "fizzle out",
+    "translation": "sönmek, fiyaskoyla bitmek",
+    "level": "C1",
+    "example_sentence": "The excitement fizzled out quickly.",
+    "pronunciation": "/ˈfɪzəl aʊt/"
+  },
+  {
+    "id": 422,
+    "word": "gloss over",
+    "translation": "geçiştirmek, üstünkörü geçmek",
+    "level": "C1",
+    "example_sentence": "Don't gloss over the serious issues.",
+    "pronunciation": "/ɡlɒs ˈəʊvər/"
+  },
+  {
+    "id": 423,
+    "word": "hand down",
+    "translation": "kuşaktan kuşağa aktarmak; karar açıklamak",
+    "level": "B2",
+    "example_sentence": "These recipes were handed down by my grandmother.",
+    "pronunciation": "/hænd daʊn/"
+  },
+  {
+    "id": 424,
+    "word": "hang on",
+    "translation": "beklemek; tutunmak",
+    "level": "B1",
+    "example_sentence": "Hang on a moment, please.",
+    "pronunciation": "/hæŋ ɒn/"
+  },
+  {
+    "id": 425,
+    "word": "harp on",
+    "translation": "sürekli aynı konuyu tekrar etmek",
+    "level": "C1",
+    "example_sentence": "Stop harping on about the same issues.",
+    "pronunciation": "/hɑːp ɒn/"
+  },
+  {
+    "id": 426,
+    "word": "hold down",
+    "translation": "tutmak; aynı işte kalmak",
+    "level": "B2",
+    "example_sentence": "He struggles to hold down a job.",
+    "pronunciation": "/həʊld daʊn/"
+  },
+  {
+    "id": 427,
+    "word": "home in on",
+    "translation": "odaklanmak, tam isabet etmek",
+    "level": "C1",
+    "example_sentence": "The investigators homed in on the cause.",
+    "pronunciation": "/həʊm ɪn ɒn/"
+  },
+  {
+    "id": 428,
+    "word": "impose on",
+    "translation": "yük olmak; dayatmak",
+    "level": "C1",
+    "example_sentence": "I don't want to impose on your hospitality.",
+    "pronunciation": "/ɪmˈpəʊz ɒn/"
+  },
+  {
+    "id": 429,
+    "word": "impinge on",
+    "translation": "etki etmek, zarar vermek",
+    "level": "C2",
+    "example_sentence": "Noise pollution impinges on people's health.",
+    "pronunciation": "/ɪmˈpɪndʒ ɒn/"
+  },
+  {
+    "id": 430,
+    "word": "key in",
+    "translation": "klavyeyle girmek, yazmak",
+    "level": "B1",
+    "example_sentence": "Key in your PIN number.",
+    "pronunciation": "/kiː ɪn/"
+  },
+  {
+    "id": 431,
+    "word": "latch on to",
+    "translation": "kavramak; tutunmak",
+    "level": "C1",
+    "example_sentence": "She quickly latched on to the new system.",
+    "pronunciation": "/lætʃ ɒn tʊ/"
+  },
+  {
+    "id": 432,
+    "word": "level off",
+    "translation": "sabitleşmek, düzleşmek",
+    "level": "B2",
+    "example_sentence": "Growth has levelled off this year.",
+    "pronunciation": "/ˈlɛvəl ɒf/"
+  },
+  {
+    "id": 433,
+    "word": "live on",
+    "translation": "yaşamını sürdürmek; devam etmek",
+    "level": "B2",
+    "example_sentence": "His legacy will live on forever.",
+    "pronunciation": "/lɪv ɒn/"
+  },
+  {
+    "id": 434,
+    "word": "look back on",
+    "translation": "geriye dönüp bakmak",
+    "level": "B2",
+    "example_sentence": "Looking back on it, I made the right choice.",
+    "pronunciation": "/lʊk bæk ɒn/"
+  },
+  {
+    "id": 435,
+    "word": "mark up",
+    "translation": "fiyatı artırmak; işaretlemek",
+    "level": "B2",
+    "example_sentence": "The store marked up prices by 20%.",
+    "pronunciation": "/mɑːk ʌp/"
+  },
+  {
+    "id": 436,
+    "word": "muddle through",
+    "translation": "başarısız olmadan idare etmek",
+    "level": "C1",
+    "example_sentence": "We'll muddle through somehow.",
+    "pronunciation": "/ˈmʌdəl θruː/"
+  },
+  {
+    "id": 437,
+    "word": "nose around",
+    "translation": "burnunu sokmak, araştırmak",
+    "level": "C1",
+    "example_sentence": "Stop nosing around my office.",
+    "pronunciation": "/nəʊz əˈraʊnd/"
+  },
+  {
+    "id": 438,
+    "word": "phase in",
+    "translation": "kademeli olarak uygulamak",
+    "level": "C1",
+    "example_sentence": "The new system will be phased in gradually.",
+    "pronunciation": "/feɪz ɪn/"
+  },
+  {
+    "id": 439,
+    "word": "pick out",
+    "translation": "seçmek; ayırt etmek",
+    "level": "B1",
+    "example_sentence": "Can you pick out the mistakes in this text?",
+    "pronunciation": "/pɪk aʊt/"
+  },
+  {
+    "id": 440,
+    "word": "plough through",
+    "translation": "sabırla okumak/çalışmak",
+    "level": "C1",
+    "example_sentence": "She ploughed through hundreds of reports.",
+    "pronunciation": "/plaʊ θruː/"
+  },
+  {
+    "id": 441,
+    "word": "plunge into",
+    "translation": "dalmak; aniden başlamak",
+    "level": "B2",
+    "example_sentence": "He plunged into the project with enthusiasm.",
+    "pronunciation": "/plʌndʒ ˈɪntʊ/"
+  },
+  {
+    "id": 442,
+    "word": "polish off",
+    "translation": "bitirmek; temizlemek (yemek)",
+    "level": "B2",
+    "example_sentence": "He polished off the entire pizza.",
+    "pronunciation": "/ˈpɒlɪʃ ɒf/"
+  },
+  {
+    "id": 443,
+    "word": "print out",
+    "translation": "çıktı almak",
+    "level": "A2",
+    "example_sentence": "Print out the form and sign it.",
+    "pronunciation": "/prɪnt aʊt/"
+  },
+  {
+    "id": 444,
+    "word": "rake in",
+    "translation": "para toplamak, kazanmak",
+    "level": "C1",
+    "example_sentence": "The film raked in millions.",
+    "pronunciation": "/reɪk ɪn/"
+  },
+  {
+    "id": 445,
+    "word": "rally round",
+    "translation": "destek olmak, yardımına koşmak",
+    "level": "C1",
+    "example_sentence": "Her friends rallied round when she was ill.",
+    "pronunciation": "/ˈræli raʊnd/"
+  },
+  {
+    "id": 446,
+    "word": "result in",
+    "translation": "ile sonuçlanmak",
+    "level": "B1",
+    "example_sentence": "The accident resulted in three injuries.",
+    "pronunciation": "/rɪˈzʌlt ɪn/"
+  },
+  {
+    "id": 447,
+    "word": "revert to",
+    "translation": "geri dönmek (eski haline)",
+    "level": "C1",
+    "example_sentence": "He reverted to his old habits.",
+    "pronunciation": "/rɪˈvɜːt tʊ/"
+  },
+  {
+    "id": 448,
+    "word": "seize on",
+    "translation": "fırsatı kapmak; üzerine atlamak",
+    "level": "C1",
+    "example_sentence": "Critics seized on the mistake.",
+    "pronunciation": "/siːz ɒn/"
+  },
+  {
+    "id": 449,
+    "word": "soldier on",
+    "translation": "zorluğa rağmen devam etmek",
+    "level": "C1",
+    "example_sentence": "Despite the setbacks, she soldiered on.",
+    "pronunciation": "/ˈsəʊldʒər ɒn/"
+  },
+  {
+    "id": 450,
+    "word": "spring from",
+    "translation": "kaynaklanmak, ortaya çıkmak",
+    "level": "C1",
+    "example_sentence": "His success springs from determination.",
+    "pronunciation": "/sprɪŋ frɒm/"
+  },
+  {
+    "id": 451,
+    "word": "Break In On",
+    "translation": "Bir sohbeti bölmek",
+    "level": "B2",
+    "example_sentence": "She broke in on our conversation.",
+    "pronunciation": "/breɪk ɪn ɒn/"
+  },
+  {
+    "id": 452,
+    "word": "Bring Down",
+    "translation": "Bir şeyi azaltmak, devirmek, indirmek",
+    "level": "B1",
+    "example_sentence": "The new policy brought down inflation.",
+    "pronunciation": "/brɪŋ daʊn/"
+  },
+  {
+    "id": 453,
+    "word": "Bring In",
+    "translation": "Bir şeyi tanıtmak",
+    "level": "B1",
+    "example_sentence": "The company brought in a new system.",
+    "pronunciation": "/brɪŋ ɪn/"
+  },
+  {
+    "id": 454,
+    "word": "Call On",
+    "translation": "Ezbere okumak; ziyaret etmek",
+    "level": "B1",
+    "example_sentence": "The teacher called on him to read aloud.",
+    "pronunciation": "/kɔːl ɒn/"
+  },
+  {
+    "id": 455,
+    "word": "Care For",
+    "translation": "İlgilenmek, bakmak, sevmek",
+    "level": "B1",
+    "example_sentence": "She cares for her elderly parents.",
+    "pronunciation": "/kɛr fɔːr/"
+  },
+  {
+    "id": 456,
+    "word": "Catch Up With",
+    "translation": "Yakın olmak, yetişmek",
+    "level": "B1",
+    "example_sentence": "I need to catch up with my old friends.",
+    "pronunciation": "/kætʃ ʌp wɪð/"
+  },
+  {
+    "id": 457,
+    "word": "Change Over",
+    "translation": "Kullanılan yöntemi bırakmak",
+    "level": "B2",
+    "example_sentence": "We changed over to a new software system.",
+    "pronunciation": "/tʃeɪndʒ ˈəʊvər/"
+  },
+  {
+    "id": 458,
+    "word": "Check Up On",
+    "translation": "İncelemek, kontrol etmek",
+    "level": "B1",
+    "example_sentence": "The manager checked up on the team's progress.",
+    "pronunciation": "/tʃɛk ʌp ɒn/"
+  },
+  {
+    "id": 459,
+    "word": "Come Apart",
+    "translation": "Parçalara ayrılmak",
+    "level": "B1",
+    "example_sentence": "The old book came apart in my hands.",
+    "pronunciation": "/kʌm əˈpɑːt/"
+  },
+  {
+    "id": 460,
+    "word": "Come Down",
+    "translation": "Fiyatı azaltmak, inmek",
+    "level": "B1",
+    "example_sentence": "Prices have come down since last year.",
+    "pronunciation": "/kʌm daʊn/"
+  },
+  {
+    "id": 461,
+    "word": "Come Over",
+    "translation": "Ziyaret etmek",
+    "level": "A2",
+    "example_sentence": "Why don't you come over for dinner?",
+    "pronunciation": "/kʌm ˈəʊvər/"
+  },
+  {
+    "id": 462,
+    "word": "Come To",
+    "translation": "Şuuru yerine gelmek",
+    "level": "B2",
+    "example_sentence": "She fainted but came to after a few minutes.",
+    "pronunciation": "/kʌm tʊ/"
+  },
+  {
+    "id": 463,
+    "word": "Cut Off",
+    "translation": "Durdurmak, kesmek, kapamak",
+    "level": "B1",
+    "example_sentence": "The storm cut off electricity to the village.",
+    "pronunciation": "/kʌt ɒf/"
+  },
+  {
+    "id": 464,
+    "word": "Depend On",
+    "translation": "Bağlanmak, bağımlı olmak",
+    "level": "A2",
+    "example_sentence": "Success depends on hard work.",
+    "pronunciation": "/dɪˈpɛnd ɒn/"
+  },
+  {
+    "id": 465,
+    "word": "Die Out",
+    "translation": "Yok olmak, soyu tükenmek",
+    "level": "B2",
+    "example_sentence": "Many species are dying out due to habitat loss.",
+    "pronunciation": "/daɪ aʊt/"
+  },
+  {
+    "id": 466,
+    "word": "Do Over",
+    "translation": "Bir işi tekrar etmek",
+    "level": "B1",
+    "example_sentence": "You'll have to do the report over.",
+    "pronunciation": "/duː ˈəʊvər/"
+  },
+  {
+    "id": 467,
+    "word": "Do With",
+    "translation": "Bir şey ile ilgili olmak",
+    "level": "B1",
+    "example_sentence": "This has nothing to do with you.",
+    "pronunciation": "/duː wɪð/"
+  },
+  {
+    "id": 468,
+    "word": "Do Without",
+    "translation": "Olmadan idare etmek",
+    "level": "B1",
+    "example_sentence": "We'll have to do without coffee today.",
+    "pronunciation": "/duː wɪˈðaʊt/"
+  },
+  {
+    "id": 469,
+    "word": "Drop By",
+    "translation": "Haber vermeden uğramak",
+    "level": "B1",
+    "example_sentence": "Drop by anytime you're in the area.",
+    "pronunciation": "/drɒp baɪ/"
+  },
+  {
+    "id": 470,
+    "word": "Drop Out Of",
+    "translation": "Okuldan kaydını sildirmek, sınıfta kalmak",
+    "level": "B1",
+    "example_sentence": "He dropped out of university in his first year.",
+    "pronunciation": "/drɒp aʊt ɒv/"
+  },
+  {
+    "id": 471,
+    "word": "Fall On",
+    "translation": "Hücum etmek; denk gelmek (tarih)",
+    "level": "B2",
+    "example_sentence": "My birthday falls on a Monday this year.",
+    "pronunciation": "/fɔːl ɒn/"
+  },
+  {
+    "id": 472,
+    "word": "Fall Out",
+    "translation": "Kavga etmek, bozuşmak",
+    "level": "B1",
+    "example_sentence": "They fell out over money.",
+    "pronunciation": "/fɔːl aʊt/"
+  },
+  {
+    "id": 473,
+    "word": "Fall To",
+    "translation": "Payına düşmek",
+    "level": "C1",
+    "example_sentence": "It fell to her to break the bad news.",
+    "pronunciation": "/fɔːl tʊ/"
+  },
+  {
+    "id": 474,
+    "word": "Fill Out",
+    "translation": "Bir formu doldurmak",
+    "level": "A2",
+    "example_sentence": "Please fill out the registration form.",
+    "pronunciation": "/fɪl aʊt/"
+  },
+  {
+    "id": 475,
+    "word": "Fill Up",
+    "translation": "Tamamen doldurmak",
+    "level": "A2",
+    "example_sentence": "Fill up the tank before the trip.",
+    "pronunciation": "/fɪl ʌp/"
+  },
+  {
+    "id": 476,
+    "word": "Follow Up",
+    "translation": "Takip etmek",
+    "level": "B1",
+    "example_sentence": "Don't forget to follow up on the email.",
+    "pronunciation": "/ˈfɒləʊ ʌp/"
+  },
+  {
+    "id": 477,
+    "word": "Force Out",
+    "translation": "Zorlamak, dışarı çıkarmaya zorlamak",
+    "level": "B2",
+    "example_sentence": "He was forced out of his position.",
+    "pronunciation": "/fɔːrs aʊt/"
+  },
+  {
+    "id": 478,
+    "word": "Get Away With",
+    "translation": "Bir işten sıyrılmak, cezasız kalmak",
+    "level": "B2",
+    "example_sentence": "He can't get away with lying forever.",
+    "pronunciation": "/ɡɛt əˈweɪ wɪð/"
+  },
+  {
+    "id": 479,
+    "word": "Get Through With",
+    "translation": "Bitirmek",
+    "level": "B1",
+    "example_sentence": "When do you think you'll get through with the project?",
+    "pronunciation": "/ɡɛt θruː wɪð/"
+  },
+  {
+    "id": 480,
+    "word": "Give Off",
+    "translation": "Salmak, bırakmak, yaymak",
+    "level": "B2",
+    "example_sentence": "The flowers give off a lovely scent.",
+    "pronunciation": "/ɡɪv ɒf/"
+  },
+  {
+    "id": 481,
+    "word": "Give Rise To",
+    "translation": "Sebep olmak",
+    "level": "C1",
+    "example_sentence": "The new policy gave rise to many complaints.",
+    "pronunciation": "/ɡɪv raɪz tʊ/"
+  },
+  {
+    "id": 482,
+    "word": "Keep Away",
+    "translation": "Uzak durmak",
+    "level": "A2",
+    "example_sentence": "Keep away from the edge of the cliff.",
+    "pronunciation": "/kiːp əˈweɪ/"
+  },
+  {
+    "id": 483,
+    "word": "Keep In With",
+    "translation": "Biri ile iyi geçinmek",
+    "level": "B2",
+    "example_sentence": "It's wise to keep in with your colleagues.",
+    "pronunciation": "/kiːp ɪn wɪð/"
+  },
+  {
+    "id": 484,
+    "word": "Keep On",
+    "translation": "Devam etmek",
+    "level": "B1",
+    "example_sentence": "Keep on practicing and you'll improve.",
+    "pronunciation": "/kiːp ɒn/"
+  },
+  {
+    "id": 485,
+    "word": "Lead To",
+    "translation": "Yol açmak, öncülük etmek",
+    "level": "B1",
+    "example_sentence": "Stress can lead to serious health problems.",
+    "pronunciation": "/liːd tʊ/"
+  },
+  {
+    "id": 486,
+    "word": "Look In On",
+    "translation": "Birini ziyaret etmek",
+    "level": "B1",
+    "example_sentence": "I'll look in on grandma on my way home.",
+    "pronunciation": "/lʊk ɪn ɒn/"
+  },
+  {
+    "id": 487,
+    "word": "Look Out For",
+    "translation": "Dikkat etmek, gözetmek",
+    "level": "B1",
+    "example_sentence": "Look out for pickpockets in the market.",
+    "pronunciation": "/lʊk aʊt fɔːr/"
+  },
+  {
+    "id": 488,
+    "word": "Look Over",
+    "translation": "Göz gezdirmek, bir şeyi incelemek",
+    "level": "B1",
+    "example_sentence": "Can you look over my essay?",
+    "pronunciation": "/lʊk ˈəʊvər/"
+  },
+  {
+    "id": 489,
+    "word": "Look Up To",
+    "translation": "Saygı göstermek, örnek almak",
+    "level": "B1",
+    "example_sentence": "She looks up to her older sister.",
+    "pronunciation": "/lʊk ʌp tʊ/"
+  },
+  {
+    "id": 490,
+    "word": "Make Sure Of",
+    "translation": "Doğrulamak, emin olmak",
+    "level": "B1",
+    "example_sentence": "Make sure of the facts before publishing.",
+    "pronunciation": "/meɪk ʃʊər ɒv/"
+  },
+  {
+    "id": 491,
+    "word": "Pass By",
+    "translation": "Geçip gitmek",
+    "level": "A2",
+    "example_sentence": "Time passes by so quickly.",
+    "pronunciation": "/pɑːs baɪ/"
+  },
+  {
+    "id": 492,
+    "word": "Put Away",
+    "translation": "Saklamak, kaldırmak",
+    "level": "A2",
+    "example_sentence": "Put away your toys before dinner.",
+    "pronunciation": "/pʊt əˈweɪ/"
+  },
+  {
+    "id": 493,
+    "word": "Put Out",
+    "translation": "Söndürmek; rahatsız etmek",
+    "level": "B1",
+    "example_sentence": "Firefighters put out the blaze quickly.",
+    "pronunciation": "/pʊt aʊt/"
+  },
+  {
+    "id": 494,
+    "word": "Put Over",
+    "translation": "Demir atmak; anlatmak, aktarmak",
+    "level": "B2",
+    "example_sentence": "He struggled to put over his ideas clearly.",
+    "pronunciation": "/pʊt ˈəʊvər/"
+  },
+  {
+    "id": 495,
+    "word": "Put Up",
+    "translation": "İnşa etmek; misafir etmek",
+    "level": "B1",
+    "example_sentence": "They put up a new fence around the garden.",
+    "pronunciation": "/pʊt ʌp/"
+  },
+  {
+    "id": 496,
+    "word": "Read Over",
+    "translation": "Dikkatli okumak",
+    "level": "B1",
+    "example_sentence": "Read over your answers before submitting.",
+    "pronunciation": "/riːd ˈəʊvər/"
+  },
+  {
+    "id": 497,
+    "word": "Run Across",
+    "translation": "Rastlamak",
+    "level": "B1",
+    "example_sentence": "I ran across an interesting article today.",
+    "pronunciation": "/rʌn əˈkrɒs/"
+  },
+  {
+    "id": 498,
+    "word": "Run Through",
+    "translation": "Göz atmak, tüketmek, var olmak",
+    "level": "B2",
+    "example_sentence": "Let's run through the key points again.",
+    "pronunciation": "/rʌn θruː/"
+  },
+  {
+    "id": 499,
+    "word": "Send For",
+    "translation": "Getirtmek, çağırmak",
+    "level": "B1",
+    "example_sentence": "Send for a doctor immediately.",
+    "pronunciation": "/sɛnd fɔːr/"
+  },
+  {
+    "id": 500,
+    "word": "Set Forth",
+    "translation": "İleri sürmek, ortaya koymak",
+    "level": "C1",
+    "example_sentence": "The document sets forth the main principles.",
+    "pronunciation": "/sɛt fɔːθ/"
+  },
+  {
+    "id": 501,
+    "word": "Set Forward",
+    "translation": "İddia etmek, öne sürmek",
+    "level": "C1",
+    "example_sentence": "He set forward an interesting argument.",
+    "pronunciation": "/sɛt ˈfɔːwəd/"
+  },
+  {
+    "id": 502,
+    "word": "Set Out",
+    "translation": "Yola çıkmak",
+    "level": "B1",
+    "example_sentence": "They set out at dawn to reach the summit.",
+    "pronunciation": "/sɛt aʊt/"
+  },
+  {
+    "id": 503,
+    "word": "Show Off",
+    "translation": "Gösteriş yapmak",
+    "level": "B1",
+    "example_sentence": "He loves to show off his new car.",
+    "pronunciation": "/ʃəʊ ɒf/"
+  },
+  {
+    "id": 504,
+    "word": "Stick On",
+    "translation": "Yapışmak, yapıştırmak",
+    "level": "A2",
+    "example_sentence": "Stick the label on the envelope.",
+    "pronunciation": "/stɪk ɒn/"
+  },
+  {
+    "id": 505,
+    "word": "Take Care Of",
+    "translation": "İlgilenmek, sorumlu olmak",
+    "level": "A2",
+    "example_sentence": "She takes care of her younger siblings.",
+    "pronunciation": "/teɪk kɛr ɒv/"
+  },
+  {
+    "id": 506,
+    "word": "Take Down",
+    "translation": "Bir şeyi not almak; indirmek",
+    "level": "B1",
+    "example_sentence": "Take down the address before you forget.",
+    "pronunciation": "/teɪk daʊn/"
+  },
+  {
+    "id": 507,
+    "word": "Take To",
+    "translation": "Bir şeye başlamak, hoşlanmak",
+    "level": "B2",
+    "example_sentence": "She took to swimming at an early age.",
+    "pronunciation": "/teɪk tʊ/"
+  },
+  {
+    "id": 508,
+    "word": "Talk Back To",
+    "translation": "Kaba bir şekilde cevap vermek",
+    "level": "B1",
+    "example_sentence": "Don't talk back to your elders.",
+    "pronunciation": "/tɔːk bæk tʊ/"
+  },
+  {
+    "id": 509,
+    "word": "Tear Up",
+    "translation": "Parça parça etmek",
+    "level": "B1",
+    "example_sentence": "He tore up the letter in anger.",
+    "pronunciation": "/tɛr ʌp/"
+  },
+  {
+    "id": 510,
+    "word": "Think Back On",
+    "translation": "Yad etmek, anmak",
+    "level": "B2",
+    "example_sentence": "I often think back on my school days.",
+    "pronunciation": "/θɪŋk bæk ɒn/"
+  },
+  {
+    "id": 511,
+    "word": "Think Out",
+    "translation": "Enine boyuna düşünmek",
+    "level": "B2",
+    "example_sentence": "Think out the consequences before you act.",
+    "pronunciation": "/θɪŋk aʊt/"
+  },
+  {
+    "id": 512,
+    "word": "Turn Back",
+    "translation": "Geri çevirmek, reddetmek",
+    "level": "B1",
+    "example_sentence": "The border guards turned them back.",
+    "pronunciation": "/tɜːn bæk/"
+  },
+  {
+    "id": 513,
+    "word": "Turn Over",
+    "translation": "İşi devretmek; ters çevirmek",
+    "level": "B2",
+    "example_sentence": "He turned over the business to his son.",
+    "pronunciation": "/tɜːn ˈəʊvər/"
+  },
+  {
+    "id": 514,
+    "word": "Walk Out On",
+    "translation": "Terk etmek, başından atmak",
+    "level": "B2",
+    "example_sentence": "He walked out on his family.",
+    "pronunciation": "/wɔːk aʊt ɒn/"
+  },
+  {
+    "id": 515,
+    "word": "Warm Up",
+    "translation": "Isınmak, bir şeyi ısıtmak",
+    "level": "A2",
+    "example_sentence": "Warm up the soup on the stove.",
+    "pronunciation": "/wɔːm ʌp/"
+  },
+  {
+    "id": 516,
+    "phrasal_verb": "keep off",
+    "translation": "uzak durmak, dokunmamak",
+    "level": "B1",
+    "example_sentence": "Please keep off the grass — the sign clearly says it is forbidden.",
+    "pronunciation": "/kiːp ɒf/"
+  },
+  {
+    "id": 517,
+    "phrasal_verb": "keep up",
+    "translation": "ayak uydurmak, sürdürmek",
+    "level": "B1",
+    "example_sentence": "She walked so fast that I struggled to keep up with her.",
+    "pronunciation": "/kiːp ʌp/"
+  },
+  {
+    "id": 518,
+    "phrasal_verb": "rest on",
+    "translation": "dayanmak, bağlı olmak",
+    "level": "B2",
+    "example_sentence": "The success of the plan rests on everyone doing their part correctly.",
+    "pronunciation": "/rest ɒn/"
+  },
+  {
+    "id": 519,
+    "phrasal_verb": "run out",
+    "translation": "tükenmek, bitmek",
+    "level": "A2",
+    "example_sentence": "We ran out of milk this morning, so I need to go to the shop.",
+    "pronunciation": "/rʌn aʊt/"
+  },
+  {
+    "id": 520,
+    "phrasal_verb": "scale down",
+    "translation": "küçültmek, azaltmak",
+    "level": "B2",
+    "example_sentence": "The company decided to scale down its operations due to financial difficulties.",
+    "pronunciation": "/skeɪl daʊn/"
+  },
+  {
+    "id": 521,
+    "phrasal_verb": "sell out",
+    "translation": "tükenmek, satışa çıkarmak",
+    "level": "A2",
+    "example_sentence": "The tickets sold out within minutes of going on sale.",
+    "pronunciation": "/sel aʊt/"
+  },
+  {
+    "id": 522,
+    "phrasal_verb": "set back",
+    "translation": "geciktirmek, aksamasına neden olmak",
+    "level": "B2",
+    "example_sentence": "The heavy snowfall set back the construction work by several weeks.",
+    "pronunciation": "/set bæk/"
+  },
+  {
+    "id": 523,
+    "phrasal_verb": "spring up",
+    "translation": "aniden ortaya çıkmak, birdenbire oluşmak",
+    "level": "B2",
+    "example_sentence": "New coffee shops seem to spring up on every street corner in the city.",
+    "pronunciation": "/sprɪŋ ʌp/"
+  }
+]

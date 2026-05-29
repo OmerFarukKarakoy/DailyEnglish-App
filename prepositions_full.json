@@ -1,0 +1,3008 @@
+[
+  {
+    "id": 1,
+    "word": "about",
+    "translation": "hakkında, yaklaşık",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "We are talking about the new project.",
+    "pronunciation": "/əˈbaʊt/"
+  },
+  {
+    "id": 2,
+    "word": "above",
+    "translation": "üzerinde (temas yok)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "The plane is flying above the clouds.",
+    "pronunciation": "/əˈbʌv/"
+  },
+  {
+    "id": 3,
+    "word": "abroad",
+    "translation": "yurt dışında, yabancı bir ülkede",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "She has been living abroad for three years.",
+    "pronunciation": "/əˈbrɔːd/"
+  },
+  {
+    "id": 4,
+    "word": "abreast",
+    "translation": "yan yana, aynı hizada",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "They walked abreast down the narrow street.",
+    "pronunciation": "/əˈbrest/"
+  },
+  {
+    "id": 5,
+    "word": "absent",
+    "translation": "yokluğunda, gıyabında (resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "Absent any objections, the motion was passed.",
+    "pronunciation": "/ˈæbsənt/"
+  },
+  {
+    "id": 6,
+    "word": "across",
+    "translation": "karşısında, bir yandan öte yana",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "She walked across the street carefully.",
+    "pronunciation": "/əˈkrɒs/"
+  },
+  {
+    "id": 7,
+    "word": "after",
+    "translation": "sonra, ardından",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "We went for a walk after dinner.",
+    "pronunciation": "/ˈɑːftər/"
+  },
+  {
+    "id": 8,
+    "word": "against",
+    "translation": "karşı, -e yaslanarak",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "He leaned against the wall.",
+    "pronunciation": "/əˈɡenst/"
+  },
+  {
+    "id": 9,
+    "word": "along",
+    "translation": "boyunca",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "They walked along the river.",
+    "pronunciation": "/əˈlɒŋ/"
+  },
+  {
+    "id": 10,
+    "word": "alongside",
+    "translation": "yanında, yan yana",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "The boat was moored alongside the dock.",
+    "pronunciation": "/əˌlɒŋˈsaɪd/"
+  },
+  {
+    "id": 11,
+    "word": "amid",
+    "translation": "ortasında, arasında (resmi)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "She remained calm amid the chaos.",
+    "pronunciation": "/əˈmɪd/"
+  },
+  {
+    "id": 12,
+    "word": "amidst",
+    "translation": "ortasında, arasında (edebi)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Amidst the noise, he tried to concentrate.",
+    "pronunciation": "/əˈmɪdst/"
+  },
+  {
+    "id": 13,
+    "word": "among",
+    "translation": "arasında (üçten fazla şey için)",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "She was sitting among her friends.",
+    "pronunciation": "/əˈmʌŋ/"
+  },
+  {
+    "id": 14,
+    "word": "amongst",
+    "translation": "arasında (İngiliz İngilizcesi, edebi)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "He was the most talented amongst his peers.",
+    "pronunciation": "/əˈmʌŋst/"
+  },
+  {
+    "id": 15,
+    "word": "anti",
+    "translation": "karşıtı, aleyhtarı",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "He is very anti violence of any kind.",
+    "pronunciation": "/ˈænti/"
+  },
+  {
+    "id": 16,
+    "word": "apropos",
+    "translation": "ile ilgili olarak, uygun şekilde",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "Apropos your earlier question, here is the answer.",
+    "pronunciation": "/ˌæprəˈpoʊ/"
+  },
+  {
+    "id": 17,
+    "word": "around",
+    "translation": "etrafında, çevresinde",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The dog ran around the garden.",
+    "pronunciation": "/əˈraʊnd/"
+  },
+  {
+    "id": 18,
+    "word": "as",
+    "translation": "olarak, gibi (rol, işlev)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "She works as a nurse in a hospital.",
+    "pronunciation": "/æz/"
+  },
+  {
+    "id": 19,
+    "word": "aslant",
+    "translation": "çapraz olarak, eğri biçimde",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "The light fell aslant the floor.",
+    "pronunciation": "/əˈslɑːnt/"
+  },
+  {
+    "id": 20,
+    "word": "astride",
+    "translation": "üzerine oturarak, bir bacak her iki yanda",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "She sat astride the horse comfortably.",
+    "pronunciation": "/əˈstraɪd/"
+  },
+  {
+    "id": 21,
+    "word": "at",
+    "translation": "de/da (nokta, yer, zaman)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "She is at the office right now.",
+    "pronunciation": "/æt/"
+  },
+  {
+    "id": 22,
+    "word": "atop",
+    "translation": "tepesinde, üstünde",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "A flag was flying atop the building.",
+    "pronunciation": "/əˈtɒp/"
+  },
+  {
+    "id": 23,
+    "word": "bar",
+    "translation": "hariç, dışında (gayri resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "All students passed, bar one.",
+    "pronunciation": "/bɑːr/"
+  },
+  {
+    "id": 24,
+    "word": "barring",
+    "translation": "olmadığı takdirde, hariç tutulursa",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Barring any delays, we will arrive on time.",
+    "pronunciation": "/ˈbɑːrɪŋ/"
+  },
+  {
+    "id": 25,
+    "word": "before",
+    "translation": "önce, -den önce",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "Please wash your hands before eating.",
+    "pronunciation": "/bɪˈfɔːr/"
+  },
+  {
+    "id": 26,
+    "word": "behind",
+    "translation": "arkasında, gerisinde",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The cat is hiding behind the sofa.",
+    "pronunciation": "/bɪˈhaɪnd/"
+  },
+  {
+    "id": 27,
+    "word": "below",
+    "translation": "altında (temas yok)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "The temperature dropped below zero.",
+    "pronunciation": "/bɪˈloʊ/"
+  },
+  {
+    "id": 28,
+    "word": "beneath",
+    "translation": "altında, aşağısında",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "They sat beneath the old oak tree.",
+    "pronunciation": "/bɪˈniːθ/"
+  },
+  {
+    "id": 29,
+    "word": "beside",
+    "translation": "yanında, bitişiğinde",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "He sat beside me during the concert.",
+    "pronunciation": "/bɪˈsaɪd/"
+  },
+  {
+    "id": 30,
+    "word": "besides",
+    "translation": "bunun yanı sıra, -den başka",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Besides English, she speaks French and German.",
+    "pronunciation": "/bɪˈsaɪdz/"
+  },
+  {
+    "id": 31,
+    "word": "between",
+    "translation": "arasında (iki şey için)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The shop is between the bank and the post office.",
+    "pronunciation": "/bɪˈtwiːn/"
+  },
+  {
+    "id": 32,
+    "word": "beyond",
+    "translation": "ötesinde, dışında",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "The village is just beyond those hills.",
+    "pronunciation": "/bɪˈjɒnd/"
+  },
+  {
+    "id": 33,
+    "word": "but",
+    "translation": "hariç, dışında (edat olarak)",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Everyone but Tom knew the answer.",
+    "pronunciation": "/bʌt/"
+  },
+  {
+    "id": 34,
+    "word": "by",
+    "translation": "tarafından, yanında, ile (araç)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The book was written by a famous author.",
+    "pronunciation": "/baɪ/"
+  },
+  {
+    "id": 35,
+    "word": "chez",
+    "translation": "-nin evinde, yanında (Fransızca kökenli, gayri resmi)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "We met chez Marie last weekend.",
+    "pronunciation": "/ʃeɪ/"
+  },
+  {
+    "id": 36,
+    "word": "circa",
+    "translation": "yaklaşık, civarında (tarihler için, resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "The building was constructed circa 1850.",
+    "pronunciation": "/ˈsɜːrkə/"
+  },
+  {
+    "id": 37,
+    "word": "come",
+    "translation": "-e gelince, itibariyle (gayri resmi)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Come spring, everything will look different.",
+    "pronunciation": "/kʌm/"
+  },
+  {
+    "id": 38,
+    "word": "concerning",
+    "translation": "ile ilgili olarak, hakkında (resmi)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "I have some questions concerning your report.",
+    "pronunciation": "/kənˈsɜːrnɪŋ/"
+  },
+  {
+    "id": 39,
+    "word": "contra",
+    "translation": "karşı, aleyhine (resmi/hukuki)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "The ruling went contra the defendant's argument.",
+    "pronunciation": "/ˈkɒntrə/"
+  },
+  {
+    "id": 40,
+    "word": "counting",
+    "translation": "dahil ederek, sayarak",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "There were ten people counting the children.",
+    "pronunciation": "/ˈkaʊntɪŋ/"
+  },
+  {
+    "id": 41,
+    "word": "cum",
+    "translation": "ile birlikte, aynı zamanda (resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "It serves as a studio-cum-office.",
+    "pronunciation": "/kʌm/"
+  },
+  {
+    "id": 42,
+    "word": "despite",
+    "translation": "rağmen, karşın",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Despite the rain, they continued playing.",
+    "pronunciation": "/dɪˈspaɪt/"
+  },
+  {
+    "id": 43,
+    "word": "down",
+    "translation": "aşağıya, boyunca (aşağı yönde)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "He walked down the stairs slowly.",
+    "pronunciation": "/daʊn/"
+  },
+  {
+    "id": 44,
+    "word": "during",
+    "translation": "sırasında, esnasında",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "Please be quiet during the exam.",
+    "pronunciation": "/ˈdjʊərɪŋ/"
+  },
+  {
+    "id": 45,
+    "word": "effective",
+    "translation": "itibariyle, geçerli olarak (resmi/ticari)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "The new rules are effective Monday.",
+    "pronunciation": "/ɪˈfektɪv/"
+  },
+  {
+    "id": 46,
+    "word": "ere",
+    "translation": "önce (arkaik, şiirsel)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Ere long, the storm had passed.",
+    "pronunciation": "/ɛər/"
+  },
+  {
+    "id": 47,
+    "word": "except",
+    "translation": "hariç, dışında",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "Everyone came to the party except Tom.",
+    "pronunciation": "/ɪkˈsept/"
+  },
+  {
+    "id": 48,
+    "word": "excepting",
+    "translation": "hariç tutulursa, saymazsak",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "All documents were submitted, excepting one.",
+    "pronunciation": "/ɪkˈseptɪŋ/"
+  },
+  {
+    "id": 49,
+    "word": "excluding",
+    "translation": "hariç, dahil etmeksizin",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "The price is $50, excluding tax.",
+    "pronunciation": "/ɪkˈskluːdɪŋ/"
+  },
+  {
+    "id": 50,
+    "word": "failing",
+    "translation": "yokluğunda, olmadığı takdirde",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "Failing a better option, we'll go with this.",
+    "pronunciation": "/ˈfeɪlɪŋ/"
+  },
+  {
+    "id": 51,
+    "word": "following",
+    "translation": "akabinde, ardından",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Following the meeting, we had lunch together.",
+    "pronunciation": "/ˈfɒloʊɪŋ/"
+  },
+  {
+    "id": 52,
+    "word": "for",
+    "translation": "için, süresince",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "I have been waiting for two hours.",
+    "pronunciation": "/fɔːr/"
+  },
+  {
+    "id": 53,
+    "word": "from",
+    "translation": "-den/-dan (kaynak, başlangıç)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "She comes from Istanbul.",
+    "pronunciation": "/frɒm/"
+  },
+  {
+    "id": 54,
+    "word": "given",
+    "translation": "göz önünde bulundurulduğunda",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Given the circumstances, we made the right choice.",
+    "pronunciation": "/ˈɡɪvən/"
+  },
+  {
+    "id": 55,
+    "word": "in",
+    "translation": "içinde, -de/-da (kapalı alan, ay, yıl)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "He lives in a small apartment in London.",
+    "pronunciation": "/ɪn/"
+  },
+  {
+    "id": 56,
+    "word": "including",
+    "translation": "dahil, içinde olmak üzere",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "There were ten people, including three children.",
+    "pronunciation": "/ɪnˈkluːdɪŋ/"
+  },
+  {
+    "id": 57,
+    "word": "inside",
+    "translation": "içinde, içeri",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The children played inside the house.",
+    "pronunciation": "/ɪnˈsaɪd/"
+  },
+  {
+    "id": 58,
+    "word": "into",
+    "translation": "içine (hareket)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "She walked into the room quietly.",
+    "pronunciation": "/ˈɪntə/"
+  },
+  {
+    "id": 59,
+    "word": "less",
+    "translation": "eksi, çıkarılarak",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "His salary, less tax, was still generous.",
+    "pronunciation": "/les/"
+  },
+  {
+    "id": 60,
+    "word": "like",
+    "translation": "gibi, benzer şekilde",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "He swims like a professional athlete.",
+    "pronunciation": "/laɪk/"
+  },
+  {
+    "id": 61,
+    "word": "minus",
+    "translation": "eksi, çıkarılmış olarak",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Ten minus three equals seven.",
+    "pronunciation": "/ˈmaɪnəs/"
+  },
+  {
+    "id": 62,
+    "word": "modulo",
+    "translation": "modülü alındığında (matematik terimi)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Seven modulo three equals one.",
+    "pronunciation": "/ˈmɒdjuːloʊ/"
+  },
+  {
+    "id": 63,
+    "word": "near",
+    "translation": "yakınında, yanı başında",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "There is a supermarket near my house.",
+    "pronunciation": "/nɪər/"
+  },
+  {
+    "id": 64,
+    "word": "next",
+    "translation": "bitişiğinde, yanında",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "She sat next the window on the train.",
+    "pronunciation": "/nekst/"
+  },
+  {
+    "id": 65,
+    "word": "notwithstanding",
+    "translation": "rağmen, buna karşın (resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "Notwithstanding the difficulties, she succeeded.",
+    "pronunciation": "/ˌnɒtwɪθˈstændɪŋ/"
+  },
+  {
+    "id": 66,
+    "word": "of",
+    "translation": "-in/-ın (iyelik, ilgi)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "This is the capital of Turkey.",
+    "pronunciation": "/əv/"
+  },
+  {
+    "id": 67,
+    "word": "off",
+    "translation": "üzerinden, uzakta, kapalı",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "Keep off the grass!",
+    "pronunciation": "/ɒf/"
+  },
+  {
+    "id": 68,
+    "word": "offshore",
+    "translation": "kıyıdan uzakta, açıkta",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "The oil rig is offshore the coast of Norway.",
+    "pronunciation": "/ˌɒfˈʃɔːr/"
+  },
+  {
+    "id": 69,
+    "word": "on",
+    "translation": "üzerinde (temas var), -de/-da (gün, tarih)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The book is on the table.",
+    "pronunciation": "/ɒn/"
+  },
+  {
+    "id": 70,
+    "word": "onto",
+    "translation": "üzerine (hareket)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "The cat jumped onto the chair.",
+    "pronunciation": "/ˈɒntə/"
+  },
+  {
+    "id": 71,
+    "word": "opposite",
+    "translation": "karşısında, tam karşıda",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "The hotel is opposite the train station.",
+    "pronunciation": "/ˈɒpəzɪt/"
+  },
+  {
+    "id": 72,
+    "word": "out",
+    "translation": "dışarısına, dışında",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "He looked out the window.",
+    "pronunciation": "/aʊt/"
+  },
+  {
+    "id": 73,
+    "word": "outside",
+    "translation": "dışında, dışarıda",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The kids are playing outside the house.",
+    "pronunciation": "/ˌaʊtˈsaɪd/"
+  },
+  {
+    "id": 74,
+    "word": "over",
+    "translation": "üzerinden, üstünde, boyunca",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "The bridge goes over the river.",
+    "pronunciation": "/ˈoʊvər/"
+  },
+  {
+    "id": 75,
+    "word": "pace",
+    "translation": "saygıyla muhalefet ederek (resmi, Latince kökenli)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Pace the critics, the film was a success.",
+    "pronunciation": "/ˈpɑːtʃeɪ/"
+  },
+  {
+    "id": 76,
+    "word": "past",
+    "translation": "geçerek, yanından, ötesinde",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "Walk past the library and turn left.",
+    "pronunciation": "/pɑːst/"
+  },
+  {
+    "id": 77,
+    "word": "pending",
+    "translation": "beklenirken, çözüme kavuşana dek",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "The project is on hold pending approval.",
+    "pronunciation": "/ˈpendɪŋ/"
+  },
+  {
+    "id": 78,
+    "word": "per",
+    "translation": "başına, her biri için",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "The speed limit is 100 km per hour.",
+    "pronunciation": "/pɜːr/"
+  },
+  {
+    "id": 79,
+    "word": "plus",
+    "translation": "artı, ek olarak",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "Three plus five equals eight.",
+    "pronunciation": "/plʌs/"
+  },
+  {
+    "id": 80,
+    "word": "post",
+    "translation": "sonrasında (resmi)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Post the election, new policies were announced.",
+    "pronunciation": "/poʊst/"
+  },
+  {
+    "id": 81,
+    "word": "pre",
+    "translation": "öncesinde (resmi)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Pre the merger, both companies were struggling.",
+    "pronunciation": "/priː/"
+  },
+  {
+    "id": 82,
+    "word": "pro",
+    "translation": "lehine, yanlısı olarak",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "He is pro the new environmental legislation.",
+    "pronunciation": "/proʊ/"
+  },
+  {
+    "id": 83,
+    "word": "qua",
+    "translation": "olarak, sıfatıyla (resmi, felsefi)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Qua philosopher, he considered all possibilities.",
+    "pronunciation": "/kwɑː/"
+  },
+  {
+    "id": 84,
+    "word": "re",
+    "translation": "ile ilgili, konusunda (resmi yazışma)",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Re your enquiry, please see the attached document.",
+    "pronunciation": "/riː/"
+  },
+  {
+    "id": 85,
+    "word": "regarding",
+    "translation": "ilgili olarak, hakkında",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "I am writing regarding your recent application.",
+    "pronunciation": "/rɪˈɡɑːrdɪŋ/"
+  },
+  {
+    "id": 86,
+    "word": "respecting",
+    "translation": "bakımından, ilgili olarak (resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "Respecting your concerns, we have made changes.",
+    "pronunciation": "/rɪˈspektɪŋ/"
+  },
+  {
+    "id": 87,
+    "word": "round",
+    "translation": "etrafında, çevresinde (İngiliz İngilizcesi)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "They sat round the table for dinner.",
+    "pronunciation": "/raʊnd/"
+  },
+  {
+    "id": 88,
+    "word": "sans",
+    "translation": "olmaksızın, -siz (resmi/edebi, Fransızca kökenli)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "He appeared sans his usual tie.",
+    "pronunciation": "/sænz/"
+  },
+  {
+    "id": 89,
+    "word": "save",
+    "translation": "hariç, dışında (resmi/edebi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "All were present, save the manager.",
+    "pronunciation": "/seɪv/"
+  },
+  {
+    "id": 90,
+    "word": "saving",
+    "translation": "hariç tutarak, müstesna olmak üzere",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Saving your presence, I must disagree.",
+    "pronunciation": "/ˈseɪvɪŋ/"
+  },
+  {
+    "id": 91,
+    "word": "short",
+    "translation": "eksik, yetersiz kalarak",
+    "level": "B2",
+    "type": "simple",
+    "example_sentence": "Short of quitting, there is nothing else to do.",
+    "pronunciation": "/ʃɔːrt/"
+  },
+  {
+    "id": 92,
+    "word": "since",
+    "translation": "-den beri (zaman)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "I have lived here since 2010.",
+    "pronunciation": "/sɪns/"
+  },
+  {
+    "id": 93,
+    "word": "sub",
+    "translation": "altında, yerine (Latince kökenli, resmi)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "He signed the contract sub his own name.",
+    "pronunciation": "/sʌb/"
+  },
+  {
+    "id": 94,
+    "word": "than",
+    "translation": "-den/-dan (karşılaştırma)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "She is taller than her brother.",
+    "pronunciation": "/ðæn/"
+  },
+  {
+    "id": 95,
+    "word": "through",
+    "translation": "içinden geçerek, boyunca",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "We drove through the tunnel.",
+    "pronunciation": "/θruː/"
+  },
+  {
+    "id": 96,
+    "word": "throughout",
+    "translation": "boyunca, her yerinde",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "She worked hard throughout the year.",
+    "pronunciation": "/θruːˈaʊt/"
+  },
+  {
+    "id": 97,
+    "word": "till",
+    "translation": "-e kadar (zaman, gayri resmi)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "The shop is open till nine o'clock.",
+    "pronunciation": "/tɪl/"
+  },
+  {
+    "id": 98,
+    "word": "times",
+    "translation": "ile çarpılmış, katı",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Three times four equals twelve.",
+    "pronunciation": "/taɪmz/"
+  },
+  {
+    "id": 99,
+    "word": "to",
+    "translation": "-e/-a (yön, hedef)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "I am going to the market.",
+    "pronunciation": "/tuː/"
+  },
+  {
+    "id": 100,
+    "word": "touching",
+    "translation": "ilgili olarak (arkaik, resmi)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Touching the matter at hand, I must advise caution.",
+    "pronunciation": "/ˈtʌtʃɪŋ/"
+  },
+  {
+    "id": 101,
+    "word": "toward",
+    "translation": "doğru, yönünde (Amerikan İngilizcesi)",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "She walked toward the exit.",
+    "pronunciation": "/təˈwɔːrd/"
+  },
+  {
+    "id": 102,
+    "word": "towards",
+    "translation": "doğru, yönünde (İngiliz İngilizcesi)",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "He looked towards the horizon.",
+    "pronunciation": "/təˈwɔːrdz/"
+  },
+  {
+    "id": 103,
+    "word": "under",
+    "translation": "altında (temas var ya da yok)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "The cat is sleeping under the bed.",
+    "pronunciation": "/ˈʌndər/"
+  },
+  {
+    "id": 104,
+    "word": "underneath",
+    "translation": "tam altında, dibinde",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "The spare key is underneath the doormat.",
+    "pronunciation": "/ˌʌndəˈniːθ/"
+  },
+  {
+    "id": 105,
+    "word": "unlike",
+    "translation": "aksine, -den farklı olarak",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Unlike her sister, she loves spicy food.",
+    "pronunciation": "/ˌʌnˈlaɪk/"
+  },
+  {
+    "id": 106,
+    "word": "until",
+    "translation": "-e kadar (zaman)",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "Wait here until I come back.",
+    "pronunciation": "/ənˈtɪl/"
+  },
+  {
+    "id": 107,
+    "word": "unto",
+    "translation": "-e (arkaik, şiirsel)",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Do unto others as you would have them do to you.",
+    "pronunciation": "/ˈʌntə/"
+  },
+  {
+    "id": 108,
+    "word": "up",
+    "translation": "yukarıya, boyunca (yukarı yönde)",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "She climbed up the mountain.",
+    "pronunciation": "/ʌp/"
+  },
+  {
+    "id": 109,
+    "word": "upon",
+    "translation": "üzerine, üstünde (resmi)",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Once upon a time, there was a brave knight.",
+    "pronunciation": "/əˈpɒn/"
+  },
+  {
+    "id": 110,
+    "word": "versus",
+    "translation": "karşı, ile karşılaştırıldığında",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "It was a match of England versus Germany.",
+    "pronunciation": "/ˈvɜːrsəs/"
+  },
+  {
+    "id": 111,
+    "word": "via",
+    "translation": "yoluyla, üzerinden",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "We flew to Paris via Amsterdam.",
+    "pronunciation": "/ˈvaɪə/"
+  },
+  {
+    "id": 112,
+    "word": "vice",
+    "translation": "yerine, vekâleten (resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "He was appointed vice the retired director.",
+    "pronunciation": "/vaɪs/"
+  },
+  {
+    "id": 113,
+    "word": "vis-à-vis",
+    "translation": "ile ilgili olarak, karşılaştırıldığında (resmi)",
+    "level": "C1",
+    "type": "simple",
+    "example_sentence": "Our strategy vis-à-vis the competitors needs revision.",
+    "pronunciation": "/ˌviːzɑːˈviː/"
+  },
+  {
+    "id": 114,
+    "word": "wanting",
+    "translation": "eksik, yetersiz olarak",
+    "level": "C2",
+    "type": "simple",
+    "example_sentence": "Wanting proper funding, the project was abandoned.",
+    "pronunciation": "/ˈwɒntɪŋ/"
+  },
+  {
+    "id": 115,
+    "word": "with",
+    "translation": "ile, birlikte",
+    "level": "A1",
+    "type": "simple",
+    "example_sentence": "She came to the party with her friends.",
+    "pronunciation": "/wɪð/"
+  },
+  {
+    "id": 116,
+    "word": "within",
+    "translation": "içinde, sınırları dahilinde",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "Please reply within three days.",
+    "pronunciation": "/wɪˈðɪn/"
+  },
+  {
+    "id": 117,
+    "word": "without",
+    "translation": "olmaksızın, -siz/-sız",
+    "level": "A2",
+    "type": "simple",
+    "example_sentence": "He left the house without saying goodbye.",
+    "pronunciation": "/wɪˈðaʊt/"
+  },
+  {
+    "id": 118,
+    "word": "worth",
+    "translation": "değerinde, değer kazandıracak",
+    "level": "B1",
+    "type": "simple",
+    "example_sentence": "This painting is worth a million dollars.",
+    "pronunciation": "/wɜːrθ/"
+  },
+  {
+    "id": 119,
+    "word": "according to",
+    "translation": "göre, -e göre",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "According to the report, sales have increased.",
+    "pronunciation": "/əˈkɔːrdɪŋ tuː/"
+  },
+  {
+    "id": 120,
+    "word": "across from",
+    "translation": "karşısında, tam karşısında",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "The café is across from the museum.",
+    "pronunciation": "/əˈkrɒs frɒm/"
+  },
+  {
+    "id": 121,
+    "word": "ahead of",
+    "translation": "önünde, önce",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "She was ahead of the other runners.",
+    "pronunciation": "/əˈhed əv/"
+  },
+  {
+    "id": 122,
+    "word": "along with",
+    "translation": "ile birlikte, yanı sıra",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "Along with her colleagues, she attended the event.",
+    "pronunciation": "/əˈlɒŋ wɪð/"
+  },
+  {
+    "id": 123,
+    "word": "apart from",
+    "translation": "dışında, haricinde",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "Apart from the weather, the holiday was perfect.",
+    "pronunciation": "/əˈpɑːrt frəm/"
+  },
+  {
+    "id": 124,
+    "word": "as for",
+    "translation": "gelince, hakkında",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "As for the budget, we will discuss it later.",
+    "pronunciation": "/æz fɔːr/"
+  },
+  {
+    "id": 125,
+    "word": "as from",
+    "translation": "itibariyle, -dan başlayarak (resmi)",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "As from next Monday, new rules apply.",
+    "pronunciation": "/æz frɒm/"
+  },
+  {
+    "id": 126,
+    "word": "as of",
+    "translation": "itibariyle, tarihinden başlayarak",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "As of today, the new law is in effect.",
+    "pronunciation": "/æz ɒv/"
+  },
+  {
+    "id": 127,
+    "word": "as per",
+    "translation": "uyarınca, doğrultusunda",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "As per your instructions, I have sent the email.",
+    "pronunciation": "/æz pɜːr/"
+  },
+  {
+    "id": 128,
+    "word": "as regards",
+    "translation": "ile ilgili olarak, bakımından",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "As regards the deadline, it remains unchanged.",
+    "pronunciation": "/æz rɪˈɡɑːrdz/"
+  },
+  {
+    "id": 129,
+    "word": "as to",
+    "translation": "konusunda, hakkında",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "There was no doubt as to his intentions.",
+    "pronunciation": "/æz tuː/"
+  },
+  {
+    "id": 130,
+    "word": "as well as",
+    "translation": "yanı sıra, ve ayrıca",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "She speaks Spanish as well as Portuguese.",
+    "pronunciation": "/æz wel æz/"
+  },
+  {
+    "id": 131,
+    "word": "aside from",
+    "translation": "dışında, bir yana bırakırsak",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "Aside from a few errors, the report was excellent.",
+    "pronunciation": "/əˈsaɪd frəm/"
+  },
+  {
+    "id": 132,
+    "word": "at the behest of",
+    "translation": "emri üzerine, isteğiyle",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "The meeting was called at the behest of the CEO.",
+    "pronunciation": "/æt ðə bɪˈhest əv/"
+  },
+  {
+    "id": 133,
+    "word": "at the expense of",
+    "translation": "pahasına, hesabına",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "Success came at the expense of his health.",
+    "pronunciation": "/æt ðə ɪkˈspens əv/"
+  },
+  {
+    "id": 134,
+    "word": "at the hands of",
+    "translation": "elinden, tarafından",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "He suffered defeat at the hands of the champion.",
+    "pronunciation": "/æt ðə hændz əv/"
+  },
+  {
+    "id": 135,
+    "word": "at risk of",
+    "translation": "tehlikesiyle karşı karşıya",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "The coastal towns are at risk of flooding.",
+    "pronunciation": "/æt rɪsk əv/"
+  },
+  {
+    "id": 136,
+    "word": "away from",
+    "translation": "uzakta, -den uzaklaşarak",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "She moved away from the city for a quieter life.",
+    "pronunciation": "/əˈweɪ frɒm/"
+  },
+  {
+    "id": 137,
+    "word": "because of",
+    "translation": "yüzünden, nedeniyle",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "The match was cancelled because of the rain.",
+    "pronunciation": "/bɪˈkɒz əv/"
+  },
+  {
+    "id": 138,
+    "word": "by dint of",
+    "translation": "sayesinde, vesilesiyle",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "By dint of hard work, she reached the top.",
+    "pronunciation": "/baɪ dɪnt əv/"
+  },
+  {
+    "id": 139,
+    "word": "by means of",
+    "translation": "aracılığıyla, vasıtasıyla",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "He escaped by means of a hidden tunnel.",
+    "pronunciation": "/baɪ miːnz əv/"
+  },
+  {
+    "id": 140,
+    "word": "by virtue of",
+    "translation": "sayesinde, nedeniyle",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "By virtue of her experience, she got the job.",
+    "pronunciation": "/baɪ ˈvɜːrtʃuː əv/"
+  },
+  {
+    "id": 141,
+    "word": "by way of",
+    "translation": "yoluyla, üzerinden, bir çeşit",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "By way of introduction, let me tell you about myself.",
+    "pronunciation": "/baɪ weɪ əv/"
+  },
+  {
+    "id": 142,
+    "word": "close to",
+    "translation": "yakın, yanında",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "The hotel is close to the city centre.",
+    "pronunciation": "/kloʊs tuː/"
+  },
+  {
+    "id": 143,
+    "word": "due to",
+    "translation": "nedeniyle, sebebiyle",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "The flight was delayed due to bad weather.",
+    "pronunciation": "/djuː tuː/"
+  },
+  {
+    "id": 144,
+    "word": "except for",
+    "translation": "dışında, haricinde",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "Except for the ending, I liked the film.",
+    "pronunciation": "/ɪkˈsept fɔːr/"
+  },
+  {
+    "id": 145,
+    "word": "far from",
+    "translation": "uzak, -den uzakta",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "The village is far from the nearest hospital.",
+    "pronunciation": "/fɑːr frɒm/"
+  },
+  {
+    "id": 146,
+    "word": "for lack of",
+    "translation": "yokluğu nedeniyle, -sızlığından",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "The project failed for lack of funding.",
+    "pronunciation": "/fɔːr læk əv/"
+  },
+  {
+    "id": 147,
+    "word": "for the sake of",
+    "translation": "hatırı için, uğruna",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "She stayed in the job for the sake of her family.",
+    "pronunciation": "/fɔːr ðə seɪk əv/"
+  },
+  {
+    "id": 148,
+    "word": "in accordance with",
+    "translation": "uygun olarak, doğrultusunda",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "Please act in accordance with company policy.",
+    "pronunciation": "/ɪn əˈkɔːrdəns wɪð/"
+  },
+  {
+    "id": 149,
+    "word": "in addition to",
+    "translation": "ek olarak, -e ek olarak",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "In addition to English, he studies Japanese.",
+    "pronunciation": "/ɪn əˈdɪʃən tuː/"
+  },
+  {
+    "id": 150,
+    "word": "in between",
+    "translation": "arasında, ortasında",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "There is a park in between the two buildings.",
+    "pronunciation": "/ɪn bɪˈtwiːn/"
+  },
+  {
+    "id": 151,
+    "word": "in case of",
+    "translation": "halinde, durumunda",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "In case of emergency, call this number.",
+    "pronunciation": "/ɪn keɪs əv/"
+  },
+  {
+    "id": 152,
+    "word": "in charge of",
+    "translation": "sorumluluğunda, yönetiminde",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "She is in charge of the marketing department.",
+    "pronunciation": "/ɪn tʃɑːrdʒ əv/"
+  },
+  {
+    "id": 153,
+    "word": "in compliance with",
+    "translation": "uyum içinde, çerçevesinde",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "We acted in compliance with the regulations.",
+    "pronunciation": "/ɪn kəmˈplaɪəns wɪð/"
+  },
+  {
+    "id": 154,
+    "word": "in exchange for",
+    "translation": "karşılığında, takasında",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "He gave his watch in exchange for the bike.",
+    "pronunciation": "/ɪn ɪksˈtʃeɪndʒ fɔːr/"
+  },
+  {
+    "id": 155,
+    "word": "in favor of",
+    "translation": "lehinde, taraftarlığında",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "Most people voted in favor of the proposal.",
+    "pronunciation": "/ɪn ˈfeɪvər əv/"
+  },
+  {
+    "id": 156,
+    "word": "in front of",
+    "translation": "önünde",
+    "level": "A1",
+    "type": "complex",
+    "example_sentence": "She parked the car in front of the school.",
+    "pronunciation": "/ɪn frʌnt əv/"
+  },
+  {
+    "id": 157,
+    "word": "in lieu of",
+    "translation": "yerine, bedeli olarak",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "He accepted a pay cut in lieu of redundancy.",
+    "pronunciation": "/ɪn ljuː əv/"
+  },
+  {
+    "id": 158,
+    "word": "in light of",
+    "translation": "ışığında, göz önünde bulundurularak",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "In light of the new evidence, we changed our plan.",
+    "pronunciation": "/ɪn laɪt əv/"
+  },
+  {
+    "id": 159,
+    "word": "in line with",
+    "translation": "uyumlu olarak, doğrultusunda",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "The decision is in line with our values.",
+    "pronunciation": "/ɪn laɪn wɪð/"
+  },
+  {
+    "id": 160,
+    "word": "in place of",
+    "translation": "yerine, geçerek",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "Use olive oil in place of butter for a healthier dish.",
+    "pronunciation": "/ɪn pleɪs əv/"
+  },
+  {
+    "id": 161,
+    "word": "in relation to",
+    "translation": "ile ilgili olarak, oranla",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "Wages are low in relation to the cost of living.",
+    "pronunciation": "/ɪn rɪˈleɪʃən tuː/"
+  },
+  {
+    "id": 162,
+    "word": "in return for",
+    "translation": "karşılığında, mükâfatı olarak",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "He offered help in return for a small favour.",
+    "pronunciation": "/ɪn rɪˈtɜːrn fɔːr/"
+  },
+  {
+    "id": 163,
+    "word": "in search of",
+    "translation": "arayışında, peşinde",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "She travelled the world in search of adventure.",
+    "pronunciation": "/ɪn sɜːrtʃ əv/"
+  },
+  {
+    "id": 164,
+    "word": "in spite of",
+    "translation": "rağmen, karşın",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "In spite of the noise, she fell asleep quickly.",
+    "pronunciation": "/ɪn spaɪt əv/"
+  },
+  {
+    "id": 165,
+    "word": "in terms of",
+    "translation": "açısından, bakımından",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "In terms of cost, this is the best option.",
+    "pronunciation": "/ɪn tɜːrmz əv/"
+  },
+  {
+    "id": 166,
+    "word": "in view of",
+    "translation": "göz önünde bulundurarak, dikkate alarak",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "In view of the risks, we decided not to proceed.",
+    "pronunciation": "/ɪn vjuː əv/"
+  },
+  {
+    "id": 167,
+    "word": "instead of",
+    "translation": "yerine, -in yerine",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "She had tea instead of coffee.",
+    "pronunciation": "/ɪnˈsted əv/"
+  },
+  {
+    "id": 168,
+    "word": "near to",
+    "translation": "yakınında",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "The school is near to the park.",
+    "pronunciation": "/nɪər tuː/"
+  },
+  {
+    "id": 169,
+    "word": "next to",
+    "translation": "yanında, bitişiğinde",
+    "level": "A1",
+    "type": "complex",
+    "example_sentence": "The pharmacy is next to the hospital.",
+    "pronunciation": "/nekst tuː/"
+  },
+  {
+    "id": 170,
+    "word": "on account of",
+    "translation": "nedeniyle, dolayısıyla",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "He was absent on account of illness.",
+    "pronunciation": "/ɒn əˈkaʊnt əv/"
+  },
+  {
+    "id": 171,
+    "word": "on behalf of",
+    "translation": "adına, namına",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "I am speaking on behalf of the whole team.",
+    "pronunciation": "/ɒn bɪˈhɑːf əv/"
+  },
+  {
+    "id": 172,
+    "word": "on grounds of",
+    "translation": "gerekçesiyle, sebebiyle",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "He was dismissed on grounds of misconduct.",
+    "pronunciation": "/ɒn ɡraʊndz əv/"
+  },
+  {
+    "id": 173,
+    "word": "on the part of",
+    "translation": "tarafından, -in açısından",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "There was a lack of effort on the part of the team.",
+    "pronunciation": "/ɒn ðə pɑːrt əv/"
+  },
+  {
+    "id": 174,
+    "word": "on top of",
+    "translation": "üstünde, tepesinde",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "She placed the vase on top of the shelf.",
+    "pronunciation": "/ɒn tɒp əv/"
+  },
+  {
+    "id": 175,
+    "word": "opposite of",
+    "translation": "zıddı, karşıtı",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "Hot is the opposite of cold.",
+    "pronunciation": "/ˈɒpəzɪt əv/"
+  },
+  {
+    "id": 176,
+    "word": "out of",
+    "translation": "-den dışarı, -den uzak",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "She took the keys out of her bag.",
+    "pronunciation": "/aʊt əv/"
+  },
+  {
+    "id": 177,
+    "word": "outside of",
+    "translation": "dışında, haricinde",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "Outside of work, she enjoys painting.",
+    "pronunciation": "/ˌaʊtˈsaɪd əv/"
+  },
+  {
+    "id": 178,
+    "word": "owing to",
+    "translation": "nedeniyle, -den dolayı (resmi)",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "Owing to the strike, trains were cancelled.",
+    "pronunciation": "/ˈoʊɪŋ tuː/"
+  },
+  {
+    "id": 179,
+    "word": "pertaining to",
+    "translation": "ile ilgili, ait olan",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "Please submit all documents pertaining to the case.",
+    "pronunciation": "/pɜːˈteɪnɪŋ tuː/"
+  },
+  {
+    "id": 180,
+    "word": "prior to",
+    "translation": "önce, -den önce (resmi)",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "Please read the instructions prior to use.",
+    "pronunciation": "/ˈpraɪər tuː/"
+  },
+  {
+    "id": 181,
+    "word": "round about",
+    "translation": "etrafında, civarında",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "There are many shops round about the station.",
+    "pronunciation": "/raʊnd əˈbaʊt/"
+  },
+  {
+    "id": 182,
+    "word": "up against",
+    "translation": "karşı karşıya, zorluğuyla yüzleşerek",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "We are up against a very tight deadline.",
+    "pronunciation": "/ʌp əˈɡenst/"
+  },
+  {
+    "id": 183,
+    "word": "up to",
+    "translation": "kadar, -e varan",
+    "level": "A2",
+    "type": "complex",
+    "example_sentence": "The offer is valid up to ten people.",
+    "pronunciation": "/ʌp tuː/"
+  },
+  {
+    "id": 184,
+    "word": "with a view to",
+    "translation": "amacıyla, niyetiyle",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "She studied hard with a view to passing the exam.",
+    "pronunciation": "/wɪð ə vjuː tuː/"
+  },
+  {
+    "id": 185,
+    "word": "with regard to",
+    "translation": "ile ilgili olarak, bakımından",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "With regard to your question, I will respond soon.",
+    "pronunciation": "/wɪð rɪˈɡɑːrd tuː/"
+  },
+  {
+    "id": 186,
+    "word": "with respect to",
+    "translation": "bakımından, ile ilgili olarak",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "With respect to the budget, cuts must be made.",
+    "pronunciation": "/wɪð rɪˈspekt tuː/"
+  },
+  {
+    "id": 187,
+    "word": "with the exception of",
+    "translation": "haricinde, dışında",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "All students passed with the exception of two.",
+    "pronunciation": "/wɪð ðə ɪkˈsepʃən əv/"
+  },
+  {
+    "id": 188,
+    "word": "as far as",
+    "translation": "kadar, -e kadar (mesafe/kapsam)",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "We walked as far as the old castle.",
+    "pronunciation": "/æz fɑːr æz/"
+  },
+  {
+    "id": 189,
+    "word": "in the name of",
+    "translation": "adına, namına",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "He acted in the name of justice.",
+    "pronunciation": "/ɪn ðə neɪm əv/"
+  },
+  {
+    "id": 190,
+    "word": "in conformity with",
+    "translation": "uygunluğuyla, çerçevesinde",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "The building was constructed in conformity with local codes.",
+    "pronunciation": "/ɪn kənˈfɔːrmɪti wɪð/"
+  },
+  {
+    "id": 191,
+    "word": "in contact with",
+    "translation": "ile temasta, ile irtibatta",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "She has been in contact with the supplier.",
+    "pronunciation": "/ɪn ˈkɒntækt wɪð/"
+  },
+  {
+    "id": 192,
+    "word": "in step with",
+    "translation": "ile uyumlu, paralelinde",
+    "level": "B2",
+    "type": "complex",
+    "example_sentence": "The company's growth is in step with market trends.",
+    "pronunciation": "/ɪn step wɪð/"
+  },
+  {
+    "id": 193,
+    "word": "in touch with",
+    "translation": "ile bağlantıda, haberleşerek",
+    "level": "B1",
+    "type": "complex",
+    "example_sentence": "I will stay in touch with you while I'm away.",
+    "pronunciation": "/ɪn tʌtʃ wɪð/"
+  },
+  {
+    "id": 194,
+    "word": "at variance with",
+    "translation": "ile çelişen, uyuşmayan",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "His actions were at variance with his promises.",
+    "pronunciation": "/æt ˈveəriəns wɪð/"
+  },
+  {
+    "id": 195,
+    "word": "in quest of",
+    "translation": "peşinde, arayışında",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "He set out in quest of the lost treasure.",
+    "pronunciation": "/ɪn kwest əv/"
+  },
+  {
+    "id": 196,
+    "word": "back to",
+    "translation": "geri, -e geri",
+    "level": "A1",
+    "type": "complex",
+    "example_sentence": "Let's get back to the main topic.",
+    "pronunciation": "/bæk tuː/"
+  },
+  {
+    "id": 197,
+    "word": "counter to",
+    "translation": "aksine, tersine",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "This decision runs counter to our strategy.",
+    "pronunciation": "/ˈkaʊntər tuː/"
+  },
+  {
+    "id": 198,
+    "word": "in point of",
+    "translation": "bakımından, açısından",
+    "level": "C1",
+    "type": "complex",
+    "example_sentence": "In point of fact, she was right all along.",
+    "pronunciation": "/ɪn pɔɪnt əv/"
+  },
+  {
+    "id": 199,
+    "word": "native to",
+    "translation": "-e özgü olmak, -e has olmak, yerlisi olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The kangaroo is native to Australia.",
+    "pronunciation": "/ˈneɪtɪv tuː/"
+  },
+  {
+    "id": 200,
+    "word": "related to / with",
+    "translation": "-ile ilişkili, -ile alakalı olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "These two problems are closely related to each other.",
+    "pronunciation": "/rɪˈleɪtɪd tuː/"
+  },
+  {
+    "id": 201,
+    "word": "connect with",
+    "translation": "-ile bağlantı kurmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "It is hard to connect with people online.",
+    "pronunciation": "/kəˈnekt wɪð/"
+  },
+  {
+    "id": 202,
+    "word": "connection between",
+    "translation": "-arasında bağlantı (isim)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "There is a clear connection between diet and health.",
+    "pronunciation": "/kəˈnekʃən bɪˈtwiːn/"
+  },
+  {
+    "id": 203,
+    "word": "lead to",
+    "translation": "-e yol açmak, -e sebep olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Poor diet can lead to serious health problems.",
+    "pronunciation": "/liːd tuː/"
+  },
+  {
+    "id": 204,
+    "word": "get rid of",
+    "translation": "-den kurtulmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "I need to get rid of these old books.",
+    "pronunciation": "/ɡet rɪd əv/"
+  },
+  {
+    "id": 205,
+    "word": "effect on / upon",
+    "translation": "-üzerindeki etki",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Stress has a negative effect on your health.",
+    "pronunciation": "/ɪˈfekt ɒn/"
+  },
+  {
+    "id": 206,
+    "word": "take into consideration",
+    "translation": "göz önüne almak, dikkate almak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "We must take all the risks into consideration.",
+    "pronunciation": "/teɪk ˈɪntə kənsɪdəˈreɪʃən/"
+  },
+  {
+    "id": 207,
+    "word": "put into effect",
+    "translation": "uygulamaya koymak, yürürlüğe sokmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The new policy was put into effect immediately.",
+    "pronunciation": "/pʊt ˈɪntə ɪˈfekt/"
+  },
+  {
+    "id": 208,
+    "word": "result in",
+    "translation": "-ile sonuçlanmak, -e sebep olmak (sonuca odaklanır)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The accident resulted in three injuries.",
+    "pronunciation": "/rɪˈzʌlt ɪn/"
+  },
+  {
+    "id": 209,
+    "word": "result from",
+    "translation": "-den kaynaklanmak (sebebe odaklanır)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The fire resulted from a faulty wire.",
+    "pronunciation": "/rɪˈzʌlt frɒm/"
+  },
+  {
+    "id": 210,
+    "word": "worry about",
+    "translation": "...konusunda endişeli olmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "Don't worry about things you cannot control.",
+    "pronunciation": "/ˈwʌri əˈbaʊt/"
+  },
+  {
+    "id": 211,
+    "word": "increase / advance in",
+    "translation": "-da artış, ilerleme",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "There has been a significant increase in prices.",
+    "pronunciation": "/ˈɪŋkriːs ɪn/"
+  },
+  {
+    "id": 212,
+    "word": "contribute to",
+    "translation": "-e katkı sağlamak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Everyone can contribute to a better environment.",
+    "pronunciation": "/kənˈtrɪbjuːt tuː/"
+  },
+  {
+    "id": 213,
+    "word": "attribute to",
+    "translation": "-e atfetmek",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Her success was attributed to hard work.",
+    "pronunciation": "/əˈtrɪbjuːt tuː/"
+  },
+  {
+    "id": 214,
+    "word": "divide into",
+    "translation": "-e bölmek, ayırmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "The teacher divided the class into four groups.",
+    "pronunciation": "/dɪˈvaɪd ˈɪntə/"
+  },
+  {
+    "id": 215,
+    "word": "based on / upon",
+    "translation": "-e dayanmak, -e göre",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The film is based on a true story.",
+    "pronunciation": "/beɪst ɒn/"
+  },
+  {
+    "id": 216,
+    "word": "expose to",
+    "translation": "-e maruz kalmak / bırakmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Children should not be exposed to violent content.",
+    "pronunciation": "/ɪkˈspoʊz tuː/"
+  },
+  {
+    "id": 217,
+    "word": "confined to",
+    "translation": "-ile sınırlı olmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The damage was confined to the east wing of the building.",
+    "pronunciation": "/kənˈfaɪnd tuː/"
+  },
+  {
+    "id": 218,
+    "word": "lack of",
+    "translation": "-den yoksun olmak (isim hali)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "A lack of sleep affects your concentration.",
+    "pronunciation": "/læk əv/"
+  },
+  {
+    "id": 219,
+    "word": "capable of",
+    "translation": "-ebilme yeteneğine sahip olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She is capable of solving complex problems.",
+    "pronunciation": "/ˈkeɪpəbl əv/"
+  },
+  {
+    "id": 220,
+    "word": "hear about / of",
+    "translation": "hakkında bir şeyler duymak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "Have you heard about the new restaurant downtown?",
+    "pronunciation": "/hɪər əˈbaʊt/"
+  },
+  {
+    "id": 221,
+    "word": "emphasis on",
+    "translation": "-e vurgu, önem (isim hali)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The report puts great emphasis on safety.",
+    "pronunciation": "/ˈemfəsɪs ɒn/"
+  },
+  {
+    "id": 222,
+    "word": "blame for",
+    "translation": "...için suçlamak (birini bir şey için)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She blamed him for the mistake.",
+    "pronunciation": "/bleɪm fɔːr/"
+  },
+  {
+    "id": 223,
+    "word": "put the blame on",
+    "translation": "suçu birine atmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "He put the blame on his colleague.",
+    "pronunciation": "/pʊt ðə bleɪm ɒn/"
+  },
+  {
+    "id": 224,
+    "word": "susceptible to",
+    "translation": "-e hassas, -e duyarlı",
+    "level": "C1",
+    "type": "collocation",
+    "example_sentence": "Elderly people are more susceptible to infections.",
+    "pronunciation": "/səˈseptɪbl tuː/"
+  },
+  {
+    "id": 225,
+    "word": "prone to",
+    "translation": "-e yatkın, meyilli",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "He is prone to making impulsive decisions.",
+    "pronunciation": "/proʊn tuː/"
+  },
+  {
+    "id": 226,
+    "word": "different from",
+    "translation": "-den farklı olmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "This version is very different from the original.",
+    "pronunciation": "/ˈdɪfrənt frɒm/"
+  },
+  {
+    "id": 227,
+    "word": "check for",
+    "translation": "...için kontrol etmek",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "Always check for spelling errors before submitting.",
+    "pronunciation": "/tʃek fɔːr/"
+  },
+  {
+    "id": 228,
+    "word": "respond to",
+    "translation": "-e tepki / cevap vermek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Please respond to the email as soon as possible.",
+    "pronunciation": "/rɪˈspɒnd tuː/"
+  },
+  {
+    "id": 229,
+    "word": "associated with",
+    "translation": "ile ilişkili, bağlantılı",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Smoking is associated with several diseases.",
+    "pronunciation": "/əˈsoʊsieɪtɪd wɪð/"
+  },
+  {
+    "id": 230,
+    "word": "second to",
+    "translation": "-nın ardından gelmek (second to none: rakipsiz)",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Her cooking is second to none.",
+    "pronunciation": "/ˈsekənd tuː/"
+  },
+  {
+    "id": 231,
+    "word": "coincide with",
+    "translation": "rastlaşmak, örtüşmek",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The conference coincides with the national holiday.",
+    "pronunciation": "/ˌkoʊɪnˈsaɪd wɪð/"
+  },
+  {
+    "id": 232,
+    "word": "be made up of",
+    "translation": "-den oluşmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The committee is made up of twelve members.",
+    "pronunciation": "/biː meɪd ʌp əv/"
+  },
+  {
+    "id": 233,
+    "word": "make up for",
+    "translation": "telafi etmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "He worked overtime to make up for lost time.",
+    "pronunciation": "/meɪk ʌp fɔːr/"
+  },
+  {
+    "id": 234,
+    "word": "compared to / with",
+    "translation": "ile karşılaştırıldığında",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Prices are lower compared to last year.",
+    "pronunciation": "/kəmˈpeərd tuː/"
+  },
+  {
+    "id": 235,
+    "word": "remind of",
+    "translation": "hatırlatmak (birini / bir şeyi anımsatmak)",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "This song reminds me of my childhood.",
+    "pronunciation": "/rɪˈmaɪnd əv/"
+  },
+  {
+    "id": 236,
+    "word": "pleased with",
+    "translation": "-den memnun olmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "She was very pleased with the results.",
+    "pronunciation": "/pliːzd wɪð/"
+  },
+  {
+    "id": 237,
+    "word": "refer to",
+    "translation": "-e işaret etmek, değinmek, başvurmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The author refers to several historical events.",
+    "pronunciation": "/rɪˈfɜːr tuː/"
+  },
+  {
+    "id": 238,
+    "word": "tend to",
+    "translation": "-e meyilli olmak, genellikle yapmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She tends to arrive early for meetings.",
+    "pronunciation": "/tend tuː/"
+  },
+  {
+    "id": 239,
+    "word": "vulnerable to",
+    "translation": "-e karşı savunmasız olmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Young children are vulnerable to online dangers.",
+    "pronunciation": "/ˈvʌlnərəbl tuː/"
+  },
+  {
+    "id": 240,
+    "word": "accuse of",
+    "translation": "...ile suçlamak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "He was accused of stealing from the company.",
+    "pronunciation": "/əˈkjuːz əv/"
+  },
+  {
+    "id": 241,
+    "word": "die of / from",
+    "translation": "-den ölmek (hastalık için of, dış etken için from)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "He died of cancer at the age of sixty.",
+    "pronunciation": "/daɪ əv/"
+  },
+  {
+    "id": 242,
+    "word": "revolve around",
+    "translation": "-nın etrafında dönmek, -e odaklanmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The whole discussion revolved around one issue.",
+    "pronunciation": "/rɪˈvɒlv əˈraʊnd/"
+  },
+  {
+    "id": 243,
+    "word": "distinction between",
+    "translation": "arasındaki fark, ayrım",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "There is a clear distinction between the two concepts.",
+    "pronunciation": "/dɪˈstɪŋkʃən bɪˈtwiːn/"
+  },
+  {
+    "id": 244,
+    "word": "equipped with",
+    "translation": "ile donanımlı olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The lab is equipped with modern technology.",
+    "pronunciation": "/ɪˈkwɪpt wɪð/"
+  },
+  {
+    "id": 245,
+    "word": "go on strike",
+    "translation": "greve gitmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Workers threatened to go on strike over low wages.",
+    "pronunciation": "/ɡoʊ ɒn straɪk/"
+  },
+  {
+    "id": 246,
+    "word": "take advantage of",
+    "translation": "-den faydalanmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Take advantage of the early-bird discount.",
+    "pronunciation": "/teɪk ədˈvɑːntɪdʒ əv/"
+  },
+  {
+    "id": 247,
+    "word": "vital / crucial to / for",
+    "translation": "için hayati öneme sahip, kritik",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Exercise is vital to a healthy lifestyle.",
+    "pronunciation": "/ˈvaɪtl tuː/"
+  },
+  {
+    "id": 248,
+    "word": "involved in",
+    "translation": "-e dahil olmak, -ile ilgili olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She is involved in several charity projects.",
+    "pronunciation": "/ɪnˈvɒlvd ɪn/"
+  },
+  {
+    "id": 249,
+    "word": "agree with / on",
+    "translation": "ile (kişi) / ...konusunda (fikir) hemfikir olmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "I agree with you on this point.",
+    "pronunciation": "/əˈɡriː wɪð/"
+  },
+  {
+    "id": 250,
+    "word": "focus / concentrate on",
+    "translation": "odaklanmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "Try to focus on one task at a time.",
+    "pronunciation": "/ˈfoʊkəs ɒn/"
+  },
+  {
+    "id": 251,
+    "word": "deal with",
+    "translation": "ele almak, ilgilenmek, başa çıkmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She knows how to deal with difficult situations.",
+    "pronunciation": "/diːl wɪð/"
+  },
+  {
+    "id": 252,
+    "word": "familiar with",
+    "translation": "aşina olmak, bilmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Are you familiar with this software?",
+    "pronunciation": "/fəˈmɪliər wɪð/"
+  },
+  {
+    "id": 253,
+    "word": "emerge from",
+    "translation": "-den ortaya çıkmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "A new leader emerged from the crisis.",
+    "pronunciation": "/ɪˈmɜːrdʒ frɒm/"
+  },
+  {
+    "id": 254,
+    "word": "submerge in / into",
+    "translation": "-ya batmak, gömülmek",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The diver submerged into the deep water.",
+    "pronunciation": "/səbˈmɜːrdʒ ɪn/"
+  },
+  {
+    "id": 255,
+    "word": "concerned about / over",
+    "translation": "...konusunda endişeli olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "I am very concerned about climate change.",
+    "pronunciation": "/kənˈsɜːrnd əˈbaʊt/"
+  },
+  {
+    "id": 256,
+    "word": "aware of",
+    "translation": "-nın farkında olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Are you aware of the risks involved?",
+    "pronunciation": "/əˈweər əv/"
+  },
+  {
+    "id": 257,
+    "word": "depend on / upon",
+    "translation": "bağlı olmak, -e bağlı olmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "Success depends on hard work and determination.",
+    "pronunciation": "/dɪˈpend ɒn/"
+  },
+  {
+    "id": 258,
+    "word": "suffer from",
+    "translation": "-den muzdarip olmak, acı çekmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She has suffered from migraines for years.",
+    "pronunciation": "/ˈsʌfər frɒm/"
+  },
+  {
+    "id": 259,
+    "word": "rely on",
+    "translation": "dayanmak, güvenmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "You can always rely on her to keep a secret.",
+    "pronunciation": "/rɪˈlaɪ ɒn/"
+  },
+  {
+    "id": 260,
+    "word": "insist on",
+    "translation": "ısrar etmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "He insisted on paying for dinner.",
+    "pronunciation": "/ɪnˈsɪst ɒn/"
+  },
+  {
+    "id": 261,
+    "word": "persist in",
+    "translation": "azmetmek, sebat etmek",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "She persisted in her efforts despite the setbacks.",
+    "pronunciation": "/pəˈsɪst ɪn/"
+  },
+  {
+    "id": 262,
+    "word": "typical of",
+    "translation": "-den beklenen şey, tipik bir örneği",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "This kind of weather is typical of autumn.",
+    "pronunciation": "/ˈtɪpɪkl əv/"
+  },
+  {
+    "id": 263,
+    "word": "figure out",
+    "translation": "anlamak, çözmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Can you figure out how this machine works?",
+    "pronunciation": "/ˈfɪɡər aʊt/"
+  },
+  {
+    "id": 264,
+    "word": "provide with",
+    "translation": "birine bir şey sağlamak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The company provides employees with health insurance.",
+    "pronunciation": "/prəˈvaɪd wɪð/"
+  },
+  {
+    "id": 265,
+    "word": "fed up with",
+    "translation": "bıkmak, usanmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "I am fed up with the constant delays.",
+    "pronunciation": "/fed ʌp wɪð/"
+  },
+  {
+    "id": 266,
+    "word": "adapt to",
+    "translation": "adapte olmak, uyum sağlamak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "It takes time to adapt to a new environment.",
+    "pronunciation": "/əˈdæpt tuː/"
+  },
+  {
+    "id": 267,
+    "word": "prevent from",
+    "translation": "-den alıkoymak, engellemek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The rain prevented us from going outside.",
+    "pronunciation": "/prɪˈvent frɒm/"
+  },
+  {
+    "id": 268,
+    "word": "on the verge of",
+    "translation": "-nın eşiğinde",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The company is on the verge of bankruptcy.",
+    "pronunciation": "/ɒn ðə vɜːrdʒ əv/"
+  },
+  {
+    "id": 269,
+    "word": "on the brink of",
+    "translation": "-nın eşiğinde (genellikle kriz için)",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The world was on the brink of war.",
+    "pronunciation": "/ɒn ðə brɪŋk əv/"
+  },
+  {
+    "id": 270,
+    "word": "in danger of",
+    "translation": "...tehlikesi altında",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Many species are in danger of extinction.",
+    "pronunciation": "/ɪn ˈdeɪndʒər əv/"
+  },
+  {
+    "id": 271,
+    "word": "at all costs",
+    "translation": "her ne pahasına olursa olsun",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "We must succeed at all costs.",
+    "pronunciation": "/æt ɔːl kɒsts/"
+  },
+  {
+    "id": 272,
+    "word": "at a loss",
+    "translation": "zararına, ne yapacağını bilmez hâlde",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "I am at a loss for words.",
+    "pronunciation": "/æt ə lɒs/"
+  },
+  {
+    "id": 273,
+    "word": "in agreement with",
+    "translation": "ile aynı fikirde, uygun",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The committee is in agreement with the proposal.",
+    "pronunciation": "/ɪn əˈɡriːmənt wɪð/"
+  },
+  {
+    "id": 274,
+    "word": "by mistake",
+    "translation": "yanlışlıkla, kazara",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "I sent the email to the wrong person by mistake.",
+    "pronunciation": "/baɪ mɪˈsteɪk/"
+  },
+  {
+    "id": 275,
+    "word": "at length",
+    "translation": "ayrıntılı olarak, uzun uzadıya",
+    "level": "C1",
+    "type": "collocation",
+    "example_sentence": "The professor discussed the topic at length.",
+    "pronunciation": "/æt leŋθ/"
+  },
+  {
+    "id": 276,
+    "word": "at ease",
+    "translation": "huzurlu, rahat",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She felt at ease in the new environment.",
+    "pronunciation": "/æt iːz/"
+  },
+  {
+    "id": 277,
+    "word": "at any rate",
+    "translation": "her halükarda, en azından",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "At any rate, we should try our best.",
+    "pronunciation": "/æt ˈeni reɪt/"
+  },
+  {
+    "id": 278,
+    "word": "in memory of",
+    "translation": "-nın anısına",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "A statue was built in memory of the fallen soldiers.",
+    "pronunciation": "/ɪn ˈmeməri əv/"
+  },
+  {
+    "id": 279,
+    "word": "on the way to",
+    "translation": "-nın yolunda, -e doğru giderken",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "She stopped at a café on the way to work.",
+    "pronunciation": "/ɒn ðə weɪ tuː/"
+  },
+  {
+    "id": 280,
+    "word": "under threat",
+    "translation": "tehdit altında",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The forest is under threat from illegal logging.",
+    "pronunciation": "/ˈʌndər θret/"
+  },
+  {
+    "id": 281,
+    "word": "across / around the world",
+    "translation": "dünya çapında",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "The news spread across the world within hours.",
+    "pronunciation": "/əˈkrɒs ðə wɜːrld/"
+  },
+  {
+    "id": 282,
+    "word": "at / under risk",
+    "translation": "risk altında",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Thousands of jobs are at risk due to automation.",
+    "pronunciation": "/æt rɪsk/"
+  },
+  {
+    "id": 283,
+    "word": "in sight",
+    "translation": "görünürde, görünür mesafede",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "After weeks of hiking, the summit was finally in sight.",
+    "pronunciation": "/ɪn saɪt/"
+  },
+  {
+    "id": 284,
+    "word": "by accident",
+    "translation": "kazara, tesadüfen",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "I found the letter by accident while cleaning.",
+    "pronunciation": "/baɪ ˈæksɪdənt/"
+  },
+  {
+    "id": 285,
+    "word": "in / under control",
+    "translation": "kontrol altında",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "The situation is now fully under control.",
+    "pronunciation": "/ɪn kənˈtroʊl/"
+  },
+  {
+    "id": 286,
+    "word": "under the circumstances",
+    "translation": "mevcut şartlar altında",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Under the circumstances, it was the best decision.",
+    "pronunciation": "/ˈʌndər ðə ˈsɜːrkəmstænsɪz/"
+  },
+  {
+    "id": 287,
+    "word": "in total",
+    "translation": "toplamda, toplam olarak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "There were fifty guests in total at the wedding.",
+    "pronunciation": "/ɪn ˈtoʊtl/"
+  },
+  {
+    "id": 288,
+    "word": "out of order",
+    "translation": "bozuk, arızalı",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "The elevator is out of order today.",
+    "pronunciation": "/aʊt əv ˈɔːrdər/"
+  },
+  {
+    "id": 289,
+    "word": "in association with",
+    "translation": "ile ilişkili olarak, ile ortaklık içinde",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The event was organized in association with the local council.",
+    "pronunciation": "/ɪn əˌsoʊsiˈeɪʃən wɪð/"
+  },
+  {
+    "id": 290,
+    "word": "under pressure",
+    "translation": "baskı altında",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "He works well even under pressure.",
+    "pronunciation": "/ˈʌndər ˈpreʃər/"
+  },
+  {
+    "id": 291,
+    "word": "be of",
+    "translation": "sahip olmak (It is of great importance.)",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "This discovery is of great significance to science.",
+    "pronunciation": "/biː əv/"
+  },
+  {
+    "id": 292,
+    "word": "for fear of",
+    "translation": "...korkusuyla",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "She didn't speak up for fear of making mistakes.",
+    "pronunciation": "/fɔːr fɪər əv/"
+  },
+  {
+    "id": 293,
+    "word": "at / by the end of",
+    "translation": "-nın sonunda / sonuna doğru",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "By the end of the year, the project will be complete.",
+    "pronunciation": "/æt ðə end əv/"
+  },
+  {
+    "id": 294,
+    "word": "in the end",
+    "translation": "sonunda, nihayet",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "In the end, everything worked out fine.",
+    "pronunciation": "/ɪn ðə end/"
+  },
+  {
+    "id": 295,
+    "word": "on foot",
+    "translation": "yürüyerek",
+    "level": "A1",
+    "type": "collocation",
+    "example_sentence": "We explored the city on foot.",
+    "pronunciation": "/ɒn fʊt/"
+  },
+  {
+    "id": 296,
+    "word": "at a rate / level",
+    "translation": "bir hızda / seviyede",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Prices are rising at an alarming rate.",
+    "pronunciation": "/æt ə reɪt/"
+  },
+  {
+    "id": 297,
+    "word": "at least / most",
+    "translation": "en az / en çok",
+    "level": "A1",
+    "type": "collocation",
+    "example_sentence": "You should drink at least eight glasses of water a day.",
+    "pronunciation": "/æt liːst/"
+  },
+  {
+    "id": 298,
+    "word": "at a distance",
+    "translation": "uzakta, belli mesafede",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She watched the parade from a distance.",
+    "pronunciation": "/æt ə ˈdɪstəns/"
+  },
+  {
+    "id": 299,
+    "word": "out of breath",
+    "translation": "nefessiz kalmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "He arrived out of breath after running up the stairs.",
+    "pronunciation": "/aʊt əv breθ/"
+  },
+  {
+    "id": 300,
+    "word": "to a great extent",
+    "translation": "büyük ölçüde, büyük oranda",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The project's success depends to a great extent on teamwork.",
+    "pronunciation": "/tuː ə ɡreɪt ɪkˈstent/"
+  },
+  {
+    "id": 301,
+    "word": "on a large scale",
+    "translation": "büyük ölçekte, geniş çapta",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Renewable energy needs to be adopted on a large scale.",
+    "pronunciation": "/ɒn ə lɑːrdʒ skeɪl/"
+  },
+  {
+    "id": 302,
+    "word": "in the form of",
+    "translation": "...şeklinde, formunda",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Aid was sent in the form of food and medicine.",
+    "pronunciation": "/ɪn ðə fɔːrm əv/"
+  },
+  {
+    "id": 303,
+    "word": "in common",
+    "translation": "ortak, benzer",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "We have a lot in common with each other.",
+    "pronunciation": "/ɪn ˈkɒmən/"
+  },
+  {
+    "id": 304,
+    "word": "on average",
+    "translation": "ortalama olarak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "On average, people spend three hours a day on their phones.",
+    "pronunciation": "/ɒn ˈævərɪdʒ/"
+  },
+  {
+    "id": 305,
+    "word": "on holiday",
+    "translation": "tatilde",
+    "level": "A1",
+    "type": "collocation",
+    "example_sentence": "We are going on holiday to Greece next month.",
+    "pronunciation": "/ɒn ˈhɒlɪdeɪ/"
+  },
+  {
+    "id": 306,
+    "word": "from now on",
+    "translation": "şu andan itibaren",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "From now on, I will wake up earlier.",
+    "pronunciation": "/frɒm naʊ ɒn/"
+  },
+  {
+    "id": 307,
+    "word": "in depth",
+    "translation": "detaylı olarak, derinlemesine",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The report examines the issue in depth.",
+    "pronunciation": "/ɪn depθ/"
+  },
+  {
+    "id": 308,
+    "word": "full of",
+    "translation": "ile dolu",
+    "level": "A1",
+    "type": "collocation",
+    "example_sentence": "The room was full of excited children.",
+    "pronunciation": "/fʊl əv/"
+  },
+  {
+    "id": 309,
+    "word": "supply with",
+    "translation": "birine bir şey tedarik etmek, sağlamak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The factory supplies the market with fresh produce.",
+    "pronunciation": "/səˈplaɪ wɪð/"
+  },
+  {
+    "id": 310,
+    "word": "satisfied with",
+    "translation": "-den tatmin olmak, memnun olmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Are you satisfied with the service?",
+    "pronunciation": "/ˈsætɪsfaɪd wɪð/"
+  },
+  {
+    "id": 311,
+    "word": "approve of",
+    "translation": "onaylamak, tasvip etmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Her parents did not approve of her decision.",
+    "pronunciation": "/əˈpruːv əv/"
+  },
+  {
+    "id": 312,
+    "word": "borrow from",
+    "translation": "-den ödünç almak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "Can I borrow a pen from you?",
+    "pronunciation": "/ˈbɒroʊ frɒm/"
+  },
+  {
+    "id": 313,
+    "word": "lend to",
+    "translation": "-e ödünç vermek",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "She lent her notes to her classmate.",
+    "pronunciation": "/lend tuː/"
+  },
+  {
+    "id": 314,
+    "word": "cope with",
+    "translation": "baş etmek, başa çıkmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "It is hard to cope with so much stress.",
+    "pronunciation": "/koʊp wɪð/"
+  },
+  {
+    "id": 315,
+    "word": "correspond with / to",
+    "translation": "yazışmak / uyuşmak, karşılık gelmek",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Her account corresponds with the witness statement.",
+    "pronunciation": "/ˌkɒrəˈspɒnd wɪð/"
+  },
+  {
+    "id": 316,
+    "word": "dedicate to",
+    "translation": "adamak, -e ithaf etmek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "He dedicated his life to helping others.",
+    "pronunciation": "/ˈdedɪkeɪt tuː/"
+  },
+  {
+    "id": 317,
+    "word": "get married to",
+    "translation": "evlenmek (with kullanılmaz)",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "She got married to her university sweetheart.",
+    "pronunciation": "/ɡet ˈmærid tuː/"
+  },
+  {
+    "id": 318,
+    "word": "react against / to",
+    "translation": "karşı tepki vermek / -e tepki vermek",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The public reacted strongly against the new law.",
+    "pronunciation": "/riˈækt əˈɡenst/"
+  },
+  {
+    "id": 319,
+    "word": "search for",
+    "translation": "aramak, araştırmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "Scientists are searching for a cure.",
+    "pronunciation": "/sɜːrtʃ fɔːr/"
+  },
+  {
+    "id": 320,
+    "word": "stem from",
+    "translation": "-den kaynaklanmak, -den ortaya çıkmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Many conflicts stem from misunderstandings.",
+    "pronunciation": "/stem frɒm/"
+  },
+  {
+    "id": 321,
+    "word": "believe in",
+    "translation": "inanmak, -e güvenmek",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "I believe in treating everyone with respect.",
+    "pronunciation": "/bɪˈliːv ɪn/"
+  },
+  {
+    "id": 322,
+    "word": "recover from",
+    "translation": "-den iyileşmek, toparlanmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "It took her months to recover from the surgery.",
+    "pronunciation": "/rɪˈkʌvər frɒm/"
+  },
+  {
+    "id": 323,
+    "word": "interfere with / in",
+    "translation": "ile müdahale etmek / -e karışmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "Don't interfere in matters that don't concern you.",
+    "pronunciation": "/ˌɪntəˈfɪər wɪð/"
+  },
+  {
+    "id": 324,
+    "word": "distinguish between",
+    "translation": "arasında ayrım yapmak",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "It is important to distinguish between facts and opinions.",
+    "pronunciation": "/dɪˈstɪŋɡwɪʃ bɪˈtwiːn/"
+  },
+  {
+    "id": 325,
+    "word": "collide with",
+    "translation": "ile çarpışmak",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The two cars collided with each other at the junction.",
+    "pronunciation": "/kəˈlaɪd wɪð/"
+  },
+  {
+    "id": 326,
+    "word": "complain about",
+    "translation": "hakkında şikayet etmek",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "She often complains about the noise from upstairs.",
+    "pronunciation": "/kəmˈpleɪn əˈbaʊt/"
+  },
+  {
+    "id": 327,
+    "word": "apologize for / to",
+    "translation": "...için özür dilemek / birine özür dilemek",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "He apologized to her for being late.",
+    "pronunciation": "/əˈpɒlədʒaɪz fɔːr/"
+  },
+  {
+    "id": 328,
+    "word": "belong to",
+    "translation": "ait olmak",
+    "level": "A2",
+    "type": "collocation",
+    "example_sentence": "This jacket belongs to my brother.",
+    "pronunciation": "/bɪˈlɒŋ tuː/"
+  },
+  {
+    "id": 329,
+    "word": "care for / about",
+    "translation": "bakmak / ilgilenmek, önemsemek",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "She cares deeply about the welfare of animals.",
+    "pronunciation": "/keər fɔːr/"
+  },
+  {
+    "id": 330,
+    "word": "appeal to",
+    "translation": "-e hitap etmek, çekici gelmek",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "The new design appeals to younger audiences.",
+    "pronunciation": "/əˈpiːl tuː/"
+  },
+  {
+    "id": 331,
+    "word": "impact on / upon",
+    "translation": "-üzerindeki etki (isim veya fiil)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Social media has a huge impact on young people.",
+    "pronunciation": "/ˈɪmpækt ɒn/"
+  },
+  {
+    "id": 332,
+    "word": "in / with regard to",
+    "translation": "ile ilgili olarak, bakımından",
+    "level": "B2",
+    "type": "collocation",
+    "example_sentence": "In regard to your application, we need more documents.",
+    "pronunciation": "/ɪn rɪˈɡɑːrd tuː/"
+  },
+  {
+    "id": 333,
+    "word": "make up of",
+    "translation": "-den oluşmak (be made up of)",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "Water is made up of hydrogen and oxygen.",
+    "pronunciation": "/meɪk ʌp əv/"
+  },
+  {
+    "id": 334,
+    "word": "in a variety of",
+    "translation": "birçok şekilde, çeşitli türlerde",
+    "level": "B1",
+    "type": "collocation",
+    "example_sentence": "The product is available in a variety of colours.",
+    "pronunciation": "/ɪn ə vəˈraɪəti əv/"
+  }
+]
