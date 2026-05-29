@@ -50,20 +50,20 @@ The application focuses on an intelligent feedback loop that optimizes how langu
 
 <img width="350" alt="Quiz" src="https://github.com/user-attachments/assets/a41ce836-01cb-458a-b243-a6469bbbd130" />
 
-### 3. Notebook
-*A personalized space where users can store, review, and track their flagged vocabulary and custom study notes.*
-
-<img width="350" alt="Notebook" src="https://github.com/user-attachments/assets/d928f204-9a20-40d4-b12c-f5c60d8e4d10" />
-
-### 4. News Feed
+### 3. News Feed
 *A dynamic media module compiling real-world articles to enhance reading comprehension and contextual vocabulary learning.*
 
 <img width="350" alt="News" src="https://github.com/user-attachments/assets/942518a5-3591-4c5b-b676-f562437f1181" />
 
-### 5. Gramer
+### 4. Gramer
 *Structured academic track offering systematic insights, syntax patterns, and grammar breakdowns for deep linguistic understanding.*
 
 <img width="350" alt="Grammer" src="https://github.com/user-attachments/assets/b1a838a6-8ab2-451f-9586-71cf1b806973" />
+
+### 5. Notebook
+*A personalized space where users can store, review, and track their flagged vocabulary and custom study notes.*
+
+<img width="350" alt="Notebook" src="https://github.com/user-attachments/assets/d928f204-9a20-40d4-b12c-f5c60d8e4d10" />
 
 ### 6. Dictionary
 *The core comprehensive dictionary module providing fast, localized definitions and contextual usage examples.*
@@ -85,8 +85,7 @@ The application focuses on an intelligent feedback loop that optimizes how langu
 
 <img width="350" alt="Phrasal Verbs Dictionary" src="https://github.com/user-attachments/assets/265a8825-5866-47f3-9288-474353e05176" />
 
-### 10<img width="1049" height="2048" alt="Grammer" src="https://github.com/user-attachments/assets/be5ca636-914a-4ecc-8b6c-c06f4fab812a" />
-. AI Performance Analytics & Feedback
+### 10. AI Performance Analytics & Feedback
 *Detailed performance breakdown showing calculated coefficients, learning recommendations, and dynamic regression feedback.*
 
 <img width="350" alt="Performance" src="https://github.com/user-attachments/assets/2566c490-e53e-4fac-b05c-d83fe2d54cf7" />
@@ -120,20 +119,20 @@ Or if you use yarn:
 ```yarn install```
 
 ### 3. Configure iOS (Optional - If running on a Mac for iOS testing)
-```
-cd ios
-pod install
-cd ..
+```bash
+cd ios && pod install && cd ..
 ```
 
-### 4. Run the Program
-Make sure you have an Android Emulator, iOS Simulator, or a physical device connected.
-For Android:
+### 4. Run on Android Emulator / Device
+
 ```npx react-native run-android```
-For iOS:
+
+### 5. Run on iOS Simulator / Device
+
 ```npx react-native run-ios```
 
 ---
+
 
 ## 👨‍💻 Developer
 
